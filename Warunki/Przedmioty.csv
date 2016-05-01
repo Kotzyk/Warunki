@@ -1,0 +1,1760 @@
+1;1;1;1;"Geometria wykreœlna
+Geometria wykreœlna
+Geometria wykreœlna
+Geometria wykreœlna";28;2
+1;1;1;2;"Chemia budowlana";56;6
+1;1;1;3;"Fizyka";56;6
+1;1;1;4;"Matematyka";84;9
+1;1;1;5;"Mechanika Teoretyczna";56;3
+1;1;1;6;"Technologie Informacyfne";28;2
+1;1;1;7;"Geologia";56;2
+1;1;1;8;"Mineralogia i petrografia";56;2
+1;1;1;9;"Podstawy informatyki";28;2
+1;1;2;1;"Grafika in¿ynierska i rysunek techniczny";42;3
+1;1;2;2;"Materia³y Budowlane";56;3
+1;1;2;3;"Budownictwo ogólne";42;2
+1;1;2;4;"Wytrzyma³oœæ materia³ów";56;3
+1;1;2;5;"Prawo Budowlane";14;1
+1;1;2;6;"Ochrona w³asnoœci intelektualnej";14;1
+1;1;2;7;"Matematyka";56;6
+1;1;2;8;"Fizyka";28;3
+1;1;2;9;"Mechanika teoretyczna";28;4
+1;1;2;10;"Postawy Ekonomii";28;2
+1;1;2;11;"Od górnictwa do geotechniki";28;2
+1;1;2;12;"Wszechœwiat - pocz¹tek, ewolucja, cz³owiek";28;2
+1;1;2;13;"Nurkowanie- historia i podbój g³êbin a eksploatacja podwodna";28;2
+1;1;2;14;"Jêzyk polski w technice";28;2
+1;1;3;1;"Technologia betonu";28;3
+1;1;3;2;"Budownictwo ogólne";56;6
+1;1;3;3;"Wytrzyma³oœæ materia³ów";42;6
+1;1;3;4;"Hydraulika i hydrologia";28;3
+1;1;3;5;"Podstawy architektury i urbanistyki";28;2
+1;1;3;6;"Fizyka ska³ i gruntów";42;4
+1;1;3;7;"Geodezja";56;4
+1;1;3;8;"Pomiary geodezyjne w budownictwie";56;4
+1;1;3;9;"Ochrona œrodowiska";28;2
+1;1;3;10;"Wp³yw budownictwa na œrodowisko";28;2
+1;1;4;1;"Fizyka budowli";28;3
+1;1;4;2;"Mechanika gruntów";56;5
+1;1;4;3;"Metody obliczeniowe";42;3
+1;1;4;4;"Praktyki - 4 tygodnie";0;4
+1;1;4;5;"Budownictwo komunikacyjne";42;4
+1;1;4;6;"Podstawy budownictwa drogowego i mostowego";42;4
+1;1;4;7;"Budownictwo przemys³owe";56;4
+1;1;4;8;"Technologia produkcji prefabrykacji";56;4
+1;1;4;9;"Maszyny budowlane i górnicze";28;2
+1;1;4;10;"Mechanizacja w budownictwie i górnictwie";28;2
+1;1;4;11;"Mechanika budowli";56;5
+1;1;4;12;"Statyka i dynamika konstrukcji budowlanych";56;5
+1;1;5;1;"Instalacje budowlane";42;2
+1;1;5;2;"Fundamentowanie";42;5
+1;1;5;3;"Technologia robót budowlanych";56;5
+1;1;5;4;"Ekonomika budownictwa";28;2
+1;1;5;5;"Rachunkowoœæ zarz¹dcza w budownictwie";28;2
+1;1;5;6;"Geomechanika";28;2
+1;1;5;7;"Mechanika górotworu";28;2
+1;1;5;8;"Konstrukcje betonowe";56;5
+1;1;5;9;"Monolityczne konstrukcje budowlane";56;5
+1;1;5;10;"Konstrukcje metalowe";56;5
+1;1;5;11;"Stalowe konstrukcje budowlane";56;5
+1;1;5;12;"Mechanika budowli";42;4
+1;1;5;13;"Statyka i dynamika konstrukcji budowlanych";42;4
+1;1;6;1;"Æwiczenia terenowe (praktyka geotechniczna)";28;1
+1;1;6;2;"Organizacja produkcji budowlanej";42;3
+1;1;6;3;"Kierowanie procesem inwestycyjnym";28;2
+1;1;6;4;"Instalacje budowlane";28;2
+1;1;6;5;"Podstawy BIM";42;2
+1;1;6;6;"BIOZ i ergonomia";28;2
+1;1;6;7;"Praktyki - 1+3 tygodnie po VI semestrze";0;3
+1;1;6;8;"Budownictwo ziemne";42;2
+1;1;6;9;"Projektowanie i wykonawstwo konstrukcji ziemnych";42;2
+1;1;6;10;"Konstrukcje betonowe";56;4
+1;1;6;11;"Monolityczne konstrukcje budowlane";56;4
+1;1;6;12;"Konstrukcje metalowe";56;4
+1;1;6;13;"Stalowe konstrukcje budowlane";56;4
+1;1;7;2;"Projekt dyplomowy in¿ynierski";0;15
+1;1;7;3;"Budownictwo podziemne";28;2
+1;1;7;4;"Projektowanie i wykonawstwo konstrukcji podziemnych";28;2
+1;1;7;5;"Applied Geomechanics";28;3
+1;1;7;6;"Mining & Economy";28;3
+1;1;7;7;"Górnictwo i œrodowisko";28;3
+1;1;7;8;"Mining and reclamation";28;3
+1;1;7;9;"Introduction to Rock Mechanics";28;3
+1;1;7;10;"Mine Water and Environment";28;3
+1;1;7;11;"Hydraulics of Water Wells";28;3
+1;1;7;12;"Material engineering In underground and geotechnical construction";28;3
+1;1;7;13;"Bezpieczeñstwo i niezawodnoœæ konstrukcji budowlanych";28;4
+1;1;7;14;"Podstawy projektowania architektonicznego";28;4
+1;1;7;15;"Ocena energetyczna budynków";28;4
+1;1;7;16;"Projektowanie badañ i opracowañ dokumentacji geotechnicznej";28;4
+1;1;7;17;"Bezpieczeñstwo po¿arowe konstrukcji budowlanych";28;4
+1;2;1;1;"Technologia informacyjna";28;2
+1;2;1;2;"Elementy informatyki i systemów informatycznych";42;3
+1;2;1;3;"Programowanie i programy u¿ytkowe";42;4
+1;2;1;4;"Matematyka I";56;6
+1;2;1;5;"Zarz¹dzanie œrodowiskiem";28;3
+1;2;1;6;"Bezpieczeñstwo i higiena pracy";42;2
+1;2;1;7;"Ochrona w³asnoœci intelektualnej";14;2
+1;2;1;8;"Chemia";70;6
+1;2;1;9;"Metodyka skutecznego studiowania";28;2
+1;2;1;10;"Wiedza o nauce";28;2
+1;2;1;11;" Podstawy negocjacji";28;2
+1;2;2;1;"Fizyka I";56;6
+1;2;2;2;"Elektrotechnika i elektronika";42;3
+1;2;2;3;"Podstawy konstrukcji i eksploatacji maszyn";56;3
+1;2;2;4;"Metalurgia ogólna";28;3
+1;2;2;5;"Mechanika techniczna";42;3
+1;2;2;6;"Matematyka II";56;6
+1;2;2;7;"Psychologia";90;3
+1;2;2;8;"Historia techniki i kultury materialnej";28;3
+1;2;2;9;"Autozarz¹dzanie i rozwój";28;3
+1;2;2;10;"Etyka w technice i informatyce";28;3
+1;2;3;1;"Fizyka II";56;6
+1;2;3;2;"Materia³y in¿ynierskie";70;5
+1;2;3;3;"Wytrzyma³oœæ materia³ów";42;2
+1;2;3;4;"Sieci komputerowe i aplikacje sieciowe";42;3
+1;2;3;5;"Matematyka III";56;6
+1;2;3;6;"Praktyka psychologiczno - pedagogiczna";30;6
+1;2;3;7;"Pedagogika";60;2
+1;2;4;1;"Kszta³towanie plastyczne, obróbka ubytkowa i spajanie";70;6
+1;2;4;2;"Bazy danych";42;4
+1;2;4;3;"Techniki multimedialne";56;5
+1;2;4;4;"Materia³oznawstwo";70;6
+1;2;4;5;"Dydaktyka ogólna";30;4
+1;2;4;6;"Dydaktyka techniki I";45;5
+1;2;5;1;"In¿ynieria materia³ów metalicznych";56;5
+1;2;5;2;"Podstawy przetwórstwa materia³ów";70;5
+1;2;5;3;"Grafika in¿ynierska w systemach CAD/CAM";42;3
+1;2;5;4;"Komputerowe wspomaganie w technice, systemy CAMD";28;2
+1;2;5;5;"Sztuczna inteligencja i systemy ekspertowe";28;2
+1;2;5;6;"Ekonomia";28;1
+1;2;5;7;"Dydaktyka techniki II";45;6
+1;2;5;8;"In¿ynieria oprogramowania";42;3
+1;2;5;9;"Formy wspó³pracy i metody pozyskiwania funduszy europejskich";42;3
+1;2;5;10;"Nowoczesne techniki ³¹cznoœci";42;3
+1;2;5;11;"E-gospodarka";42;3
+1;2;5;12;"Introduction to Powder Metallurgy";42;3
+1;2;5;13;"Fundamentals of Metal Forming";42;3
+1;2;6;1;"Dydaktyka techniki i informatyki - praktyka (180 h praktyki w szkole)";14;7
+1;2;6;2;"Praktyka zawodowa in¿ynierska";0;4
+1;2;6;3;"Organizacja pracy, zarz¹dzanie i ergonomia";28;2
+1;2;6;4;"Dydaktyka informatyki";60;3
+1;2;6;5;"Algorytmy i struktury danych";42;3
+1;2;6;6;"Programowanie strukturalne";42;3
+1;2;6;7;"Statystyczna analiza danych";42;3
+1;2;6;8;"W³asnoœci mechaniczne materia³ów";42;3
+1;2;6;9;"Materia³y i projektowanie narzêdzi";42;3
+1;2;6;10;"Technologie w przetwórstwie metali";42;3
+1;2;7;1;"Przygotowanie pracy dyplomowej";0;15
+1;2;7;2;"Systemy operacyjne";42;5
+1;2;7;3;"Programowanie obiektowe";42;5
+1;2;7;4;"Metalografia";42;5
+1;2;7;5;"Stale i stopy specjalne";42;5
+1;2;7;6;"Metaloplastyka";42;5
+1;2;7;7;"Techniki dekoracyjne w metaloplastyce";42;5
+1;3;1;1;"""EAR-1-107-s	Fizyka 1""";60;7
+1;3;1;2;"Matematyka 1 (algebra liniowa)";45;6
+1;3;1;3;"Matematyka 2 (analiza matematyczna)";60;4
+1;3;1;4;"Przedmiot humanistyczny 1";30;2
+1;3;1;5;"Podstawy finansów i inwestowania w bizensie";45;3
+1;3;1;6;"Wprowadzenie do automatyki i robotyki";30;3
+1;3;1;7;"Wstêp do informatyki";45;3
+1;3;1;8;"Wiedza o nauce";30;2
+1;3;1;9;"Religie œwiata";28;5
+1;3;1;10;"Podstawy negocjacji";28;5
+1;3;2;1;"Fizyka 2";60;6
+1;3;2;2;"Matematyka 3 (analiza matematyczna+liniowe równania ró¿niczkowe)";60;7
+1;3;2;3;"Rachunek prawodopodobieñstwa";60;6
+1;3;2;4;"Informatyka 1";60;4
+1;3;2;5;"Informatyczne narzêdzia pracy grupowej";45;4
+1;3;2;6;"Zapis i podstawy konstrukcji";45;3
+1;3;3;1;"Metody Numeryczne";56;5
+1;3;3;2;"Informatyka 2";28;3
+1;3;3;3;"Modelowanie systemów dynamicznych";56;4
+1;3;3;4;"Procesy stochastyczne";42;3
+1;3;3;5;"Teoria Automatów";56;4
+1;3;3;6;"Podstawy Automatyki 1";28;2
+1;3;3;7;"Mechanika";42;3
+1;3;3;8;"Elektrotechnika z napêdami elektrycznymi 1";42;3
+1;3;3;9;"Elektronika w automatyce";28;2
+1;3;4;1;"Systemy wizyjne";56;3
+1;3;4;2;"Podstawy automatyki 2";42;4
+1;3;4;3;"Badania operacyjne";42;3
+1;3;4;4;"Elektrotechnika z napêdami elektrycznymi 2";56;6
+1;3;4;5;"Automatyka Pojazdowa";56;4
+1;3;4;6;"Aparatura automatyzacji";56;6
+1;3;4;7;"Elektronika cyfrowa i zastosowania";70;4
+1;3;4;8;"Technika mikroprocesorowa";70;4
+1;3;5;1;"Sieci komputerowe";56;3
+1;3;5;2;"Systemy pomiarowe";56;3
+1;3;5;3;"Teoria sterowania 1";56;5
+1;3;5;4;"Badania operacyjne i wspomaganie decyzji";70;5
+1;3;5;5;"Elektronika cyfrowa i zastosowania 2";28;4
+1;3;5;6;"Kinematyka i dynamika robotów";56;6
+1;3;5;7;"Metody i algorytmy optymalizacji";42;5
+1;3;5;8;"Matematyczne metody wspomagania decyzji";70;5
+1;3;5;9;"Technika mikroprocesorowa 2";28;4
+1;3;5;10;"Podstawy robotyki";56;6
+1;3;5;11;"Teoria optymalizacji";42;5
+1;3;6;1;"Symulacja i sterowanie proc.dyskretnych";56;3
+1;3;6;2;"Konstrukcja i programowanie robotów";56;3
+1;3;6;3;"Teoria sterowania 2";84;6
+1;3;6;4;"Komputerowe wspomagane projektowania systemów sterowania";42;2
+1;3;6;5;"Systemy rekonfigurowalne";56;3
+1;3;6;6;"Praktyka";120;4
+1;3;6;7;"Metody i algorytmy optymalizacji";28;3
+1;3;6;8;"Teoria optymalizacji";28;3
+1;3;7;1;"Pracownia in¿ynierska dyplomowa";28;1
+1;3;7;2;"Praca dyplomowa";450;15
+1;3;7;3;"Sprzêt i oprogramowanie systemów sterowania";42;4
+1;3;7;4;"Sztuczna inteligencja i sensoryka";56;3
+1;3;7;5;"Podstawy u¿ytkowania systemów operacyjnych";42;3
+1;3;7;6;"Bazy danych i systemy zarz¹dzania bazami";42;4
+1;3;7;7;"Sterowniki logiczne i funkcyjne";56;3
+1;3;7;8;"Podstawy komputerowych systemów sterowania";56;3
+1;3;7;9;"Identyfikacja procesów technologicznych";56;2
+1;3;7;10;"Prototypowanie uk³adów elekronicznych";56;3
+1;3;7;11;"Systemy g³osowe";42;3
+1;4;1;1;"Fizyka 1";98;6
+1;4;1;2;"Wprowadzenie do  elektroniki";34;3
+1;4;1;3;"Analiza obwodów I";48;5
+1;4;1;4;"Analiza matematyczna 1";56;4
+1;4;1;5;"Algebra";56;4
+1;4;1;6;"Przedmiot humanistyczny";28;2
+1;4;1;7;"BHP i ergonomia";8;1
+1;4;1;8;"Podstawy informatyki";58;5
+1;4;2;1;"Fizyka 2";56;6
+1;4;2;2;"Miernictwo elektroniczne";28;3
+1;4;2;3;"Analiza obwodów II";48;4
+1;4;2;4;"Elementy elektroniczne";56;4
+1;4;2;5;"Cyfrowe uk³ady elektroniczne I";28;3
+1;4;2;6;"Probabilistyka i statystyka";34;3
+1;4;2;7;"Analiza matematyczna 2";84;5
+1;4;2;8;"In¿ynierskie techniki obliczeniowe";28;2
+1;4;3;1;"In¿ynierskie techniki obliczeniowe
+
+
+
+Jêzyki programowania";56;4
+1;4;3;2;"Teoria sygna³ów";56;5
+1;4;3;3;"Analogowe uk³ady elektroniczne";74;5
+1;4;3;4;"Symulacja uk³adów elektronicznych";28;3
+1;4;3;5;"Cyfrowe uk³ady elektroniczne II";56;5
+1;4;3;6;"Automatyka przemys³owa";42;3
+1;4;3;7;"Metody numeryczne";28;3
+1;4;3;8;"Podstawy ekonomii finansów i prawa w biznesie";28;2
+1;4;4;1;"Laboratorium uk³adów elektronicznych";18;3
+1;4;4;2;"Podstawy mikroelektroniki";40;3
+1;4;4;3;"Systemy i uk³ady elektroniczne";46;4
+1;4;4;4;"Cyfrowe przetwarzanie sygna³ów";56;4
+1;4;4;5;"Systemy mikroprocesorowe I";56;4
+1;4;4;6;"Programowanie obiektowe";56;5
+1;4;4;7;"Podstawy transmisji danych";56;4
+1;4;4;8;"Ochrona w³asnoœci intelektualnej";8;1
+1;4;4;9;"Podstawy konstrukcji mechanicznych";28;3
+1;4;4;10;"Narzêdzia CAD";28;3
+1;4;5;1;"Technika mikrofalowa";28;3
+1;4;5;2;"Systemy mikroprocesorowe II";44;4
+1;4;5;3;"Projektowanie systemów cyfrowych";48;4
+1;4;5;4;"Systemy œwiat³owodowe";56;3
+1;4;5;5;"Systemy kontrolno-pomiarowe";28;2
+1;4;5;6;"Design Laboratory";28;3
+1;4;5;7;"Projektowanie uk³adów scalonych";56;3
+1;4;5;8;"Modu³ obieralny 1";42;4
+1;4;5;9;"Modu³ obieralny 2";42;4
+1;4;6;1;"Wprowadzenie do techniki sensorowej";42;3
+1;4;6;2;"Sieci transmisji danych";42;3
+1;4;6;3;"Projektowanie urz¹dzeñ elektronicznych";58;3
+1;4;6;4;"Modu³ obieralny 3";42;4
+1;4;6;5;"Modu³ obieralny 4";42;4
+1;4;7;1;"Techniki i systemy bezprzewodowe";38;4
+1;4;7;3;"Modu³ obieralny 5";42;4
+1;4;7;4;"Modu³ obieralny 6";42;4
+1;4;7;5;"Modu³ obieralny 7  - w jêzyku obcym)";42;4
+1;9;1;1;"Metalurgia i odlewnictwo ogólne";70;5
+1;9;1;2;"Matematyka I";70;7
+1;9;1;3;"Podstawy ergonomii";28;2
+1;9;1;4;"Ekonomia ";28;2
+1;9;1;5;"Historia odlewnictwa ";15;1
+1;9;1;6;"Marketing";14;1
+1;9;1;7;"Chemia ogólna I";84;6
+1;9;1;8;"Geometria wykreœlna ";28;2
+1;9;1;9;"Informatyka i technologia informacyjne";42;4
+1;9;2;1;"Fizyka I";56;4
+1;9;2;2;"Matematyka II";70;8
+1;9;2;3;"Elektrotechnika i elektronika";42;4
+1;9;2;4;"Obróbka ubytkowa";28;2
+1;9;2;5;"Chemia ogólna  II";42;4
+1;9;2;6;"Zapis konstrukcji i grafika in¿ynierska";70;5
+1;9;2;7;"Komputerowe programy u¿ytkowe";28;2
+1;9;2;8;"Internet, kultura, spo³oczeñstwo";14;1
+1;9;2;9;"Historia kulturyn materialnej";14;1
+1;9;2;10;"Konflikty œwiata wspó³czesnego";14;1
+1;9;2;11;"Ochrona dziedzictwa kulturowego";14;1
+1;9;3;1;"Fizyka II";28;5
+1;9;3;2;"Ochrona œrodowiska";28;2
+1;9;3;3;"Mechanika i wytrzyma³oœæ materia³ów";56;4
+1;9;3;4;"Statystyka i rachunek prawdopodobieñstwa";28;2
+1;9;3;5;"Chemia fizyczna I";42;3
+1;9;3;6;"Krystalografia";28;2
+1;9;3;7;"Tworzywa na formy odlewnicze ";70;5
+1;9;3;8;"Termodynamika techniczna i technika cieplna, paliwa i spalanie";84;7
+1;9;4;1;"Kszta³towanie plastyczne metali";14;1
+1;9;4;2;"Chemia fizyczna II";70;6
+1;9;4;3;"Materia³y in¿ynierskie";84;7
+1;9;4;4;"Metody badañ materia³ów";28;2
+1;9;4;5;"Podstawy konstrukcji maszyn";84;7
+1;9;4;6;"Maszynoznawstwo ogólne";70;6
+1;9;4;7;"Kierowanie zasobami ludzkimi";14;1
+1;9;5;1;"Krystalizacja metali i stopów";42;3
+1;9;5;2;"Technologia form odlewniczych ";42;4
+1;9;5;3;"Materia³y ogniotrwa³e";28;2
+1;9;5;4;"Maszyny i urz¹dzenia w  procesach metalurgicznych i odlewniczych ";56;5
+1;9;5;5;"Mechanizacja i automatyzacja procesów metalurgicznych i odlewniczych";56;4
+1;9;5;6;"Metalurgia i odlewnictwo staliwa";56;4
+1;9;5;7;"Fizykochemia procesów metalurgicznych i odlewniczych ";28;2
+1;9;5;8;"Podstawy automatyki i robotyki";56;4
+1;9;5;9;"Tworzywa sztuczne i ich przetwórstwo";14;1
+1;9;5;10;"Wentylacja, klimatyzacja i odpylanie w odlewniach";14;1
+1;9;5;11;"Metalurgia proszków";14;1
+1;9;5;12;"Zasady wytrzyma³oœciowego kszta³towania odlewów";14;1
+1;9;5;13;"Gospodarka energetyczna w odlewniach";14;1
+1;9;5;14;"Wiedza o sztuce";14;1
+1;9;6;1;"Ochrona w³asnoœci intelektualnej";14;1
+1;9;6;2;"Recykling materia³ów w metalurgii i odlewnictwie";28;2
+1;9;6;3;"Metalurgia i odlewnictwo ¿eliwa ";56;4
+1;9;6;4;"Metalurgia i odlewnictwo metali nie¿elaznych ";56;4
+1;9;6;5;"Teoria wymiany masy, ciep³a i pêdu w  procesach metalurgicznych i odlewniczych";28;2
+1;9;6;6;"Projektowanie i uruchomienie produkcji  odlewów";28;2
+1;9;6;7;"Zintegrowane systemy zarz¹dzania";28;2
+1;9;6;8;"Komputerowe wspomaganie prac in¿ynierskich w metalurgii i odlewnictwie";42;3
+1;9;6;9;"Regeneracja zu¿ytych mas";14;1
+1;9;6;10;"In¿ynieria warstwy fluidalnej i przep³ywów dwufazowych";14;1
+1;9;6;11;"Kszta³towanie jakoœci odlewów";14;1
+1;9;6;12;"Metalurgia proszków";14;1
+1;9;6;13;"Procesy uszlachetniania stopów";14;1
+1;9;7;1;"Wybrane zagadnienia z korozji tworzyw odlewniczych";42;5
+1;9;7;2;"Projektowanie technologii odlewniczych ";42;6
+1;9;7;3;"Procesy uszlachetniania stopów";42;5
+1;9;7;4;"Odlewnicze stopy dla energetyki i lotnictwa";42;6
+1;9;7;5;"Metrologia procesów odlewniczych";42;5
+1;9;7;6;"Maszyny do odlewania ciœnieniowego i kokilowego";28;6
+1;9;7;7;"Technologie odlewów precyzyjnych";42;6
+1;9;7;8;"Technologia wytapiania i uszlachetniania metali nie¿elaznych";42;5
+1;9;7;9;"Wp³yw przemys³u odlewniczego na œrodowisko";42;5
+1;9;7;10;"Odpady odlewnicze i metalurgiczne";42;5
+1;9;7;11;"Modelowanie i symulacja procesów odlewniczych";42;6
+1;9;7;12;"Corrosion and Corrosion Protection";28;3
+1;9;7;13;"Selected problems in surface engineering";28;3
+1;10;1;1;"Wstêp do in¿ynierii materia³owej";28;2
+1;10;1;2;"Grafika in¿ynierska i rysunek techniczny";28;2
+1;10;1;3;"Historia in¿ynierii metalurgicznej";14;1
+1;10;1;4;"Podstawy ekonomii";14;1
+1;10;1;5;"Organizacja pracy i ergonomia";14;1
+1;10;1;6;"Matematyka I IM";112;9
+1;10;1;7;"Fizyka I";56;4
+1;10;1;8;"Chemia I";28;2
+1;10;1;9;"Informatyka I";56;4
+1;10;1;10;"Podstawowe techniki rozwoju osobistego";28;2
+1;10;1;11;"Etyka zawodowa";28;2
+1;10;2;1;"Krystalografia i rentgenografia";70;6
+1;10;2;2;"Mechanika techniczna";56;4
+1;10;2;3;"Ochrona w³asnoœci intelektualnej";14;1
+1;10;2;4;"Matematyka II IM";56;6
+1;10;2;5;"Fizyka II";56;5
+1;10;2;6;"Chemia II";42;5
+1;10;2;7;"Informatyka II";42;3
+1;10;3;1;"Wytrzyma³oœæ materia³ów";42;3
+1;10;3;2;"Elektrotechnika i elektronika";42;3
+1;10;3;3;"Podstawy konstrukcji in¿ynierskich";56;4
+1;10;3;4;"Matematyka w in¿ynierii materia³owej";42;3
+1;10;3;5;"Chemia fizyczna";56;6
+1;10;3;6;"Fizyka cia³a sta³ego";56;5
+1;10;3;7;"Metody statystyczne w in¿ynierii materia³owej";70;6
+1;10;3;8;"Techniki pomiarowe w in¿ynierii materia³owej";70;6
+1;10;4;1;"Teoria przemian fazowych";56;6
+1;10;4;2;"Podstawy sprê¿ystoœci materia³ów";70;6
+1;10;4;3;"Fizykochemiczne metody analizy";70;6
+1;10;4;4;"Metalurgia proszków I";70;6
+1;10;4;5;"Termodynamika fazy skondensowanej";70;6
+1;10;4;6;"Metalurgia metali nie¿elaznych I";70;6
+1;10;4;7;"Struktura materia³ów metalicznych";70;6
+1;10;5;1;"Technologie in¿ynierii powierzchni";28;2
+1;10;5;2;"Metody badañ strukturalnych";70;6
+1;10;5;3;"Podstawy plastycznoœci materia³ów";56;5
+1;10;5;4;"Metody badañ w³asnoœci fizycznych i technologicznych";28;2
+1;10;5;5;"Stopy metali nie¿elaznych";70;5
+1;10;5;6;"Stopy metali szlachetnych";70;5
+1;10;5;7;"Tekstury metali";56;5
+1;10;5;8;"Stopy ¿aroodporne i ¿arowytrzyma³e";70;5
+1;10;5;9;"Stopy ¿elaza";70;5
+1;10;6;1;"Odkszta³calnoœæ metali i stopów";42;3
+1;10;6;2;"Projektowanie materia³ów";28;1
+1;10;6;3;"Techniki wytwarzania wyrobów";56;4
+1;10;6;5;"Monokryszta³y metali";70;4
+1;10;6;6;"Materia³y ceramiczne";70;4
+1;10;6;7;"Kompozytowe materia³y metaliczne";70;4
+1;10;6;8;"Polimery";70;4
+1;10;6;9;"Recykling metali";70;4
+1;10;7;1;"Podstawy marketingu i jakoœci produkcji";56;5
+1;10;7;2;"Podstawy in¿ynierii produkcji";56;5
+1;10;7;3;"Zarz¹dzanie przedsiêbiorstwem";56;5
+1;10;7;4;"Laboratorium jêzykowe A ""Powder Metallurgy""";56;5
+1;10;7;5;"Laboratorium jêzykowe B ""Fundamental aspects of material science""";56;5
+1;11;1;1;"Zarys górnictwa otworowego  ";28;2
+1;11;1;2;"Górnictwo";28;3
+1;11;1;3;"Geologia";84;5
+1;11;1;4;"BHP i ergonomia I";42;3
+1;11;1;5;"Matematyka I ";56;7
+1;11;1;6;"Chemia";42;4
+1;11;1;7;"Geometria i grafika in¿ynierska   ";28;3
+1;11;1;8;"Technologie informacyjne  ";28;3
+1;11;2;1;"Fizyka I";56;5
+1;11;2;2;"Geologia z³ó¿ wêglowodorów     ";28;3
+1;11;2;3;"Ochrona œrodowiska      ";56;4
+1;11;2;4;"Matematyka II  ";56;7
+1;11;2;5;"Informatyka  ";42;3
+1;11;2;6;"Chemia organiczna       ";28;5
+1;11;2;7;"Mechanika";42;3
+1;11;3;1;"Fizyka  II  ";56;7
+1;11;3;2;"Geofizyka";42;4
+1;11;3;3;"Wiertnictwo ";56;5
+1;11;3;4;"Elektrotechnika";28;2
+1;11;3;5;"Matematyka stosowana    ";56;4
+1;11;3;6;"Wytrzyma³oœæ materia³ów";28;3
+1;11;3;7;"Mechanika p³ynów  ";42;5
+1;11;4;1;"Ekonomika i zarz¹dzanie inwestycjami  ";56;3
+1;11;4;2;"Geoin¿ynieria";42;5
+1;11;4;3;"Geomechanika";42;3
+1;11;4;4;"Hydrogeologia i geologia in¿ynierska";42;5
+1;11;4;5;"Podstawy konstrukcji maszyn    ";56;3
+1;11;4;6;"Termodynamika";56;5
+1;11;5;1;"Przep³ywy p³ynu w z³o¿ach  ";28;3
+1;11;5;2;"Podstawy In¿ynierii z³o¿owej  ";42;6
+1;11;5;3;"Podstawy gazownictwa ziemnego";42;5
+1;11;5;4;"Horyzontalne przewierty sterowane                                 ";28;3
+1;11;5;5;"Eksploatacja z³ó¿ wód podziemnych";28;3
+1;11;5;6;"Ochrona w³asnoœci intelektualnych (Przedmiot spo³eczny 1)";28;2
+1;11;5;7;"Prawo geologiczne, górnicze, wodne i budowlane      ";56;5
+1;11;5;8;"Eksploatacja i zagospodarowanie z³ó¿ geotermalnych";28;2
+1;11;5;9;"Niekonwencjonalny gaz ziemny";28;2
+1;11;5;10;"Technologie skroplonego gazu ziemnego LNG";28;2
+1;11;6;1;"Podstawy eksploatacji z³ó¿ gazu     ";42;5
+1;11;6;2;"Podstawy eksploatacji z³ó¿ ropy   ";42;5
+1;11;6;3;"Eksploatacja otworowa z³ó¿ surowców sta³ych";42;3
+1;11;6;4;"Magazynowanie i transport ropy    ";28;3
+1;11;6;5;"Technologia p³ynów wiertniczych                                          ";28;3
+1;11;6;6;"Technologie uszczelniania górotworu  ";28;3
+1;11;6;7;"Geoenergetyka";28;2
+1;11;6;8;"Ocena oddzia³ywania inwestycji na œrodowisko";28;2
+1;11;7;1;"Kierunki rozwoju górnictwa otworowego (przedmiot w j. angielskim dla visiting professors)";56;4
+1;11;7;2;"Komputerowa symulacja z³ó¿";56;5
+1;11;7;3;"Automatyzacja i pomiary w kopalnictwie otworowym  ";28;3
+1;11;7;4;"Stymulacja otworów ropnych";28;3
+1;11;7;5;"Podziemne magazynowanie gazu";28;3
+1;11;7;6;"Transport i dystrybucja gazu";56;5
+1;11;7;7;"Testowanie odwiertów I";28;3
+1;11;7;8;"Kierunki rozwoju górnictwa otworowego (przedmiot w j. angielskim dla visiting professors)";56;4
+1;11;7;9;"Dystrybucja wód";56;5
+1;11;7;10;"Geochemia œrodowiska  ";28;3
+1;11;7;11;"Niekonwencjonalne Ÿród³a energii";28;3
+1;11;7;12;"Kierunki rozwoju górnictwa otworowego (przedmiot w j. angielskim dla visiting professors)";56;4
+1;11;7;13;"Rekonstrukcje i likwidacja otworów";28;3
+1;11;7;14;"Projektowanie otworów wiertniczych";42;3
+1;11;7;15;"Technologia wiercenia otworów ";42;5
+1;11;7;16;"Kierunki rozwoju górnictwa otworowego (przedmiot w j. angielskim dla visiting professors))";56;4
+2;1;1;1;"Geometria wykreœlna";28;2
+2;1;1;2;"BHP i ergonomia";28;2
+2;1;1;3;"Matematyka 1";84;9
+2;1;1;4;"Chemia";56;6
+2;1;1;5;"Geologia, mineralogia i petrografia";56;5
+2;1;1;6;"Zarys górnictwa";42;2
+2;1;1;7;"Technologia informacyjna";28;2
+2;1;1;8;"Podstawy ekonomii";28;2
+2;1;2;1;"Grafika in¿ynierska i rysunek techniczny";42;3
+2;1;2;2;"Geodezja i kartografia górnicza";42;4
+2;1;2;3;"Górnictwo odkrywkowe i otworowe";70;5
+2;1;2;4;"Wiertnictwo i technologie bezwykopowe";42;2
+2;1;2;5;"Ochrona Œrodowiska";28;2
+2;1;2;6;"Matematyka 2";56;6
+2;1;2;7;"Fizyka 1";56;6
+2;1;2;8;"Nurkowanie- historia i podbój g³êbin a eksploatacja podwodna";28;2
+2;1;2;9;"Górnictwo morskie";28;2
+2;1;2;10;"Wszechœwiat - pocz¹tek, ewolucja, cz³owiek";28;2
+2;1;2;11;"Katastrofy górnicze";28;2
+2;1;2;12;"Historia i tradycje górnictwa";28;2
+2;1;3;1;"Mechanika techniczna";56;5
+2;1;3;2;"Materia³oznawstwo";28;2
+2;1;3;3;"Ekonomika przedsiêbiorstwa górniczego";42;3
+2;1;3;4;"Górnictwo podziemne";70;5
+2;1;3;5;"Geofizyka górnicza";28;2
+2;1;3;6;"Przeróbka surowców mineralnych";56;5
+2;1;3;7;"In¿ynierskie metody obliczeniowe";28;2
+2;1;3;8;"Fizyka 2";28;3
+2;1;3;9;"Miêdzynarodowe rynki surowców mineralnych";28;3
+2;1;3;10;"Odkrywkowa eksploatacja rud";28;3
+2;1;4;1;"Wytrzyma³oœæ materia³ów";56;5
+2;1;4;2;"Elektrotechnika i podstawy automatyki";56;5
+2;1;4;3;"Mechanika p³ynów i termodynamika";56;5
+2;1;4;4;"Technika strzelnicza";56;6
+2;1;4;5;"Fizyka ska³ i gruntów";28;3
+2;1;4;6;"Maszyny i urz¹dzenia górnicze";42;4
+2;1;4;7;"Prawo geologiczne i górnicze z elementami praw pokrewnych";28;2
+2;1;5;1;"Hydrogeologia i odwadnianie";42;4
+2;1;5;2;"Aerologia górnicza";70;6
+2;1;5;3;"Budownictwo podziemne i tunelowe";56;4
+2;1;5;4;"Ochrona w³asnoœci intelektualnej";14;1
+2;1;5;5;"Projektowanie podziemnych robót górniczych";28;3
+2;1;5;6;"Systemy transportu w górnictwie podziemnym";28;3
+2;1;5;7;"Geomechanika";56;5
+2;1;5;8;"Technika i technologia przeróbki surowców w górnictwie podziemnym";28;4
+2;1;5;9;"Projektowanie odkrywkowych robót górniczych";28;3
+2;1;5;10;"Geotechnika";56;5
+2;1;5;11;"Systemy transportu w górnictwie odkrywkowym";28;3
+2;1;5;12;"Technika i technologia przeróbki surowców w górnictwie odkrywkowym";28;4
+2;1;6;1;"Systemy informacji przestrzennej";28;3
+2;1;6;2;"Zagro¿enia naturalne w górnictwie";56;5
+2;1;6;3;"Praktyka technologiczna";0;4
+2;1;6;4;"Odpady w technologiach górniczych";28;3
+2;1;6;5;"Technika podziemnej eksploatacji z³ó¿";56;5
+2;1;6;6;"Po¿ary podziemne";42;5
+2;1;6;7;"Systemy monitoringu œrodowiska";28;3
+2;1;6;8;"Technika odkrywkowej i otworowej eksploatacji z³ó¿";56;5
+2;1;6;9;"Zwa³owanie i rekultywacja";42;5
+2;1;7;2;"Projekt dyplomowy in¿ynierski";0;15
+2;1;7;3;"Mining and Reclamation";28;3
+2;1;7;4;"Górnictwo i œrodowisko ang.";28;3
+2;1;7;5;"Introduction to Rock Mechanics";28;3
+2;1;7;6;"Mining & Economy";28;3
+2;1;7;7;"Applied Geomechanics";28;3
+2;1;7;8;"Mine Water and Environment";28;3
+2;1;7;9;"Material engineering In underground and geotechnical construction";28;3
+2;1;7;10;"Hydraulics of Water Wells";28;3
+2;1;7;11;"Religie œwiata";28;2
+2;1;7;12;"Komunikacja interpersonalna";28;2
+2;1;7;13;"Spo³eczeñstwo 2.0 Cz³owiek w œwiecie nowych technologii";28;2
+2;1;7;14;"Wzbogacanie surowców a œrodowisko naturalne";28;3
+2;1;7;15;"Technika wodno-mu³owa";28;3
+2;1;7;16;"Flotacja w przeróbce surowców";28;3
+2;1;7;17;"Komputerowe wspomaganie projektowania w górnictwie podziemnym";28;2
+2;1;7;18;"Bezpieczeñstwo pracy i ratownictwo w górnictwie";42;3
+2;1;7;19;"Komputerowe wspomaganie projektowania  w górnictwie odkrywkowym";28;2
+2;1;7;20;"Zagospodarowanie terenów górniczych";42;3
+2;2;1;1;"Fizyka I";56;6
+2;2;1;2;"Podstawy Informatyki";56;4
+2;2;1;3;"Architektury komputerów";42;3
+2;2;1;4;"Analiza matematyczna I";56;5
+2;2;1;5;"Algebra";56;4
+2;2;1;6;"Ochrona œrodowiska";28;2
+2;2;1;7;"Chemia";56;6
+2;2;2;1;"Fizyka II";56;3
+2;2;2;2;"Algorytmy i struktury danych";70;6
+2;2;2;3;"Matematyka dyskretna i logika";56;5
+2;2;2;4;"Systemy operacyjne i administracja";70;6
+2;2;2;5;"Analiza matematyczna II";56;5
+2;2;2;6;"Statystyka i opracowanie danych";56;5
+2;2;3;1;"Mechanika p³ynów";42;4
+2;2;3;2;"Mechanika cia³a sta³ego";42;4
+2;2;3;3;"Programowanie obiektowe";56;6
+2;2;3;4;"Multimedialne techniki internetowe";42;4
+2;2;3;5;"Równania ró¿niczkowe i rachunek wariacyjny";56;5
+2;2;3;6;"Metaloznawstwo";56;5
+2;2;3;7;"Zarz¹dzanie jakoœci¹";28;2
+2;2;3;8;"Ekonomika i zarz¹dzanie";28;2
+2;2;4;1;"Metody numeryczne";56;5
+2;2;4;2;"Sieci komputerowe";70;6
+2;2;4;3;"Bazy danych";56;5
+2;2;4;4;"Programowanie w Java";56;6
+2;2;4;5;"Grafika komputerowa";56;6
+2;2;4;6;"Ochrona w³asnoœci intelektualnej";14;2
+2;2;4;7;"Prawo patentowe";14;2
+2;2;5;1;"Podstawy sztucznej inteligencji";56;5
+2;2;5;2;"In¿ynieria oprogramowania";56;5
+2;2;5;3;"In¿ynieria Internetu";56;5
+2;2;5;4;"Programowanie równoleg³e";56;5
+2;2;5;5;"Metoda elementów skoñczonych";42;5
+2;2;5;6;"Wymiana ciep³a i masy";56;5
+2;2;6;1;"Praktyka zawodowa 4 tygodnie";0;4
+2;2;6;2;"Internet Engineering";56;6
+2;2;6;3;"Fundamentals of Optimization";56;6
+2;2;6;4;"Advanced programming in C++";56;6
+2;2;6;5;"Computational Modelling of Processing of Materials";56;6
+2;2;6;6;"Scientific Writing";56;6
+2;2;6;7;"Projektowanie systemów komputerowych";56;3
+2;2;6;8;"Obliczenia in¿ynierskie w Matlabie";56;3
+2;2;6;9;"Modelowanie wieloskalowe";56;3
+2;2;6;10;"Marketing Internetowy";56;3
+2;2;6;11;"CAD/CAM";56;3
+2;2;6;12;"Logistyka w hutnictwie";56;3
+2;2;6;13;"Technologia wytwarzania i przetwarzania metali";56;3
+2;2;6;14;"Systemy wbudowane";56;3
+2;2;6;15;"Komputerowe projektowanie procesów cieplnych";56;3
+2;2;7;1;"Przygotowanie pracy dyplomowej";0;15
+2;2;7;2;"In¿ynieria wiedzy i systemy ekspertowe";56;5
+2;2;7;3;"Badania operacyjne i logistyka";56;5
+2;2;7;4;"Programy symulacyjne MES";56;5
+2;2;7;5;"Techniki agentowe";56;5
+2;2;7;6;"Analiza i przetwarzanie obrazów";56;5
+2;2;7;7;"Zaawansowane metody obliczeñ w in¿ynierii";56;5
+2;3;1;1;"Fizyka 1";68;7
+2;3;1;2;"Bezpieczeñstwo u¿ytkowania urz¹dzeñ elektrycznych";15;2
+2;3;1;3;"Podstawy informatyki 1";43;4
+2;3;1;4;"Geometria i grafika in¿ynierska";43;3
+2;3;1;5;"Analiza matematyczna 1";58;6
+2;3;1;6;"Algebra";58;6
+2;3;1;7;"Religie œwiata";28;5
+2;3;1;8;"Podstawy negocjacji";28;5
+2;3;1;9;"Wiedza o nauce.";30;2
+2;3;2;1;"Fizyka 2";58;5
+2;3;2;2;"Podstawy informatyki 2";43;3
+2;3;2;3;"Teoria obwodów 1";73;6
+2;3;2;4;"Podstawy mechaniki";58;4
+2;3;2;5;"Analiza matematyczna 2";58;5
+2;3;2;6;"Równania ró¿niczkowe";58;5
+2;3;2;7;"Podstawy negocjacji";28;5
+2;3;2;8;"Wiedza o nauce.";30;2
+2;3;2;9;"Religie œwiata";28;5
+2;3;3;1;"In¿ynieria materia³owa   w elektrotechnice";56;6
+2;3;3;2;"Teoria obwodów 2";98;7
+2;3;3;3;"Teoria pola elektromagnetycznego";70;5
+2;3;3;4;"Metrologia 1";56;5
+2;3;3;5;"Stochastyczne metody analizy danych";28;2
+2;3;3;6;"Metody numeryczne";42;3
+2;3;4;1;"Metrologia 2";56;5
+2;3;4;2;"Elektromechaniczne przetwarzanie energii";56;5
+2;3;4;3;"Podstawy elektroniki";56;4
+2;3;4;4;"Podstawy elektroenergetyki";56;5
+2;3;4;5;"Teoria sterowania i technika regulacji";84;6
+2;3;4;6;"Technika wysokich napiêæ";56;5
+2;3;5;1;"Maszyny elektryczne";70;5
+2;3;5;2;"Urz¹dzenia i rozdzielnie elektroenergetyczne";70;6
+2;3;5;3;"Sieci elektryczne";70;6
+2;3;5;4;"Pomiary w energetyce";56;4
+2;3;5;5;"Niezawodnoœæ zasilania energi¹ elektryczn¹";56;3
+2;3;5;6;"Napêd elektryczny i energoelektronika";70;6
+2;3;5;7;"Maszyny elektryczne";70;5
+2;3;5;8;"Urz¹dzenia i sieci elektryczne";70;6
+2;3;5;9;"Teoria i przetwarzanie sygna³ów";56;4
+2;3;5;10;"Energoelektronika";70;6
+2;3;5;11;"Miernictwo przemys³owe";56;5
+2;3;5;12;"Elektronika przemys³owa";56;4
+2;3;5;13;"Miernictwo przemys³owe";56;5
+2;3;5;14;"Elektromaszynowe elementy automatyki";56;4
+2;3;5;15;"Urz¹dzenia i sieci elektroenergetyczne";56;4
+2;3;5;16;"Napêd elektryczny i energoelektronika";70;6
+2;3;5;17;"Podstawy techniki cyfrowej";56;5
+2;3;5;18;"Teoria i przetwarzanie sygna³ów";70;6
+2;3;6;1;"Ochrona w³asnoœvci intelektualnej";10;0
+2;3;6;2;"Wytwarzanie energii elektrycznej";42;2
+2;3;6;3;"In¿ynieria wysokonapiêciowych  uk³adów przesy³owo-rozdzielczych";70;4
+2;3;6;4;"Podstawy techniki mikroprocesorowej";56;3
+2;3;6;5;"Zabezpieczenia elektroenergetyczne";70;4
+2;3;6;6;"Systemy elektroenergetyczne";70;3
+2;3;6;7;"Gospodarka elektroenergetyczna";70;4
+2;3;6;8;"Uk³ady energoelektroniczne";56;3
+2;3;6;9;"Podstawy techniki mikroprocesorowej";56;4
+2;3;6;10;"Napêd elektryczny";98;4
+2;3;6;11;"Podstawy regulacji cyfrowej";56;3
+2;3;6;12;"Grzejnictwo elektryczne";56;3
+2;3;6;13;"Jakoœæ energii elektrycznej";56;3
+2;3;6;14;"Systemy pomiarowe";56;4
+2;3;6;15;"Technika mikroprocesorowa";56;2
+2;3;6;16;"Metody identyfikacji systemów";70;3
+2;3;6;17;"Komputerowe uk³ady sterowania";56;3
+2;3;6;18;"Sterowniki przemys³owe";42;3
+2;3;6;19;"Elektroniczne uk³ady pomiarowe";70;3
+2;3;6;20;"Inteligentne systemy zasilania i zabezpieczeñ";28;2
+2;3;7;2;"Jakoœæ energii elektrycznej";48;4
+2;3;7;3;"Programowanie w œrodowisku LabVIEW";48;3
+2;3;7;4;"Elektroenergetyka przemys³owa";48;4
+2;3;7;5;"Podstawy pomiarów i diagnostyki eksploatacyjnej w elektroenergetyce";48;4
+2;3;7;6;"Procesy technologiczne urz¹dzeñ elektrycznych";48;4
+2;3;7;7;"Projektowanie instalacji elektrycznych";48;4
+2;3;7;8;"Sterowniki programowalne PLC";48;4
+2;3;7;9;"Programowanie mikrokontrolerów ARM w jêzyku C/C++";48;4
+2;3;7;10;"Projektowanie uk³adów energoelektronicznych - wybrane zagadnienia";48;4
+2;3;7;11;"Nowoczesne systemy zasilania Ÿróde³ œwiat³a i sterowania oœwietleniem";48;4
+2;3;7;12;"Jêzyk C++ w programach sterowania";48;4
+2;3;7;13;"Komputerowe wspomaganie procesów projektowych z wykorzystaniem oprogramowania CAD";48;4
+2;3;7;14;"Przemys³owe rozwi¹zania napêdów elektrycznych";48;4
+2;3;7;15;"Programowanie aplikacji w Qt";48;4
+2;3;7;16;"Cyfrowa technika pomiarowa";48;4
+2;3;7;17;"Uk³ady FPGA i analogowe procesory sygna³owe w systemach sterowania";48;4
+2;4;1;1;"Fizyka 1";70;5
+2;4;1;2;"Algebra";56;4
+2;4;1;3;"Analiza matematyczna 1";56;4
+2;4;1;4;"Metodyka i techniki programowania 1";56;5
+2;4;1;5;"BHP i ergonomia";8;1
+2;4;1;6;"Wprowadzenie do elektroniki";28;3
+2;4;1;7;"Wprowadzenie do telekomunikacji";42;3
+2;4;1;8;"Teoria obwodów 1";56;5
+2;4;2;1;"Fizyka 2";84;5
+2;4;2;2;"Teoria obwodów 2";56;5
+2;4;2;3;"Elementy elektroniczne";56;5
+2;4;2;4;"Miernictwo elektroniczne";28;3
+2;4;2;5;"Analiza matematyczna 2";84;5
+2;4;2;6;"Probabilistyka i statystyka";42;4
+2;4;2;7;"Metodyka i techniki programowania 2";42;3
+2;4;3;1;"Teoria sygna³ów";70;6
+2;4;3;2;"Techniki obliczeniowe";42;4
+2;4;3;3;"Systemy operacyjne";56;6
+2;4;3;4;"Analogowe uk³ady elektroniczne 1";70;6
+2;4;3;5;"Technika cyfrowa i uk³ady programowalne";84;6
+2;4;3;6;"Podstawy ekonomii, finansów i prawa  w biznesie";28;2
+2;4;4;1;"Analogowe uk³ady elektroniczne 2";56;5
+2;4;4;2;"Technika mikroprocesorowa  1";42;4
+2;4;4;3;"Cyfrowe przetwarzanie sygna³ów";56;5
+2;4;4;4;"Optoelektronika";28;3
+2;4;4;5;"Sieci komputerowe";56;5
+2;4;4;6;"Symulacja uk³adów elektronicznych";28;3
+2;4;4;7;"Ochrona w³asnoœci intelektualnej";8;1
+2;4;4;8;"Podstawy konstrukcji mechanicznych";28;2
+2;4;4;9;"Narzêdzia CAD";28;2
+2;4;4;10;"Wiedza o nauce";28;2
+2;4;4;11;"Religie œwiata: cz³owiek a sacrum";28;2
+2;4;4;12;" Podstawy negocjacji";28;2
+2;4;4;13;"G³ówne zagadnienia i kierunki filozofii";28;2
+2;4;4;14;"Globalizacja. Nowe wyzwania wspó³czesnego œwiata.";28;1
+2;4;4;15;"Konflikty wspó³czesnego œwiata: nacjonalizm i terroryzm";28;1
+2;4;4;16;"Mniejszoœci narodowe w Polsce w XX wieku";28;1
+2;4;4;17;"Socjologia";28;1
+2;4;4;18;"Socjologia kierowania i organizacji";28;1
+2;4;5;1;"Technika mikroprocesorowa  2";42;4
+2;4;5;2;"Systemy i sieci telekomunikacyjne";50;5
+2;4;5;3;"Laboratorium projektowe";0;3
+2;4;5;4;"Jêzyki programowania obiektowego";56;5
+2;4;5;5;"Komputerowe systemy pomiarowe";28;4
+2;4;5;6;"Scalone uk³ady i systemy elektroniczne";45;4
+2;4;5;7;"Techniki mikrofalowe, systemy antenowe i propagacja fal radiowych";56;5
+2;4;6;1;"Techniki i systemy bezprzewodowe";52;4
+2;4;6;2;"Blok obieralny sem. 6";210;15
+2;4;7;2;"Blok obieralny sem. 7";168;12
+2;9;1;1;"Analiza matematyczna";56;6
+2;9;1;2;"Algebra";28;2
+2;9;1;3;"Ekonomia";28;2
+2;9;1;4;"Ochrona w³asnoœci intelektualnej";14;1
+2;9;1;5;"Podstawy ergonomii i BHP";14;1
+2;9;1;6;"Chemia";84;9
+2;9;1;7;"Fizyko-chemiczne podstawy procesów";28;3
+2;9;1;8;"Podstawy informatyki";56;4
+2;9;1;9;"Grafika komputerowa i wizualizacja";28;2
+2;9;2;1;"Fizyka";84;8
+2;9;2;2;"Równania ró¿niczkowe";28;2
+2;9;2;3;"Statystyka";28;2
+2;9;2;4;"Geometria analityczna";28;2
+2;9;2;5;"Wychowanie fizyczne 1";28;0
+2;9;2;6;"Mechanika i wytrzyma³oœæ materia³ów";56;4
+2;9;2;7;"Metaloznawstwo i krystalografia";56;4
+2;9;2;8;"Materia³y in¿ynierskie";42;3
+2;9;2;9;"Zapis konstrukcji i grafika in¿ynierska";56;4
+2;9;2;10;"Konflikty wspólczesnego œwiata. Nacjonalizm, terroryzm";14;1
+2;9;2;11;"Religie œwiata –cz³owiek i sacrum";14;1
+2;9;2;12;"Historia kultury materialnej";14;1
+2;9;2;13;"Ochrona dziedzictwa kulturowego";14;1
+2;9;3;1;"Wychowanie fizyczne 2";14;0
+2;9;3;2;"Rentgenografia";28;2
+2;9;3;3;"Analiza termiczna";14;1
+2;9;3;4;"Badania mechaniczne";14;1
+2;9;3;5;"Badania defektoskopowe";14;1
+2;9;3;6;"Czêœci maszyn";56;6
+2;9;3;7;"Elektrotechnika i elektronika";56;5
+2;9;3;8;"Termodynamika techniczna  i technika cieplna";70;8
+2;9;3;9;"Paliwa i spalanie";28;3
+2;9;3;10;"Mikroskopia i analiza struktury";28;2
+2;9;3;11;"Krystalizacja metali i stopów I";14;1
+2;9;4;1;"Mechanika p³ynów";42;4
+2;9;4;2;"Modelowanie procesów termokinetycznych";42;3
+2;9;4;3;"Krystalizacja metali i stopów II";14;1
+2;9;4;4;"Konstrukcja wyrobów metalurgicznych";28;1
+2;9;4;5;"Kszta³towanie plastyczne metali";56;6
+2;9;4;6;"Materia³y na formy odlewnicze";42;4
+2;9;4;7;"Technologia formy odlewniczej ";42;4
+2;9;4;8;"Metoda odchy³ek wa¿onych";56;5
+2;9;5;1;"Wprowadzenie do programowania  i programowanie obiektowe";56;5
+2;9;5;2;"Podstawy automatyki i robotyki";42;4
+2;9;5;3;"Maszyny i urz¹dzenia hutnicze i odlewnicze";42;4
+2;9;5;4;"Projektowanie i modernizacja zak³adów przetwórczych";28;3
+2;9;5;5;"Odlewnictwo stopów ¿elaza z wêglem";56;5
+2;9;5;6;"Odlewnictwo metali nie¿elaznych";42;4
+2;9;5;7;"Odlewnictwo tworzyw sztucznych";28;3
+2;9;5;8;"Wentylacja, klimatyzacja i odpylanie w odlewniach";14;1
+2;9;5;9;"Regeneracja zu¿ytych mas";14;1
+2;9;5;10;"Gospodarka energetyczna w odlewniach";14;1
+2;9;5;11;"Dekoracyjna i antykorozyjna obróbka powierzchni wyrobów metalowych";14;1
+2;9;5;12;"In¿ynieria warstwy fluidalnej i przep³ywów dwufazowych";14;1
+2;9;6;1;"Technologia procesów metalurgicznych";84;6
+2;9;6;2;"Komputerowe wspomaganie procesu zapewnienia jakoœci";42;3
+2;9;6;3;"Projektowanie bry³owe z wykorzystaniem CAD";42;2
+2;9;6;4;"Podstawy sztucznej inteligencji ";42;4
+2;9;6;5;"Metody eksploracji danych ";42;4
+2;9;6;6;"Kszta³towanie jakoœci odlewów";14;1
+2;9;6;7;"Procesy uszlachetniania stopów";14;1
+2;9;6;8;"Wp³yw przemys³u odlewniczego na œrodowisko";14;1
+2;9;6;9;"Gospodarka odpadami";14;1
+2;9;6;10;"Odlewnicze stopy dla energetyki i lotnictwa";14;1
+2;9;7;1;"Wykorzystanie programów komercyjnych";56;5
+2;9;7;2;"Symulacje komputerowe procesów";42;4
+2;9;7;3;"Zarz¹dzanie, Ergonomia, Organizacja Pracy";28;2
+2;9;7;4;"Corrosion and Corrosion Protection";28;3
+2;9;7;5;"Selected problems in surface engineering";28;3
+2;10;1;1;"Informatyka I";28;2
+2;10;1;2;"Grafika in¿ynierska i rysunek techniczny";28;2
+2;10;1;3;"Technologie informacyjne";42;2
+2;10;1;4;"Metalurgia ogólna";28;2
+2;10;1;5;"Wstêp do in¿ynierii materia³owej";28;2
+2;10;1;6;"Rynek metali";28;2
+2;10;1;7;"Matematyka I";98;9
+2;10;1;8;"Chemia ogólna I";56;4
+2;10;1;9;"Ochrona w³asnoœci intelektualnej";14;1
+2;10;1;10;"Podstawowe techniki rozwoju osobistego";28;2
+2;10;1;11;"Ekologia i zarz¹dzanie œrodowiskiem ";28;2
+2;10;1;12;"Podstawy marketingu";28;2
+2;10;1;13;"Podstawy ekonomii";28;2
+2;10;1;14;"Historia i rola stowarzyszeñ in¿ynierskich ";28;2
+2;10;1;15;"Wiedza o nauce";28;2
+2;10;1;16;" Podstawy negocjacji";28;2
+2;10;1;17;"Religie œwiata: cz³owiek a sacrum";28;2
+2;10;2;1;"Informatyka II";56;4
+2;10;2;2;"Komputerowe wspomaganie projektowania - AUTOCAD";42;3
+2;10;2;3;"Statystyka i planowanie eksperymentu";56;4
+2;10;2;4;"Matematyka II";70;6
+2;10;2;5;"Fizyka I";56;6
+2;10;2;6;"Chemia ogólna II";56;4
+2;10;2;7;"Przedmiot humanistyczny (obieralny I)";28;2
+2;10;2;8;"Przedmiot humanistyczny (obieralny II)";14;1
+2;10;3;1;"Elektrotechnika i elektronika";56;4
+2;10;3;2;"Komputerowe wspomaganie w nauce i technice - MATLAB";42;3
+2;10;3;3;"Podstawy teoretyczne przeróbki plastycznej";84;4
+2;10;3;4;"Metaloznawstwo I";70;5
+2;10;3;5;"Chemia fizyczna I";56;4
+2;10;3;6;"Mechanika i wytrzyma³oœæ materia³ów";56;4
+2;10;3;7;"Fizyka II";56;6
+2;10;4;1;"Matematyka aplikacyjna";42;3
+2;10;4;2;"Chemia fizyczna II";56;5
+2;10;4;3;"Metaloznawstwo II";56;4
+2;10;4;4;"Przeróbka plastyczna metali I";56;5
+2;10;4;5;"Transport masy i ciep³a w metalurgii";56;3
+2;10;4;6;"Procesy metalurgii ekstrakcyjnej I";70;5
+2;10;4;7;"Teoria procesów metalurgicznych I";56;5
+2;10;5;1;"Procesy metalurgii ekstrakcyjnej II";56;4
+2;10;5;2;"Przeróbka plastyczna metali II";70;5
+2;10;5;3;"Zarz¹dzanie produkcj¹ i jakoœci¹ produkcji";28;2
+2;10;5;4;"Walcowanie profilowe";42;3
+2;10;5;5;"Utylizacja i neutralizacja odpadów przemys³owych";42;3
+2;10;5;6;"Analiza strukturalna powierzchni";42;3
+2;10;5;7;"Technologie wytwarzania rur w przemyœle metali nie¿elaznych";42;3
+2;10;5;8;"Krystalizacja metali i stopów";42;4
+2;10;5;9;"Fizyczne metody badañ materia³ów";42;4
+2;10;5;10;"Energetyka hutnicza";42;4
+2;10;5;11;"Metalurgia metali lekkich";42;4
+2;10;5;12;"Odlewnictwo";42;4
+2;10;5;13;"Techniki spajania materia³ów";42;4
+2;10;5;14;"Tarcie i smarowanie w procesach przeróbki plastycznej";42;4
+2;10;5;15;"Urz¹dzenia i pomiary w przeróbce plastycznej";42;4
+2;10;6;1;"Konstrukcje in¿ynierskie w metalurgii";28;2
+2;10;6;2;"Metalurgia metali ciê¿kich";56;4
+2;10;6;3;"Kowalstwo artystyczne i u¿ytkowe";42;3
+2;10;6;4;"Przeróbka plastyczna metali III";28;2
+2;10;6;5;"Materia³y dla elektroniki";42;3
+2;10;6;6;"Historia in¿ynierii metalurgicznej";14;1
+2;10;6;7;"LaTeX - system do profesjonalnej edycji dokumentów";28;2
+2;10;6;8;"Przemiany fazowe";56;4
+2;10;6;9;"Rentgenografia i tekstura";56;4
+2;10;6;10;"Pirometalurgia";56;4
+2;10;6;11;"Hydrometalurgia";56;4
+2;10;6;12;"Podstawy recyklingu metali nie¿elaznych";56;4
+2;10;6;13;"Metalurgia proszków";56;4
+2;10;6;14;"Obróbka cieplna w przeróbce plastycznej";56;4
+2;10;6;15;"Technologie wytwarzania wyrobów z metali nie¿elaznych";56;4
+2;10;7;1;"Electrochemistry";42;3
+2;10;7;2;"Properties of slags and molten salts";42;3
+2;10;7;3;"Technologies in cable industry";42;3
+2;10;7;4;"Analytical methods and equipment in metallurgy";42;3
+2;10;7;5;"Korozja i ochrona metali";42;3
+2;10;7;6;"Wyroby z metali szlachetnych";42;3
+2;10;7;7;"Materia³y narzêdziowe";42;3
+2;10;7;8;"Materia³y i technologie w przemyœle lotnicznym i motoryzacyjnym";42;3
+2;10;7;9;"Obróbka cieplna materia³ów";42;4
+2;10;7;10;"Fizykochemiczne metody badañ materia³ów";42;4
+2;10;7;11;"Kompozyty metaliczne";42;4
+2;10;7;12;"Projektowanie narzêdzi w przeróbce plastycznej";42;4
+2;11;1;1;"Podstawy techniki wiertnictwa, gazownictwa i eksploatacji";28;2
+2;11;1;2;"Górnictwo ogólne                                                        ";28;3
+2;11;1;3;"Geologia ogólna";56;5
+2;11;1;4;"Ochrona œrodowiska w górnictwie naftowym";56;3
+2;11;1;5;"Matematyka I                                                          ";56;7
+2;11;1;6;"BHP i ergonomia I";42;3
+2;11;1;7;"Chemia ";42;4
+2;11;1;8;"Geometria i grafika in¿ynierska                               ";28;3
+2;11;2;1;"Fizyka I ";56;5
+2;11;2;2;"Informatyka  ";56;4
+2;11;2;3;"Geologia naftowa    ";56;5
+2;11;2;4;"Mineralogia i petrografia  ";28;2
+2;11;2;5;"Matematyka II  ";56;7
+2;11;2;6;"Mechanika";42;3
+2;11;2;7;"Chemia organiczna i technologie przeróbki wêglowodorów";42;4
+2;11;3;1;"Fizyka  II  ";56;7
+2;11;3;2;"Wytrzyma³oœæ materia³ów";28;3
+2;11;3;3;"Geofizyka poszukiwawcza";28;3
+2;11;3;4;"Wiertnictwo naftowe";56;6
+2;11;3;5;"Matematyka stosowana   ";56;5
+2;11;3;6;"Ekonomika i marketing w przemyœle naftowym ";28;2
+2;11;3;7;"Mechanika p³ynów";42;4
+2;11;4;1;"Termodynamika";56;6
+2;11;4;2;"Geomechanika";42;3
+2;11;4;3;"In¿ynieria z³o¿owa";42;5
+2;11;4;4;"Podstawy konstrukcji maszyn ";56;4
+2;11;4;5;"Geofizyka wiertnicza";42;4
+2;11;4;6;"Statystyka matematyczna";28;2
+2;11;5;1;"Procesy technologiczne w gazownictwie ziemnym";42;5
+2;11;5;2;"P³uczki wiertnicze";28;5
+2;11;5;3;"Techniki i technologie bezwykopowe";28;3
+2;11;5;4;"Eksploatacja gazu ziemnego";56;6
+2;11;5;5;"Mechanika  i hydromechanika z³ó¿ ropy i gazu";42;4
+2;11;5;6;"Wiercenia in¿ynieryjne";42;4
+2;11;5;7;"Prawo europejskie/energetyczne";28;2
+2;11;5;8;"Niekonwencjonalne Ÿród³a energii";28;2
+2;11;6;1;"Eksploatacja z³ó¿ ropy naftowej";84;6
+2;11;6;2;"Magazynowanie ropy naftowej";28;2
+2;11;6;3;"Projektowanie otworów naftowych";42;3
+2;11;6;4;"Technologia cementowania";42;5
+2;11;6;5;"Zagospodarowanie z³ó¿ ropy ";28;3
+2;11;6;6;"Automatyzacja w kopalnictwie naftowym";28;3
+2;11;6;7;"Technologia przeróbki ropy";28;2
+2;11;6;8;"Ocena oddzia³ywania inwestycji ma œrodowisko";28;2
+2;11;6;9;"Eksploatacja z³ó¿ wód";28;2
+2;11;7;1;"Magazynowanie gazu ziemnego ";28;3
+2;11;7;2;"Pozyskiwanie metanu z pok³adów wêgla";28;3
+2;11;7;3;"Prawo geologiczne, górnicze, wodne i budowlane ";42;5
+2;11;7;4;"Transport gazu";56;4
+2;11;7;5;"Metody EOR  ";28;3
+2;11;7;6;"Prawo geologiczne, górnicze, wodne i budowlane";42;5
+2;11;7;7;"Zagospodarowanie z³ó¿ ropy ";42;3
+2;11;7;8;"Urz¹dzenia eksploatacyjne  ";42;4
+2;11;7;9;"Urz¹dzenia wiertnicze ";28;3
+2;11;7;10;"Technologia wiercenia otworów";42;3
+2;11;7;11;"Technologia cementowania";42;4
+2;11;7;12;"Prawo geologiczne, górnicze, wodne i budowlane                  ";42;5
+3;1;1;1;"Edukacja ekologiczna";14;2
+3;1;1;2;"Matematyka I";84;9
+3;1;1;3;"Chemia";56;6
+3;1;1;4;"Geometria wykreœlna";28;3
+3;1;1;5;"Podstawy in¿ynierii i ochrony œrodowiska";28;2
+3;1;1;6;"Technologie informacyjne";28;2
+3;1;1;7;"Podstawy ekonomii";28;2
+3;1;1;8;"BHP i ergonomia";56;2
+3;1;1;9;"Hydrologia";28;2
+3;1;1;10;"Podstawy geologii i mineralogii";28;2
+3;1;2;1;"Prawo w ochronie œrodowiska";28;2
+3;1;2;2;"Matematyka II";56;6
+3;1;2;3;"Fizyka";56;6
+3;1;2;4;"Informatyczne podstawy projektowania";56;4
+3;1;2;5;"Grafika in¿ynierska i rysunek techniczny";28;3
+3;1;2;6;"Biologia i ekologia";56;4
+3;1;2;7;"Podstawy geodezji";28;3
+3;1;2;8;"Od górnictwa do geotechniki";28;2
+3;1;2;9;"Wszechœwiat - pocz¹tek, ewolucja, cz³owiek";28;2
+3;1;2;10;"Nurkowanie- historia i podbój g³êbin a eksploatacja podwodna";28;2
+3;1;2;11;"Jêzyk polski w technice";28;2
+3;1;3;1;"Mechanika p³ynów";42;4
+3;1;3;2;"Hydrogeologia";28;3
+3;1;3;3;"Gospodarka wodna i ochrona wód";28;2
+3;1;3;4;"Gospodarka odpadami";56;4
+3;1;3;5;"Technologie oczyszczania wody i œcieków";56;4
+3;1;3;6;"Fizyka II";28;3
+3;1;3;7;"Mechanika techniczna";28;3
+3;1;3;8;"Budownictwo ogólne";42;3
+3;1;3;9;"Ekonomika przedsiêbiorstwa";28;2
+3;1;3;10;"Ekonomika i organizacja procesów inwestycyjnych";28;2
+3;1;3;11;"Komunikacja interpersonalna";28;2
+3;1;3;12;"Spo³eczna odpowiedzialnoœæ biznesu";28;2
+3;1;4;1;"Czystsza produkcja";42;3
+3;1;4;2;"Ogrzewnictwo i ciep³ownictwo";42;3
+3;1;4;3;"Systemy informacji przestrzennej";28;4
+3;1;4;4;"Ochrona powietrza";28;2
+3;1;4;5;"Materia³oznawstwo";28;2
+3;1;4;6;"Wytrzyma³oœæ materia³ów";28;2
+3;1;4;7;"Termodynamika techniczna";42;4
+3;1;4;8;"Technika ch³odnicza i klimatyzacyjna";42;4
+3;1;4;9;"Podstawy biotechnologii w in¿ynierii œrodowiska";28;3
+3;1;4;10;"Chemia œrodowiska";28;3
+3;1;4;11;"In¿ynieria elektryczna";28;2
+3;1;4;12;"Metody wspomagania decyzji";28;2
+3;1;5;1;"Ocena oddzia³ywania na œrodowisko";56;4
+3;1;5;2;"Metrologia i monitoring";56;4
+3;1;5;3;"Mechanika gruntów i geotechnika";28;3
+3;1;5;4;"Wentylacja i klimatyzacja pomieszczeñ";56;5
+3;1;5;5;"Instalacje wentylacyjne i klimatyzacyjne";28;2
+3;1;5;6;"Maszyny do robót ziemnych";28;2
+3;1;5;7;"Automatyka i sterowanie w klimatyzacji";42;5
+3;1;5;8;"Przetwarzanie surowców i odpadów";56;5
+3;1;5;9;"Planowanie przestrzenne i architektura krajobrazu";56;5
+3;1;5;10;"Stacje i urz¹dzenia pomiarowe";56;5
+3;1;6;1;"Praktyka technologiczna";0;4
+3;1;6;2;"Ochrona w³asnoœci intelektualnej";14;1
+3;1;6;3;"Budowle ziemne i hydrotechniczne";28;2
+3;1;6;4;"Techniki odzysku i unieszkodliwiania odpadów";56;5
+3;1;6;5;"Rekultywacja i rewitalizacja";56;3
+3;1;6;6;"Ochrona dziedzictwa przemys³owego";56;3
+3;1;6;7;"Projektowanie wentylacji i klimatyzacji";56;5
+3;1;6;8;"Maszyny i urz¹dzenia w przetwórstwie odpadów";42;5
+3;1;6;9;"Wykonywanie i przebudowa sk³adowisk";42;5
+3;1;6;10;"Systemy komputerowe w monitoringu œrodowiska";42;5
+3;1;7;1;"Projekt dyplomowy in¿ynierski";0;15
+3;1;7;2;"Instalacje i sieci sanitarne";42;4
+3;1;7;4;"Applied Geomechanics";28;3
+3;1;7;5;"Hydraulics of Water Wells";28;3
+3;1;7;6;"Introduction to Rock Mechanics";28;3
+3;1;7;7;"Material engineering In underground and geotechnical construction";28;3
+3;1;7;8;"Mine Water and Environment";28;3
+3;1;7;9;"Mining & Economy";28;3
+3;1;7;10;"Mining & Environment";28;3
+3;1;7;11;"Mining & Reclamation";28;3
+3;1;7;12;"Komputerowy program u¿ytkowy w wentylacji";14;3
+3;1;7;13;"Komputerowy program u¿ytkowy w gospodarce odpadami";14;3
+3;1;7;14;"Komputerowy program u¿ytkowy w rewitalizacji";14;3
+3;1;7;15;"Komputerowy program u¿ytkowy w monitoringu œrodowiska";14;3
+3;2;1;1;"Chemia";56;6
+3;2;1;2;"Fizyka I";56;6
+3;2;1;3;"Bezpieczeñstwo i Higiena Pracy";28;2
+3;2;1;4;"Podstawy informatyki";56;5
+3;2;1;5;"Analiza Matematyczna I";56;6
+3;2;1;6;"Algebra";28;3
+3;2;1;7;"Ochrona œrodowiska";28;2
+3;2;2;1;"Fizyka II";56;6
+3;2;2;2;"Ekonomika i Zarz¹dzanie";28;1
+3;2;2;3;"Mechanika i wytrzyma³oœæ materia³ów";56;5
+3;2;2;4;"Podstawy nauki o materia³ach";56;5
+3;2;2;5;"Podstawy termodynamiki";56;5
+3;2;2;6;"Grafika in¿ynierska i systemy CAD";56;5
+3;2;2;7;"Analiza matematyczna II";28;3
+3;2;3;1;"Wymiana ciep³a i masy";56;5
+3;2;3;2;"Materia³y in¿ynierskie";56;5
+3;2;3;3;"Technologie wytwarzania i przetwarzania metali";56;5
+3;2;3;4;"Teoria pomiarów i planowanie eksperymentu";28;3
+3;2;3;5;"Równania ró¿niczkowe i rachunek wariacyjny";56;6
+3;2;3;6;"Biopaliwa";56;6
+3;2;3;7;"Korozja i ochrona przed korozj¹";56;6
+3;2;4;1;"Historia techniki i kultury materialnej";28;2
+3;2;4;2;"Programowanie proceduralne i obiektowe";56;5
+3;2;4;3;"Technika cieplna";56;5
+3;2;4;4;"Metody numeryczne";56;4
+3;2;4;5;"Mechanika p³ynów";56;4
+3;2;4;6;"Ciep³ownictwo, ogrzewnictwo i ch³odnictwo";56;5
+3;2;4;7;"Odnawialne Ÿród³a energii";56;5
+3;2;4;8;"Bazy danych";56;5
+3;2;4;9;"In¿ynieria powierzchni w energetyce";56;5
+3;2;5;1;"Gospodarka energetyczna";56;5
+3;2;5;2;"Elektrotechnika i elektronika";42;4
+3;2;5;3;"Urz¹dzenia cieplne";56;5
+3;2;5;4;"Miernictwo energetyczne";56;4
+3;2;5;5;"Automatyka i Sterowanie (ENG)";42;6
+3;2;5;6;"Metody badañ materia³ów (ENG)";42;6
+3;2;5;7;" Podstawy sztucznej inteligencji";56;6
+3;2;5;8;"In¿ynieria Spajania";56;6
+3;2;5;9;"Spalanie niskoemisyjne";56;6
+3;2;6;1;"Praktyki 4";100;4
+3;2;6;2;"Materia³y ceramiczne w in¿ynierii ciep³a";56;5
+3;2;6;3;"Energetyka j¹drowa";56;5
+3;2;6;4;"Modelowanie procesów cieplnych";56;5
+3;2;6;5;"Metody oczyszczania gazów";56;5
+3;2;6;6;"Techniki procesów spalania";70;6
+3;2;6;7;"Techniki badawcze warstw wierzchnich i pow³ok";56;6
+3;2;6;8;"Napawanie i natryskiwanie cieplne";56;5
+3;2;6;9;"Obróbka cieplna metali";56;5
+3;2;7;1;"Projekt in¿ynierski";0;15
+3;2;7;2;"Korozja wysokotemperaturowa";56;5
+3;2;7;3;"Mechanizmy zu¿ycia warstw wierzchnich";56;5
+3;2;7;4;"Urz¹dzenia do obróbki powierzchniowej";56;5
+3;2;7;5;"Gospodarka i utylizacja odpadów";56;5
+3;2;7;6;"Pakiety numeryczne dla energetyki";56;5
+3;2;7;7;"Surowce energetyczne i paliwa";56;5
+3;3;1;1;"Algebra liniowa i geometria analityczna";56;5
+3;3;1;2;"Analiza matematyczna";84;7
+3;3;1;3;"Matematyka dyskretna";28;3
+3;3;1;4;"Wstêp do informatyki";56;4
+3;3;1;5;"Je?zyki i metody programowania 1";56;4
+3;3;1;6;"Wste?p do systemo´w uniksowych";56;4
+3;3;1;7;"Narzêdzia pracy grupowej";28;3
+3;3;2;1;"Fizyka 1";42;5
+3;3;2;2;"Logika";42;4
+3;3;2;3;"Rachunek prawdopodobien´stwa i statystyka";56;4
+3;3;2;4;"Równania ró¿niczkowe";28;3
+3;3;2;5;"Je?zyki i metody programowania 2";56;4
+3;3;2;6;"Algorytmy i struktury danych";56;4
+3;3;2;7;"Podstawy grafiki komputerowej";56;4
+3;3;2;8;"Sk³ad dokumentów w œrodowisku LaTeX";28;2
+3;3;3;1;"Fizyka 2";42;4
+3;3;3;2;"Podstawy elektroniki cyfrowej";56;4
+3;3;3;3;"Programowanie obiektowe";56;5
+3;3;3;4;"Architektury komputerów";28;3
+3;3;3;5;"Metody numeryczne";28;3
+3;3;3;6;"Analiza numeryczna i symulacja systemo´w";28;3
+3;3;3;7;"Systemy dynamiczne";42;4
+3;3;3;8;"Je?zyki i technologie webowe";56;4
+3;3;4;1;"Prawo autorskie i patentowe";14;1
+3;3;4;2;"Badania operacyjne i teoria z³ozÿonos´ci obliczeniowej";56;5
+3;3;4;3;"Sieci komputerowe";56;5
+3;3;4;4;"Podstawy automatyki";56;4
+3;3;4;5;"Paradygmaty programowania";56;5
+3;3;4;6;"Programowanie mikrokontrolero´w i mikroprocesoro´w";56;4
+3;3;4;7;"Systemy operacyjne";56;4
+3;3;4;8;"Podstawy negocjacji";28;2
+3;3;4;9;"Wiedza o nauce";28;2
+3;3;4;10;"Religie œwiata: cz³owiek a sacrum";28;2
+3;3;5;1;"Aspekty prawne i organizacja przedsiêbiorstwa";28;2
+3;3;5;2;"Inzÿynieria oprogramowania";42;3
+3;3;5;3;"Programowanie wspo´³biezÿne i rozproszone";56;4
+3;3;5;4;"Przetwarzanie obrazów cyfrowych";56;4
+3;3;5;5;"Bazy danych";56;4
+3;3;5;6;"Lingwistyka formalna i automaty";42;3
+3;3;5;7;"Wprowadzenie do wzorco´w projektowych";28;3
+3;3;5;8;"Wzorce i problemy projektowe";28;3
+3;3;5;9;"Technologie agentowe w modelowaniu i symulacji";28;3
+3;3;5;10;"Modelowanie i symulacja systemo´w";28;3
+3;3;5;11;"Analiza i modelowanie oprogramowania";56;4
+3;3;5;12;"Je?zyki UML i SysML";56;4
+3;3;6;1;"Teoria kompilacji i kompilatory";56;4
+3;3;6;2;"Podstawy sztucznej inteligencji";42;4
+3;3;6;3;"Studio projektowe 1";42;3
+3;3;6;4;"SOA w projektowaniu i implementacji oprogramowania";56;4
+3;3;6;5;"Technologie integracji oprogramowania";56;4
+3;3;6;6;"Systemy czasu rzeczywistego";56;4
+3;3;6;7;"Systemy wbudowane";56;4
+3;3;6;8;"Hurtownie danych";28;2
+3;3;6;9;"Systemy wspomagania zarz¹dzania";28;2
+3;3;7;1;"Studio projektowe 2";42;2
+3;3;7;2;"Systemy informatyczne ERP";42;3
+3;3;7;3;"Systemy informatyczne zarz¹dzania produkcj¹";42;3
+3;3;7;4;"Systemy i technologie wirtualizacji";28;2
+3;3;7;5;"Wprowadzenie do technologii mobilnych";56;4
+3;3;7;6;"Multimedia i transmisje multimedialne";42;3
+3;3;7;7;"Systemy rekonfigurowalne";56;3
+3;3;7;8;"Interfejsy multimodalne";56;3
+3;3;7;9;"Inteligencja obliczeniowa w analizie danych cyfrowych";56;3
+3;4;1;1;"Physics 1";70;5
+3;4;1;2;"Algebra";56;5
+3;4;1;3;"Mathematical Analysis 1";84;6
+3;4;1;4;"Methodology and programming techniques 1";56;5
+3;4;1;5;"Industrial safety and ergonomics";8;1
+3;4;1;6;"Information Technology";28;2
+3;4;1;7;"Circuits Theory 1";48;4
+3;4;1;8;"Humanities Subject";28;2
+3;4;2;1;"Physics 2";84;7
+3;4;2;2;"Mathematical Analysis 2";56;4
+3;4;2;3;"Probability and statistics";42;3
+3;4;2;4;"Circuits Theory 2";48;5
+3;4;2;5;"Methods and Programming Techniques 2";42;3
+3;4;2;6;"Electronic  Devices";56;5
+3;4;2;7;"Electronic Metrology";28;3
+3;4;3;1;"Signals Theory";70;6
+3;4;3;2;"Simulation of Electronic Circuits";28;3
+3;4;3;3;"Computational Techniques";28;3
+3;4;3;4;"Analogue Electronic Circuits 1";84;6
+3;4;3;5;"Digital Electronics and Programmable Devices";84;6
+3;4;3;6;"Introduction to Telecommunications";42;5
+3;4;3;7;"Protection of intellectual property";7;1
+3;4;4;1;"Microprocessor Technology 1";42;4
+3;4;4;2;"Digital Signal Processing";56;4
+3;4;4;3;"Operating Systems";56;4
+3;4;4;4;"Optoelectronics";42;4
+3;4;4;5;"Computer Networks";56;5
+3;4;4;6;"Analogue Electronic Circuits 2";56;5
+3;4;4;7;"Fundamentals of Economics, Finance and Business Law";28;2
+3;4;4;8;"Introduction to Mechanics";28;2
+3;4;4;9;"CAD and 3D modeling";15;2
+3;4;5;1;"Microprocessor Technology  2";42;4
+3;4;5;2;"Telecommunication Networks and Systems";52;5
+3;4;5;3;"Computer measurement systems";28;4
+3;4;5;4;"Integrated circuits and systems";49;4
+3;4;5;5;"Object-Oriented Programming Language";56;4
+3;4;5;6;"RF Electronics";52;5
+3;4;5;7;"Design Laboratory";28;4
+3;4;6;1;"Wireless techniques and systems";38;4
+3;4;6;2;"Elective Module sem 6";210;15
+3;4;7;1;"Thesis seminar";28;3
+3;4;7;2;"Elective Module sem 7";168;12
+3;10;1;1;"Podstawy zarz¹dzania";42;3
+3;10;1;2;"Materia³oznawstwo";56;3
+3;10;1;3;"Technologie informacyjne";28;2
+3;10;1;4;"Grafika in¿ynierska i rysunek techniczny";42;3
+3;10;1;5;"Matematyka";70;6
+3;10;1;6;"Statystyka";42;3
+3;10;1;7;"Chemia";56;6
+3;10;1;8;"Mikro i makroekonomia I";28;2
+3;10;1;9;" Podstawy negocjacji";28;2
+3;10;2;1;"Informatyka";28;3
+3;10;2;2;"Technologia metali";42;2
+3;10;2;3;"Rynek metali";28;2
+3;10;2;4;"Matematyka dla in¿ynierów";56;6
+3;10;2;5;"Fizyka I";56;6
+3;10;2;6;"Badania operacyjne";42;3
+3;10;2;7;"Mikro i makroekonomia II";42;2
+3;10;2;8;"Ekologia i zarz¹dzanie œrodowiskiem";42;3
+3;10;2;9;"Historia wynalazków i odkryæ w technice obieralny";42;3
+3;10;2;10;"Przedmiot humanistyczny (obieralny I)";28;2
+3;10;2;11;"Przedmiot humanistyczny (obieralny II)";14;1
+3;10;3;1;"Finanse i rachunkowoœæ";42;3
+3;10;3;2;"Zarz¹dzanie jakoœci¹ i bezpieczeñstwem";42;4
+3;10;3;3;"Metaloznawstwo i obróbka cieplna";56;4
+3;10;3;4;"Metalurgia metali nie¿elaznych";70;5
+3;10;3;5;"Przeróbka plastyczna metali";56;5
+3;10;3;6;"Fizyka II";56;6
+3;10;3;7;"Marketing";28;3
+3;10;4;1;"Rachunek kosztów dla in¿ynierów";42;3
+3;10;4;2;"Projektowanie in¿ynierskie";56;5
+3;10;4;3;"Procesy i techniki produkcyjne I";42;3
+3;10;4;4;"Metrologia";28;2
+3;10;4;5;"Technologie w przemyœle kablowym";42;3
+3;10;4;6;"Recykling metali";42;4
+3;10;4;7;"Automatyzacja i robotyzacja procesów produkcyjnych";28;3
+3;10;4;8;"Elektrotechnika i elektronika";42;3
+3;10;4;9;"Prawo gospodarcze";42;4
+3;10;5;1;"Procesy i techniki produkcyjne II";42;4
+3;10;5;2;"Komputerowe wspomaganie prac in¿ynierskich";42;3
+3;10;5;3;"Fizyczne metody badañ materia³ów";42;3
+3;10;5;4;"Metalurgia metali rzadkich";42;3
+3;10;5;5;"In¿ynieria transportu";42;3
+3;10;5;6;"Zarz¹dzanie personelem";42;3
+3;10;5;7;"Analiza strukturalna powierzchni";42;3
+3;10;5;8;"Walcowanie profilowe";42;3
+3;10;5;9;"Tarcie i smarowanie w przeróbce plastycznej";42;3
+3;10;5;10;"Materia³y modelowe w przeróbce plastycznej";56;3
+3;10;5;11;"Zarz¹dzanie produkcj¹ i us³ugami";56;5
+3;10;5;12;"Stopy ¿elaza";42;3
+3;10;5;13;"Nanokompozyty metaliczne";42;3
+3;10;5;14;"Zarz¹dzanie produkcj¹ i us³ugami";56;5
+3;10;5;15;"Podstawy krystalizacji i odlewanie ci¹g³e";42;3
+3;10;5;16;"Energetyka hutnicza";42;3
+3;10;5;17;"Zarz¹dzanie produkcj¹ i us³ugami";56;5
+3;10;6;1;"Ochrona w³asnoœci intelektualnej";14;1
+3;10;6;2;"Logistyka w przedsiêbiorstwie";28;2
+3;10;6;3;"Techniki spajania materia³ów";42;3
+3;10;6;4;"Gospodarka wodna i œcieki przemys³owe";42;3
+3;10;6;5;"Kowalstwo artystyczne i u¿ytkowe";42;3
+3;10;6;6;"Technologie wytwarzania rur z metali nie¿elaznych";42;3
+3;10;6;7;"Kszta³towanie wyrobów pow³okowych";42;3
+3;10;6;8;"Projektowanie narzêdzi do przeróbki plastycznej";42;3
+3;10;6;9;"Podstawy modelowania procesów przeróbki plastycznej";42;3
+3;10;6;10;"Metalurgia proszków";42;3
+3;10;6;11;"Materia³y narzêdziowe";42;3
+3;10;6;12;"Materia³y dla elektroniki";42;3
+3;10;6;13;"Kszta³towanie wyrobów pow³okowych";42;3
+3;10;6;14;"Hydrometalurgia metali nie¿elaznych";42;3
+3;10;6;15;"Konstrukcje in¿ynierskie w metalurgii";42;3
+3;10;6;16;"Kszta³towanie wyrobów pow³okowych";42;3
+3;10;6;17;"Metalurgia proszków";42;3
+3;10;7;1;"Metale w medycynie";56;4
+3;10;7;2;"Wyroby z metali szlachetnych";56;4
+3;10;7;3;"Korozja metali i stopów";42;3
+3;10;7;4;"Metal forming (modu³ w jêzyku angielskim)";56;4
+3;10;7;5;"Ergonomia";42;3
+3;10;7;6;"Utylizacja i neutralizacja odpadów";42;3
+4;1;1;1;"Podstawy psychologii";28;2
+4;1;1;2;"Podstawy zarz¹dzania";42;3
+4;1;1;3;"Geometria i grafika in¿ynierska";42;3
+4;1;1;4;"Rynki surowców mineralnych";28;2
+4;1;1;5;"Matematyka I";56;6
+4;1;1;6;"Chemia";56;6
+4;1;1;7;"Mikroekonomia";42;4
+4;1;1;8;"Technologie informacyjne";28;2
+4;1;1;9;"Prawo gospodarcze";28;2
+4;1;2;1;"Ochrona w³asnoœci intelektualnej";14;1
+4;1;2;2;"Podstawy projektowania in¿ynierskiego";42;4
+4;1;2;3;"Komputerowe wspomaganie prac in¿ynierskich";56;4
+4;1;2;4;"Materia³oznawstwo";28;2
+4;1;2;5;"Matematyka II";56;6
+4;1;2;6;"Fizyka I";42;4
+4;1;2;7;"Makroekonomia";42;4
+4;1;2;8;"Podstawy socjologii";28;2
+4;1;2;9;"Socjologia organizacji";28;2
+4;1;2;10;"Ekologia i zarz¹dzanie œrodowiskowe";42;3
+4;1;2;11;"Zrównowa¿ony rozwój w gospodarce";42;3
+4;1;3;1;"Projektowanie systemów produkcyjnych";70;6
+4;1;3;2;"Mechanika i wytrzyma³oœæ materia³ów";42;3
+4;1;3;3;"In¿ynieria elektryczna";42;3
+4;1;3;4;"Podstawy metrologii";28;2
+4;1;3;5;"Statystyka";56;6
+4;1;3;6;"Fizyka II";42;5
+4;1;3;7;"Ekonomika przedsiêbiorstwa";28;2
+4;1;3;8;"Diagnostyka przedsiêbiorstwa";28;2
+4;1;3;9;"Bezpieczeñstwo i ergonomia pracy";28;3
+4;1;3;10;"Systemy zarz¹dzania bezpieczeñstwem w przedsiêbiorstwach";28;3
+4;1;4;1;"Badania operacyjne";56;6
+4;1;4;2;"Metody zarz¹dzania produkcj¹";56;6
+4;1;4;3;"Rachunkowoœæ";42;3
+4;1;4;4;"Reengineering";42;4
+4;1;4;5;"Podstawy konstrukcji maszyn";28;3
+4;1;4;6;"Sterowanie przep³ywem produkcji";28;2
+4;1;4;7;"Zintegrowane systemy zarz¹dzania";28;2
+4;1;4;8;"Zarz¹dzanie personelem";28;2
+4;1;4;9;"Komunikacja i stosunki interpersonalne w przedsiêbiorstwie";28;2
+4;1;4;10;"Symulacja stochastyczna w modelowaniu procesów in¿ynierskich";28;2
+4;1;4;11;"Niezawodnoœæ systemów in¿ynierskich";28;2
+4;1;4;12;"Geologia";28;2
+4;1;4;13;"Ochrona powietrza";28;2
+4;1;5;1;"Logistyka w przedsiêbiorstwie";42;5
+4;1;5;2;"Rachunek kosztów dla in¿ynierów";28;3
+4;1;5;3;"Zarz¹dzanie projektem";42;5
+4;1;5;4;"Ekonometria";42;4
+4;1;5;5;"Podstawy automatyzacji i robotyzacji";28;2
+4;1;5;6;"Spo³eczna odpowiedzialnoœæ biznesu";14;2
+4;1;5;7;"Marketing";42;3
+4;1;5;8;"Komunikacja marketingowa przedsiêbiorstwa";42;3
+4;1;5;9;"Modelowanie i optymalizacja produkcji przemys³owej";42;3
+4;1;5;10;"Zaawansowane metody optymalizacji";42;3
+4;1;5;11;"Podstawy górnictwa";42;3
+4;1;5;12;"Gospodarka wodna";42;3
+4;1;6;1;"Finanse przedsiêbiorstwa";70;6
+4;1;6;2;"Zarz¹dzanie jakoœci¹";56;6
+4;1;6;3;"Innowacyjnoœæ i projektowanie produktu";56;4
+4;1;6;4;"Praktyka technologiczna";0;4
+4;1;6;5;"E-biznes";28;2
+4;1;6;6;"Marketing internetowy";28;2
+4;1;6;7;"Ekonomika i organizacja procesów inwestycyjnych";42;3
+4;1;6;8;"Ocena ekonomiczna efektywnoœci projektów inwestycyjnych";42;3
+4;1;7;1;"Projekt in¿ynierski";0;15
+4;1;7;3;"Strategie przedsiêbiorstw przemys³owych";28;3
+4;1;7;4;"Strategie sektorowe przedsiêbiorstw";28;3
+4;1;7;5;"Rynek papierów wartoœciowych";28;3
+4;1;7;6;"System podatkowy w gospodarce";28;3
+4;1;7;7;"Podstawy gospodarki odpadami";42;4
+4;1;7;8;"Przetwórstwo surowców mineralnych";42;4
+4;2;1;1;"Podstawy projektowania in¿ynierskiego";42;4
+4;2;1;2;"Matematyka I";98;10
+4;2;1;3;"BHP";28;2
+4;2;1;4;"Ochrona œrodowiska";28;2
+4;2;1;5;"Prawo patentowe i ochrona w³asnoœci intelektualnej";14;1
+4;2;1;6;"Chemia ogólna";56;6
+4;2;1;7;"Informatyka";56;5
+4;2;2;1;"Fizyka I";56;6
+4;2;2;2;"Elektrotechnika i elektronika";42;3
+4;2;2;3;"Podstawy metalurgii";42;3
+4;2;2;4;"W³asnoœci materia³ów";28;2
+4;2;2;5;"Polimery i kompozyty";42;3
+4;2;2;6;"Materia³y spiekane i ceramiczne";28;2
+4;2;2;7;"Matematyka II";70;8
+4;2;2;8;"Zarz¹dzanie jakoœci¹";28;2
+4;2;2;9;"Ekonomika i systemy zarz¹dzania";14;1
+4;2;3;1;"Fizyka II";56;6
+4;2;3;2;"Mechanika techniczna i wytrzyma³oœæ materia³ów";56;4
+4;2;3;3;"Mechanika oœrodków ci¹g³ych";56;4
+4;2;3;4;"Metody komputerowe w in¿ynierii materia³owej";42;3
+4;2;3;5;"Grafika in¿ynierska";42;3
+4;2;3;6;"Krystalografia i rentgenografia";56;5
+4;2;3;7;"Materia³y funkcjonalne";28;2
+4;2;3;8;"Dziedzictwo techniki hutniczej";28;3
+4;2;4;1;"Termodynamika techniczna i wymiana ciep³a";56;5
+4;2;4;2;"Metody badañ struktury materia³ów";70;5
+4;2;4;3;"W³asnoœci mechaniczne materia³ów";42;4
+4;2;4;4;"Projektowanie w systemach CAD";42;4
+4;2;4;5;"Podstawy nauki o materia³ach";70;5
+4;2;4;6;"Procesy przeróbki plastycznej";42;4
+4;2;4;7;"Chemia fizyczna";42;3
+4;2;5;1;"Materia³y metaliczne";42;5
+4;2;5;2;"Technologie w in¿ynierii powierzchni";56;5
+4;2;5;3;"Podstawy obróbki cieplnej";42;4
+4;2;5;4;"Obróbka ubytkowa i spajanie";56;5
+4;2;5;5;"Dobór materia³ów w projektowaniu in¿ynierskim";56;5
+4;2;5;6;"Introduction to Powder Metallurgy";42;3
+4;2;5;7;"Fundamentals of Metal Forming";42;3
+4;2;5;8;"Tendencje rozwoju rynku i technologii w hutnictwie œwiatowym";42;3
+4;2;5;9;"Technologie i systemy informacyjne";42;3
+4;2;5;10;"Uszlachetnianie wyrobów stalowych";42;3
+4;2;5;11;"Techniki wytwarzania nanomateria³ów";42;3
+4;2;5;12;"Narzêdzia do przygotowywania tekstów naukowo-technicznych";42;3
+4;2;5;13;"Metody i narzêdzia komputerowej symulacji procesów";42;3
+4;2;5;14;"Programowanie metod numerycznych w MATLABie";42;3
+4;2;5;15;"Formy wspó³pracy i metody pozyskiwania funduszy europejskich";42;3
+4;2;5;16;"Nowoczesne techniki ³¹cznoœci";42;3
+4;2;5;17;"E-gospodarka";42;3
+4;2;5;18;"Komputerowe modelowanie procesów odlewania";42;3
+4;2;6;1;"Praktyka zawodowa 4 tygodnie";0;5
+4;2;6;2;"Biomateria³y";56;5
+4;2;6;3;"Komputerowe projektowanie stali i stopów";56;5
+4;2;6;4;"Wytwarzanie i w³asnoœci materia³ów zdyspergowanych";56;5
+4;2;6;5;"Fizykochemia powierzchni miêdzyfazowych";56;5
+4;2;6;6;"Technologie warstw dekoracyjnych i specjalnych";56;5
+4;2;6;7;"Spektralne i chemiczne metody badañ materia³ów";56;5
+4;2;6;8;"Technologie spajania i ciêcia";56;5
+4;2;6;9;"Spawalnicze Ÿród³a ciep³a";56;5
+4;2;6;10;"Metrologia";56;5
+4;2;6;11;"Systemy i narzêdzia zapewnienia jakoœci";56;5
+4;2;6;12;"Specjalne technologie w przetwórstwie materia³ów";56;5
+4;2;6;13;"Metody projektowania w przetwórstwie materia³ów";56;5
+4;2;6;14;"Maszyny i urz¹dzenia spawalnicze";56;5
+4;2;7;1;"Przygotowanie pracy dyplomowej";0;15
+4;2;7;2;"Materia³y dla energetyki i lotnictwa";56;5
+4;2;7;3;"Metalurgia spawania";56;5
+4;2;7;4;"Formowanie i spiekanie proszków";56;5
+4;2;7;5;"Komputerowe modelowanie formowania materia³ów";56;5
+4;2;7;6;"Urz¹dzenia do obróbki powierzchniowej";56;5
+4;2;7;7;"Mechanizmy zu¿ycia warstw wierzchnich";56;5
+4;2;7;8;"Napawanie i natryskiwanie cieplne";56;5
+4;2;7;9;"Gromadzenie i przetwarzanie danych";56;5
+4;2;7;10;"In¿ynieria jakoœci";56;5
+4;3;1;1;"Fizyka I";56;4
+4;3;1;2;"Matematyka I";112;6
+4;3;1;3;"Metody numeryczne";28;2
+4;3;1;4;"Statystyka i rachunek prawdopodobieñstwa";56;4
+4;3;1;5;"Chemia";56;5
+4;3;1;6;"Biocybernetyka";28;2
+4;3;1;7;"Biologia i genetyka";56;5
+4;3;1;8;"Propedeutyka nauk medycznych";28;2
+4;3;2;1;"Fizyka II";56;5
+4;3;2;2;"Matematyka II";56;5
+4;3;2;3;"Algorytmy i struktury danych";28;2
+4;3;2;4;"Analiza danych pomiarowych";42;2
+4;3;2;5;"Chemia organiczna";56;5
+4;3;2;6;"Podstawy graficznych jêzyków programowania";56;4
+4;3;2;7;"Elektronika praktyczna";54;3
+4;3;2;8;"Podstawy elektrotechniki";70;4
+4;3;3;1;"Laboratorium z fizyki";28;3
+4;3;3;2;"Mechanika i wytrzyma³oœæ";56;4
+4;3;3;3;"Podstawy metrologii";56;5
+4;3;3;4;"Materia³oznawstwo";84;7
+4;3;3;5;"Zarys anatomii";28;3
+4;3;3;6;"Podstawy fizjologii";42;5
+4;3;3;7;"Podstawy fizjologii
+Programowanie komputerów";28;3
+4;3;4;1;"Biofizyka";56;5
+4;3;4;2;"Elementy biochemii";56;5
+4;3;4;3;"Biomateria³y";56;5
+4;3;4;4;"Cyfrowe przetwarzanie sygna³ów";56;5
+4;3;4;5;"Sensory i pomiary wielkoœci nieelektrycznych";56;5
+4;3;4;6;"Zintegrowane systemy pomiarowe wielkoœci nieelektrycznych";56;5
+4;3;4;7;"Projektowanie wspomagane komputerem";56;5
+4;3;4;8;"Projektowanie z wykorzystaniem metody elementów skoñczonych";56;5
+4;3;5;1;"Fizyka medyczna";56;5
+4;3;5;2;"Mikroelektronika";42;4
+4;3;5;3;"Automatyka i robotyka";56;5
+4;3;5;4;"Biomechanika in¿ynierska";56;5
+4;3;5;5;"Grafika komputerowa";42;4
+4;3;5;6;"Podstawy programowania obiektowego";84;7
+4;3;5;7;"Programowanie obiektowe";84;7
+4;3;6;1;"Przedmiot HS niezwi¹zany z kierunkiem studiów";28;2
+4;3;6;2;"Historia medycyny";14;1
+4;3;6;3;"Elektroniczna aparatura medyczna";70;4
+4;3;6;4;"Biomechanika in¿ynierska";14;1
+4;3;6;5;"Implanty i sztuczne narz¹dy";84;4
+4;3;6;6;"Techniki obrazowania medyczego";70;3
+4;3;6;7;"Kryptografia i systemy utajniania informacji";56;3
+4;3;6;8;"Ergonomia i BHP";56;3
+4;3;6;9;"Chemometria";56;3
+4;3;6;10;"Klasyczne i ma³oinwazyjne metody leczenia chirurgicznego";28;3
+4;3;6;11;"Podstawy eksploatacji systemów biotechnicznych";56;3
+4;3;6;12;"Programowanie mikrokontrolerów w jêzyku C/C++";56;3
+4;3;6;13;"Szk³a i materia³y szk³o-ceramiczne do zastosowania w medycynie";56;3
+4;3;6;14;"Problemy globalizacji i modernizacji";56;3
+4;3;6;15;"Wstêp do filozofii przyrody";56;3
+4;3;6;16;"Ochrona w³asnoœci intelektualnej w in¿ynierii biomedycznej";56;3
+4;3;7;1;"Wprowadzenie do filozofii";14;2
+4;3;7;2;"Ochrona w³asnoœci intelektualnej w in¿ynierii biomedycznej";28;3
+4;3;7;3;"Ochrona w³asnoœci intelektualnej w in¿ynierii biomedycznej
+Wprowadzenie do diagnostyki medycznej z u¿yciem promieniowania jonizuj¹cego";30;3
+4;3;7;5;"Biomineralogia";56;4
+4;3;7;6;"Programowanie systemów kontrolno-pomiarowych";56;4
+4;3;7;7;"Biopomiary";56;4
+4;3;7;8;"Metody wizualizacji i prezentacji danych in¿ynierskich";56;4
+4;4;1;1;"Wprowadzenie do systemu UNIX";42;4
+4;4;1;2;"Wstêp do informatyki";56;6
+4;4;1;3;"Algebra";84;5
+4;4;1;4;"Analiza matematyczna 1";84;5
+4;4;1;5;"Matematyka dyskretna";56;5
+4;4;1;6;"Ochrona w³asnoœci intelektualnej";28;2
+4;4;1;7;"Komunikacja i techniki zarz¹dzania";28;3
+4;4;2;1;"Fizyka 1";64;6
+4;4;2;2;"Algorytmy i struktury danych";56;6
+4;4;2;3;"Asemblery";2;3
+4;4;2;4;"Podstawy elektroniki";28;3
+4;4;2;5;"Analiza matematyczna 2";56;5
+4;4;2;6;"Logika matematyczna w informatyce";42;3
+4;4;2;7;"Programowanie imperatywne";42;4
+4;4;3;1;"Fizyka 2";56;6
+4;4;3;2;"Programowanie obiektowe";56;5
+4;4;3;3;"Podstawy baz danych";56;4
+4;4;3;4;"Projektowanie systemów informatycznych";56;4
+4;4;3;5;"Technika cyfrowa";56;4
+4;4;3;6;"Programowanie funkcyjne";28;3
+4;4;3;7;"Równania ró¿niczkowe i ró¿nicowe";56;4
+4;4;4;1;"Metody obliczeniowe w nauce i technice 1";42;4
+4;4;4;2;"Przedmiot obieralny 1";28;3
+4;4;4;3;"Systemy operacyjne";56;5
+4;4;4;4;"Technika mikroprocesorowa 1";56;4
+4;4;4;5;"Technologie obiektowe 1";42;4
+4;4;4;6;"Przedmiot obieralny 2";28;3
+4;4;4;7;"Przedmiot obieralny 3";28;3
+4;4;4;8;"Statystyka matematyczna";56;4
+4;4;5;1;"Bazy danych";42;3
+4;4;5;2;"Architektura komputerów";42;3
+4;4;5;3;"Teoria wspó³bie¿noœci";56;4
+4;4;5;4;"Teoria obliczeñ i z³o¿onoœci obliczeniowej";42;3
+4;4;5;5;"Sieci komputerowe";56;4
+4;4;5;6;"Technika mikroprocesorowa 2";28;3
+4;4;5;7;"Technologie obiektowe 2";28;4
+4;4;5;8;"Teoria automatów i jêzyków formalnych";42;3
+4;4;5;9;"Metody obliczeniowe w nauce i technice 2";42;3
+4;4;6;1;"Kompilatory";56;3
+4;4;6;2;"In¿ynieria oprogramowania";56;4
+4;4;6;3;"Pracownia projektowa 1";28;2
+4;4;6;4;"Metody sztucznej inteligencji";56;3
+4;4;6;5;"Systemy rozproszone";56;3
+4;4;6;6;"Wstêp do grafiki komputerowej";28;3
+4;4;6;7;"Usability Engineering";28;3
+4;4;6;8;"Algorytmy dla problemów trudnych obliczeniowo";28;3
+4;4;6;9;"Programowanie systemowe";28;3
+4;4;6;10;"Technologie internetu rzeczy";28;3
+4;4;6;11;"Technologie aplikacji internetowych";28;3
+4;4;7;1;"Pracownia projektowa 2";28;3
+4;4;7;2;"Badania operacyjne";28;3
+4;4;7;3;"Przedmiot obieralny";28;3
+4;4;7;4;"Optymalizacja kodu na ró¿ne architektury";28;3
+4;4;7;5;"Bezpieczeñstwo systemów komputerowych";28;3
+4;4;7;6;"Geometria obliczeniowa";28;3
+4;4;7;7;"Kryptografia";28;3
+4;4;7;8;"Metody rozpoznawania obrazów";28;3
+4;4;7;9;"Systemy CAD/CAE";28;3
+5;2;1;1;"Fizyka I";56;6
+5;2;1;2;"Podstawy programowania";84;5
+5;2;1;3;"Wstêp do fizyki Ziemi";42;3
+5;2;1;4;"Analiza matematyczna I";56;5
+5;2;1;5;"Algebra";56;5
+5;2;1;6;"Chemia";60;6
+5;2;2;1;"Fizyka II";56;6
+5;2;2;2;"Matematyka dyskretna i logika";56;5
+5;2;2;3;"Algorytmy i struktury danych";84;6
+5;2;2;4;"Monitoring i teledetekcja";42;3
+5;2;2;5;"Analiza matematyczna II";56;5
+5;2;2;6;"Rachunek prawdopodobieñstwa i statystyka";56;5
+5;2;3;1;"Podstawy elektroniki i miernictwa";56;5
+5;2;3;2;"Systemy operacyjne";56;5
+5;2;3;3;"Programowanie obiektowe";56;5
+5;2;3;4;"Architektury komputerów";42;4
+5;2;3;5;"Analiza matematyczna III";56;6
+5;2;3;6;"Równania ró¿niczkowe i rachunek wariacyjny";56;5
+5;2;4;1;"Metody numeryczne";56;6
+5;2;4;2;"Teoria sygna³ów";56;5
+5;2;4;3;"Sieci komputerowe i administracja systemów";84;7
+5;2;4;4;"Bazy danych";56;5
+5;2;4;5;"Grafika komputerowa";56;5
+5;2;4;6;"Prawo patentowe";14;2
+5;2;5;1;"Podstawy sztucznej inteligencji";56;5
+5;2;5;2;"In¿ynieria oprogramowania";56;5
+5;2;5;3;"Przetwarzanie równoleg³e i rozproszone";56;5
+5;2;5;4;"Analiza i przetwarzanie obrazów cyfrowych";56;5
+5;2;5;5;"Modelowanie w in¿ynierii";56;5
+5;2;5;6;"CAD/CAM";56;5
+5;2;5;7;"Ochrona œrodowiska";28;2
+5;2;5;8;"Ekonomika i zarz¹dzanie";28;3
+5;2;5;9;" Podstawy negocjacji";28;2
+5;2;5;10;"Wiedza o nauce";28;2
+5;2;5;11;"Religie œwiata: cz³owiek a sacrum";28;2
+5;2;6;1;"Praktyka zawodowa 4 tygodnie";100;4
+5;2;6;2;"Rozproszona sztuczna inteligencja";56;4
+5;2;6;3;"Projektowania systemów komputerowych";56;4
+5;2;6;4;"Komputerowe projektowanie procesów cieplnych";56;4
+5;2;6;5;"Data mining";56;5
+5;2;6;6;"Advanced Signal Processing";42;5
+5;2;6;7;"Komputerowe systemy pomiarowe";56;4
+5;2;6;8;"Techniki internetowe";56;4
+5;2;6;9;"Bazy danych przestrzennych wraz z elementami GIS";56;4
+5;2;6;10;"Metoda elementów skoñczonych";56;4
+5;2;6;11;"Pakiety numeryczne";56;4
+5;2;6;12;"Java i systemy mobilne";56;4
+5;2;7;1;"Przygotowanie pracy dyplomowej";0;15
+5;2;7;2;"Badania operacyjne i logistyka";56;5
+5;2;7;3;"In¿ynieria wiedzy i systemy ekspertowe";56;5
+5;2;7;4;"Analiza danych przestrzennych";56;5
+5;2;7;5;"Wstêp do modelowania numerycznego w Naukach o Ziemi";56;5
+5;2;7;6;"In¿ynieria Internetu";56;5
+5;2;7;7;"Modelowanie wieloskalowe";56;5
+5;3;1;1;"Fizyka 1";56;6
+5;3;1;2;"Metodyka i technika programowania";56;4
+5;3;1;3;"Teoria obwodów";56;4
+5;3;1;4;"Algebra";56;4
+5;3;1;5;"Analiza matematyczna 1";98;8
+5;3;1;6;"Ochrona w³asnoœci intelektualnej
+Ochrona w³asnoœci intelektualnej";7;1
+5;3;1;7;"Ergonomia i BHP";8;1
+5;3;1;8;"Wiedza o nauce";28;2
+5;3;1;9;" Podstawy negocjacji";28;2
+5;3;1;10;"Religie œwiata: cz³owiek a sacrum";28;2
+5;3;2;1;"Fizyka 2";84;6
+5;3;2;2;"Technika obliczeniowa i symulacyjna";42;3
+5;3;2;3;"Elementy elektroniczne i technologie VLSI";32;3
+5;3;2;4;"Podstawy elektroniki praktycznej";80;4
+5;3;2;5;"Systemy operacyjne";42;4
+5;3;2;6;"Teoria sygna³ów";56;5
+5;3;2;7;"Analiza matematyczna 2";70;5
+5;3;3;1;"Uk³ady elektroniki analogowej 1";84;7
+5;3;3;2;"Uk³ady elektroniki cyfrowej 1";56;6
+5;3;3;3;"Podstawy telekomunikacji";28;3
+5;3;3;4;"Metrologia i elektroniczne przyrz¹dy pomiarowe";56;5
+5;3;3;5;"Podstawy programowania systemów wbudowanych";56;5
+5;3;3;6;"Statystyka i rachunek prawdopodobieñstwa";42;4
+5;3;4;1;"Uk³ady elektroniki analogowej 2";56;5
+5;3;4;2;"Uk³ady elektroniki cyfrowej 2";84;6
+5;3;4;3;"Pomiary biomedyczne i technologiczne";56;4
+5;3;4;4;"Podstawy programowania obiektowego";56;4
+5;3;4;5;"Podstawy graficznych jêzyków programowania";56;6
+5;3;4;6;"Podstawy projektowania obwodów z wykorzystaniem oprogramowania CAD/CAM";56;5
+5;3;5;1;"Programowalne uk³ady logiczne";56;4
+5;3;5;2;"Systemy mikroprocesorowe";70;5
+5;3;5;3;"Podstawy projektowania analogowych uk³adów VLSI";70;5
+5;3;5;4;"Programowanie systemów kontrolno-pomiarowych";56;6
+5;3;5;5;"Podstawy programowania systemów czasu rzeczywistego";56;6
+5;3;5;6;"£¹cznoœæ bezprzewodowa";56;6
+5;3;5;7;"Aparatura medyczna i przemys³owa 1";56;6
+5;3;5;8;"Podstawy projektowania systemów wbudowanych";56;6
+5;3;5;9;"Czujniki w technologiach MEMS";28;2
+5;3;5;10;"Mikroelektronika w systemach multimedialnych";28;2
+5;3;5;11;"Optoelektronika i technika œwiat³owodowa";28;2
+5;3;6;1;"Podstawy projektowania cyfrowych uk³adów VLSI";70;4
+5;3;6;2;"Elektronika w technice samochodowej";56;5
+5;3;6;3;"Programowanie interfejsów szeregowych w systemach wbudowanych";56;3
+5;3;6;4;"Techniki obrazowania medycznego";56;3
+5;3;6;5;"Systemy elektroniczne inteligentnego budynku";56;3
+5;3;6;6;"Systemy elektroniki przemys³owej";56;3
+5;3;6;7;"Procesory sygna³owe i ich zastosowania";56;3
+5;3;6;8;"Aparatura medyczna i przemys³owa 2";56;3
+5;3;6;9;" Podstawy negocjacji";28;2
+5;3;6;10;"Wiedza o nauce";28;2
+5;3;6;11;"Religie œwiata: cz³owiek a sacrum";28;2
+5;3;7;1;"Podstawy prowadzenia dzia³alnoœci gospodarczej";14;2
+5;3;7;3;"Testing and measurements of integrated circuits";56;5
+5;3;7;4;"Computer networks";56;5
+5;3;7;5;"Ko³o naukowe";42;2
+5;3;7;6;"Sk³ad dokumentów w œrodowisku LaTeX";42;2
+5;3;7;7;"Wybrane zagadnienia matematyki stosowanej";42;2
+5;3;7;8;"Integracja i testy aparatury medycznej";42;2
+5;4;1;1;"Podstawy telekomunikacji";42;4
+5;4;1;2;"Podstawy informatyki";56;5
+5;4;1;3;"Wprowadzenie do sieci Internet";56;5
+5;4;1;4;"Algebra";56;4
+5;4;1;5;"Analiza matematyczna 1";112;8
+5;4;1;6;"BHP i ergonomia";7;1
+5;4;1;7;"Ochrona w³asnoœci intelektualnej";7;1
+5;4;1;8;"G³ówne  kierunki filozofii";28;2
+5;4;1;9;" Podstawy negocjacji";28;2
+5;4;1;10;"Od Tolkiena do D. Browna – literatura popularna w XX i XXI wieku";28;2
+5;4;1;11;"Podstawowe zagadnienia  filozofii";28;2
+5;4;1;12;"Wiedza o nauce";28;2
+5;4;1;13;"Filozofia i psychologia mi³oœci.";28;2
+5;4;1;14;"Filozofia przyrody";28;2
+5;4;1;15;"Globalizacja. Nowe wyzwania wspó³czesnego œwiata";28;2
+5;4;1;16;"Konflikty wspó³czesnego œwiata";28;2
+5;4;1;17;"Kultura Bliskiego Wschodu";28;2
+5;4;1;18;"PR i Zarz¹dzanie kultur¹";28;2
+5;4;1;19;"Religie œwiata: cz³owiek a sacrum";28;2
+5;4;1;20;"Zarz¹dzanie organizacjami. Budowanie œcie¿ek kariery";28;2
+5;4;1;21;"Spo³eczeñstwo informacyjne";28;2
+5;4;1;22;"Socjologia. Wybrane zagadnienia";28;2
+5;4;2;1;"Algorytmy i struktury danych";28;2
+5;4;2;2;"Lokalne sieci teleinformatyczne";56;4
+5;4;2;3;"Architektura systemów komputerowych";28;2
+5;4;2;4;"Systemy i sieci telekomunikacyjne";56;3
+5;4;2;5;"Probabilistyka i statystyka";56;4
+5;4;2;6;"Analiza matematyczna 2";56;3
+5;4;2;7;"Fizyka";112;12
+5;4;3;1;"Jêzyki programowania obiektowego";42;3
+5;4;3;2;"Podstawy elektroniki";56;5
+5;4;3;3;"Sygna³y i systemy";56;5
+5;4;3;4;"Media transmisyjne";56;5
+5;4;3;5;"Sieci IP";56;5
+5;4;3;6;"Systemy operacyjne";28;3
+5;4;3;7;"Techniki obliczeniowe w nauce i technice";56;4
+5;4;4;1;"Cyfrowe przetwarzanie sygna³ów";56;5
+5;4;4;2;"Sieci œwiat³owodowe";56;5
+5;4;4;3;"Urz¹dzenia w systemach teleinformatycznych";56;5
+5;4;4;4;"Jêzyki programowania wysokiego poziomu";28;3
+5;4;4;5;"WWW i jêzyki skryptowe";56;4
+5;4;4;6;"Technika cyfrowa";56;5
+5;4;4;7;"In¿ynieria oprogramowania";28;3
+5;4;5;1;"Systemy sygnalizacji i zarz¹dzania";28;3
+5;4;5;2;"Wprowadzenie do sieci z gwarancj¹ obs³ugi";28;3
+5;4;5;3;"Telekomunikacja cyfrowa";42;4
+5;4;5;4;"Bazy danych";56;5
+5;4;5;5;"Techniki radiowe";56;5
+5;4;5;6;"Ruting wewnêtrzny w sieciach IP";56;5
+5;4;5;7;"Programowanie mikroprocesorów";56;5
+5;4;5;8;"Grafika komputerowa";56;5
+5;4;6;1;"Bezprzewodowe sieci teleinformatyczne";56;4
+5;4;6;2;"Bezpieczeñstwo systemów teleinformatycznych";56;3
+5;4;6;3;"Programowanie sieciowe";56;3
+5;4;6;4;"Przetwarzanie i przesy³anie informacji multimedialnych";28;2
+5;4;6;5;"In¿ynieria ruchu w sieci Internet";56;3
+5;4;6;6;"Systemy komórkowe";56;3
+5;4;6;7;"Radio programowalne w praktyce";56;3
+5;4;6;8;"In¿ynieria systemów teleinformatycznych";56;3
+5;4;7;2;"Laboratorium dyplomowe";28;2
+5;4;7;3;"Podstawy ekonomii, finansów i prawa w biznesie";28;2
+5;4;7;4;"Bezpieczeñstwo sieci teleinformatycznych";42;3
+5;4;7;5;"Systemy bezprzewodowe";42;3
+5;4;7;6;"Programowanie urz¹dzeñ mobilnych";42;3
+5;4;7;7;"MPLS Networks";42;3
+5;4;7;8;"Advanced Multimedia Information Processing and Communications";42;3
+5;4;7;9;"Ko³o naukowe";42;3
+6;2;1;1;"Matematyka I";98;11
+6;2;1;2;"Ochrona œrodowiska i gospodarka odpadami";42;3
+6;2;1;3;"Chemia ogólna";56;6
+6;2;1;4;"Podstawy technologii wytwarzania i przetwarzania";56;5
+6;2;1;5;"Bezpieczeñstwo i higiena pracy";42;2
+6;2;1;6;"E-gospodarka";42;3
+6;2;2;1;"Fizyka I";56;6
+6;2;2;2;"Termodynamika techniczna";56;3
+6;2;2;3;"Metody badania materia³ów";56;4
+6;2;2;4;"Grafika in¿ynierska";42;3
+6;2;2;5;"Nauka o materia³ach I";42;2
+6;2;2;6;"Matematyka II";70;7
+6;2;2;7;"Podstawy informatyki";28;2
+6;2;2;8;"Krystalografia i mineralogia";42;3
+6;2;3;1;"Fizyka II";56;6
+6;2;3;2;"Nauka o materia³ach II";70;5
+6;2;3;3;"Wymiana ciep³a i masy";56;6
+6;2;3;4;"Mechanika i wytrzyma³oœæ materia³ów";56;4
+6;2;3;5;"Podstawy projektowania in¿ynierskiego";42;5
+6;2;3;6;"Technologia informacyjna";28;4
+6;2;4;1;"Metalurgia ekstrakcyjna";56;5
+6;2;4;2;"Technika cieplna";56;5
+6;2;4;3;"Mechanika oœrodków ci¹g³ych";56;4
+6;2;4;4;"Projektowanie w systemach CAD";42;5
+6;2;4;5;"Procesy przeróbki plastycznej I";56;5
+6;2;4;6;"Chemia fizyczna";56;5
+6;2;4;7;"Prawo patentowe i ochrona w³asnoœci intelektualnej";14;1
+6;2;5;1;"Procesy przeróbki plastycznej II";56;6
+6;2;5;2;"Metody numeryczne i komputerowe";56;6
+6;2;5;3;"Metalurgia metali nie¿elaznych";42;3
+6;2;5;4;"Elektrotechnika i elektronika";42;3
+6;2;5;5;"Automatyka i sterowanie";42;4
+6;2;5;6;"Zarz¹dzanie jakoœci¹";28;2
+6;2;5;7;"Computer-aided design of casting processes using ProCAST  software";42;3
+6;2;5;8;"Fundamentals of Metal Forming";42;3
+6;2;5;9;"Techniki wytwarzania nanomateria³ów";42;3
+6;2;5;10;"Tendencje rozwoju rynku i technologii w hutnictwie œwiatowym";42;3
+6;2;5;11;"Nowoczesne techniki ³¹cznoœci";42;3
+6;2;5;12;"Programowanie metod numerycznych w MATLABie";42;3
+6;2;5;13;"Uszlachetnianie wyrobów stalowych";42;3
+6;2;5;14;"Metody i narzêdzia komputerowej symulacji procesów";42;3
+6;2;6;1;"Praktyka zawodowa 4 tyg.";0;5
+6;2;6;2;"Techniki programowania";56;5
+6;2;6;3;"Bazy danych";56;5
+6;2;6;4;"Walcownictwo";56;5
+6;2;6;5;"KuŸnictwo i prasownictwo";56;5
+6;2;6;6;"Termodynamika metali i stopów";56;5
+6;2;6;7;"Metalurgia proszków";56;5
+6;2;6;8;"Przygotowanie wsadu i podstawy procesów redukcji";56;5
+6;2;6;9;"Procesy elektrometalurgiczne z elementami sterowania";56;5
+6;2;6;10;"Urz¹dzenia cieplne";56;5
+6;2;6;11;"Ogrzewnictwo i ch³odnictwo";56;5
+6;2;6;12;"Stale stopowe";56;5
+6;2;7;1;"Przygotowanie pracy dyplomowej";0;15
+6;2;7;2;"Modelowanie w technologii materia³ów";56;5
+6;2;7;3;"In¿ynieria internetu";56;5
+6;2;7;4;"Ci¹garstwo i t³ocznictwo";56;5
+6;2;7;5;"Wytwarzanie rur";56;5
+6;2;7;6;"Metalografia iloœciowa";56;5
+6;2;7;7;"Obróbka cieplna";56;5
+6;2;7;8;"Technologia i podstawy sterowania procesami redukcji";56;5
+6;2;7;9;"Stalownicze procesy tlenowe";56;5
+6;2;7;10;"Technika procesów spalania";56;5
+6;2;7;11;"Gospodarka energetyczna";56;5
