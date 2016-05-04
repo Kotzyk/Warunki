@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Warunkolicznik\Przedmioty.csv" />
-    <None Include="Warunkolicznik\wydzialy.csv" />
+    <None Include="Przedmioty.csv" />
+    <None Include="wydzialy.csv" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Warunkolicznik\Source.c">
+    <ClCompile Include="Source.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
