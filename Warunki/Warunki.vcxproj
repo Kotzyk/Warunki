@@ -142,14 +142,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.c" />
+    <ClCompile Include="SourceRafal.c" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Kierunki.csv" />
     <None Include="Przedmioty.csv" />
-    <None Include="wydzialy.csv" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="Warunkolicznik\test.txt" />
+    <None Include="Przedmiotytest.csv" />
+    <None Include="Wydzialy.csv" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

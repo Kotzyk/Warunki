@@ -16,14 +16,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Przedmioty.csv" />
-    <None Include="wydzialy.csv" />
+    <None Include="Przedmiotytest.csv" />
+    <None Include="Kierunki.csv" />
+    <None Include="Wydzialy.csv" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.c">
+    <ClCompile Include="SourceRafal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="Warunkolicznik\test.txt" />
   </ItemGroup>
 </Project>

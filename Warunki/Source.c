@@ -5,30 +5,45 @@
 #define WYDZIALOW 18
 #define KOLUMN 7
 
-
-const char* getfield(char* line, int num)
-//metoda pobieraj¹ca treœæ pola w CSV o wskazanym numerze  
+char* tablica[500][KOLUMN];
+char* getfield(char* line, int num)
 {
-	const char* tok;
-	for (tok = strtok(line, ";"); tok && *tok; tok = strtok(NULL, ";\n"))
+	char* tok;
+	for (tok = strtok(line, ";");
+		tok && *tok;
+		tok = strtok(NULL, ";\n"))
 	{
 		if (!--num)
 			return tok;
 	}
+	return NULL;
 }
 
-void read_csv(FILE* file) {
-//metoda wypisuj¹ca zawartoœæ pierwszego i drugiego pola z skazanego pliku csv
-	char line[512];
-	while (fgets(line, 512, file))
+
+void importCSV(char* csv_file, int kolumny)
+{
+	FILE* stream = fopen(csv_file, "r");
+	char line[1024];
+	int j = 0;
+	while (fgets(line, 1024, stream))
 	{
-		char* tmp = strdup(line);
-		printf("%s : %s \n", getfield(tmp, 1), getfield(tmp, 2));
-		free(tmp);
-		
-	}
-}
 
+		int i;
+
+		for (i = 0; i < kolumny; i++)
+		{
+			char* tmp = strdup(line);
+			char* xdd = getfield(tmp, i + 1);
+			tablica[j][i] = malloc(strlen(xdd) + 1);
+			strcpy(tablica[j][i], xdd);
+			free(tmp);
+		}
+
+		j++;
+		// NOTE strtok clobbers tmp
+	}
+
+}
 
 int is_in_array(char val, char *arr, int size) {
 	int i;
@@ -42,19 +57,8 @@ int is_in_array(char val, char *arr, int size) {
 int main()
 {
 	char wybor, line[512];
-	 //(indeks+1) to IdWydzia³u, przechowywane maj¹ byæ Nazwy
-	char przedmiot[3000][KOLUMN], wydzial[WYDZIALOW];
-	
-	/*Nie mam pomys³u jak inaczej, ale mo¿e takimi tablicami warto. 
-	Ogó³em chodzi ¿eby to co zczytywane jest z ka¿dej csv, np z wydzia³y, by³o zapisywane,
-	¿eby siê potem da³o robiæ coœ pokroju wielopoziomowego wybierania:
-		if(strtoi(wybor) < _WYDZIALY_)
-			>>tu wstawiæ dalsze dzia³ania, które bêd¹ wyœwietlaæ dalsze poziomy w oparciu o podane IdWydzia³u<<
-	*/
-	int lines = 0;
-	FILE* wydzialy = fopen("wydzialy.csv", "r");
-	
-	FILE* przedmioty = fopen("Przedmioty.csv", "r");
+	//(indeks+1) to IdWydzia³u, przechowywane maj¹ byæ Nazwy
+	char przedmiot[3000][KOLUMN], wydzial[WYDZIALOW][1];
 
 	printf("\t \t=================WARUNKOLICZNIK====================\n");
 	printf("Witamy w naszym kalkulatorze do wyskosci warunkow za przedmioty nauczane na AGH,\
@@ -62,26 +66,15 @@ int main()
 	printf("Przedmioty dotyczace j. obcych lub WF zostaly przeniesione odpowiednio pod nr 17 i 18. \n");
 	printf("\t \t Wybierz wydzial z listy: \n");
 
-	while (fgets(line, 512, wydzialy))
+	importCSV("wydzialy.csv", 1);
+	int k, l;
+	for (k = 0; k<WYDZIALOW; k++)  //for jest tylko do wypisywania tablicy
 	{
-		char* tmp = strdup(line);
-		const char* field1 = getfield(tmp, 1);
-		free(tmp);
-		tmp = strdup(line);
-		const char* field2 = getfield(tmp, 2);
-		printf("%s: %s \n", field1, field2 );
-		tmp = strdup(line);
-		field2 = getfield(tmp, 2);
-		wydzial[lines] = field2;
-		lines++;
-		
+		for (l = 0; l<1; l++)
+		{
+			printf("%s ", wydzial[k][l]);
+		}
+		printf("\n");
 	}
-	
-	//read_csv(wydzialy);
-
-	//printf("Nr: ");
-	//scanf("%c", &wybor);
-
-	system("pause");
 	return 0;
 }
