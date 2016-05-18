@@ -100,7 +100,7 @@ void importWydz(char* csv_file, int kolumny)
 
 int main(int argc, char *argv[])
 {
-	//importWydz("wydzialy.csv", 2);
+	importWydz("wydzialy.csv", 2);
 	importKier("Kierunki.csv", 3);
 	//importPrzedm("przedmiotytest.csv", KOLUMNY_A);
 
@@ -129,7 +129,7 @@ int main(int argc, char *argv[])
 		for (k = 0; k < KIERUNKOW; k++)  //for jest tylko do wypisywania tablicy
 		{
 			//if (kierunki[k][0] == wyborW) {
-				for (l = 0; l < 10; l++)
+				for (l = 0; l < 4; l++)
 				{
 					printf("%s ", kierunki[k][l]);
 				}
