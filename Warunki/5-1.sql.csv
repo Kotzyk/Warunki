@@ -1,0 +1,61 @@
+1;5;1;1;Fizyka 1;42;4
+1;5;1;2;Techniki informatyczne;28;3
+1;5;1;3;Techniki wytwarzania;28;2
+1;5;1;4;Zapis konstrukcji 1;54;3
+1;5;1;5;Matematyka 1;112;10
+1;5;1;6;Chemia;56;6
+1;5;1;7;Podstawy psychologii i socjologii;16;2
+1;5;1;8;Podstawy negocjacji;16;2
+1;5;2;1;Fizyka 2;70;8
+1;5;2;2;Informatyka;28;2
+1;5;2;3;Mechanika1;54;4
+1;5;2;4;Podstawy nauki o materia³ach;60;4
+1;5;2;5;Elektrotechnika i elektronika;40;2
+1;5;2;6;Matematyka 2;56;8
+1;5;2;7;Zapis konstrukcji 2;28;2
+1;5;2;8;Grafika in¿ynierska;28;2
+1;5;3;1;Metody numeryczne;42;4
+1;5;3;2;Mechanika 2;52;5
+1;5;3;3;Wytrzyma³oœæ materia³ów;52;5
+1;5;3;4;Podstawy automatyki;70;7
+1;5;3;5;Teoria mechnizmów i maszyn;42;3
+1;5;3;6;Podstawy modelowania i syntezy mechanizmów;42;3
+1;5;3;7;Programowanie obiektowe w C++ i Jawie;28;3
+1;5;3;8;Programowanie obiektowe w Delphi;28;3
+1;5;3;9;Maszyny i urz¹dzenia przeróbki metali;40;3
+1;5;3;10;Technologie przeróbki metali i tworzyw sztucznych;40;3
+1;5;4;1;Napêdy elektryczne;54;4
+1;5;4;2;Podstawy konstrukcji maszyn;65;5
+1;5;4;3;Metrologia i techniki pomiarowe;42;4
+1;5;4;4;Sterowanie ci¹g³e;56;5
+1;5;4;5;Napêdy i sterowanie hydrauliczne i pneumatyczne;54;4
+1;5;4;6;Elementy automatyki przemys³owej;66;5
+1;5;4;7;Wspomaganie projektowania uk³adów automatyki;66;5
+1;5;4;8;Mechanika p³ynów - modelowanie;40;3
+1;5;4;9;Wymiana ciep³a - modelowanie;40;3
+1;5;5;1;Hydrauliczne i pneumatyczne uk³ady automatyki;54;5
+1;5;5;2;Analiza sygna³ów i identyfikacja;56;5
+1;5;5;3;Technika mikroprocesorowa;56;6
+1;5;5;4;Podstawy robotyki;40;4
+1;5;5;5;Sterowanie dyskretne;52;5
+1;5;5;6;Sieci komputerowe i bazy danych;28;2
+1;5;5;7;Techniki informacyjne w praktyce in¿ynierskiej;28;2
+1;5;5;8;Komputerowe wspomaganie projektowania;42;3
+1;5;5;9;Komputerowe wspomaganie prac in¿ynierskich;42;3
+1;5;6;1;Przemys³owe systemy sterowania;56;5
+1;5;6;2;Systemy czasu rzeczywistego;28;2
+1;5;6;3;Roboty przemys³owe;54;5
+1;5;6;4;Automatyzacja procesów produkcyjnych;40;3
+1;5;6;5;Modelowanie procesów produjcyjnych;40;3
+1;5;6;6;In¿ynieria oprogramowania;42;3
+1;5;6;7;Projektowanie systemów informatycznych;42;3
+1;5;7;1;Makroekonomia;36;3
+1;5;7;2;Podstawy marketingu;36;3
+1;5;7;3;Twórczoœæ w technice;36;3
+1;5;7;4;Prawo w technice;36;3
+1;5;7;5;Ergonomia;36;3
+1;5;7;6;Eksploatacja uk³adów automatyki i robotyki;36;3
+1;5;7;7;Odnawialne systemy techniczne w automatyce i robotyce;36;3
+1;5;7;8;Mechatronic design;42;3
+1;5;7;9;Signals and systems;42;3
+

@@ -1,0 +1,88 @@
+5;6;1;1;Techniki informatyczne;42;2
+5;6;1;2;Zanieczyszczenie i metody ochrony powietrza;28;2
+5;6;1;3;Hydrologia in¿ynierska;28;2
+5;6;1;4;Gospodarka odpadami;42;3
+5;6;1;5;Technologie ochrony geosfery;14;1
+5;6;1;6;Matematyka I;56;6
+5;6;1;7;Chemia;56;6
+5;6;1;8;Geometria i grafika komputerowa;42;3
+5;6;1;9;Geologia ogólna I;56;3
+5;6;1;10;Ochrona œrodowiska;28;2
+5;6;2;1;Fizyka I;56;6
+5;6;2;2;Geostatystyka;42;2
+5;6;2;3;Monitoring œrodowiska;28;2
+5;6;2;4;Termodynamika techniczna;28;2
+5;6;2;5;Odnawialne Ÿród³a energii;42;2
+5;6;2;6;Komputerowa grafika in¿ynierska (CAD);42;2
+5;6;2;7;Matematyka II;56;6
+5;6;2;8;Geologia ogólna II;56;4
+5;6;2;9;Zajêcia terenowe z geologii ogólnej;90;4
+5;6;3;1;Fizyka II;56;6
+5;6;3;2;Hydrogeologia;42;5
+5;6;3;3;Gruntoznawstwo;42;3
+5;6;3;4;Podstawy metod badañ geofizycznych;42;3
+5;6;3;5;Podstawy ekonomii i zarz¹dzania;28;2
+5;6;3;6;Mineralogia i petrografia;56;5
+5;6;3;7;Geomorfologia i geologia czwartorzêdu;56;4
+5;6;3;8;Bezpieczeñstwo pracy i ergonomia;28;2
+5;6;4;1;Geofizyka œrodowiska;56;4
+5;6;4;2;Ocena oddzia³ywania na œrodowisko;28;2
+5;6;4;3;Podstawy remediacji i rewitalizacji terenów zdegradowanych;42;3
+5;6;4;4;Gleboznawstwo i rekultywacja gleb;42;4
+5;6;4;5;Przestrzeñ ekologiczna i zrównowa¿ony rozwój;14;2
+5;6;4;6;Chemia œrodowiska;56;4
+5;6;4;7;Gospodarka wodna;28;2
+5;6;4;8;Kartografia;56;4
+5;6;4;9;Zajêcia terenowe z kartografii;60;3
+5;6;4;10;Zajêcia terenowe z odnawialnych Ÿróde³ energii;30;2
+5;6;5;1;Systemy informacji przestrzennej (GIS);42;3
+5;6;5;2;Oddzia³ywanie eksploatacji surowców energetycznych na œrodowisko;42;3
+5;6;5;3;Materia³oznawstwo;28;2
+5;6;5;4;Mechanika i wytrzyma³oœæ materia³ów;28;2
+5;6;5;5;Zarz¹dzanie jakoœci¹ i niezawodnoœæ systemów in¿ynierskich;28;2
+5;6;5;6;Podstawy nauki o z³o¿ach;56;4
+5;6;5;7;Geologia in¿ynierska;42;6
+5;6;5;8;Podstawy hydrogeologii stosowanej;56;6
+5;6;5;9;Geologia regionalna ;28;2
+5;6;5;10;Pierwiastki krytyczne i surowce II generacji Polski i Œwiata;42;6
+5;6;5;11;Podstawy planowania przestrzennego;28;3
+5;6;5;12;Elementy chemii analitycznej;56;5
+5;6;5;13;Ogrzewnictwo, wentylacja i klimatyzacja;56;6
+5;6;5;14;Isotopes in geological and energy studies;42;4
+5;6;5;15;Poszukiwanie i udostêpnienie z³ó¿ gazu ziemnego i wód termalnych;28;4
+5;6;6;1;Ma³e i œrednie przedsiêbiorstwa ;28;2
+5;6;6;2;Ochrona w³asnoœci intelektualnej;14;1
+5;6;6;3;Hydrogeochemia;42;3
+5;6;6;4;Projektowanie i dokumentowanie badañ hydrogeologicznych i geotechnicznych;56;3
+5;6;6;5;Przestrzenne bazy danych;42;3
+5;6;6;6;Komputerowe systemy pomiarowe;42;3
+5;6;6;7;Podstawy mechaniki gruntów;42;3
+5;6;6;8;Application of artificial tracers to determine flow and transport parameters in groundwater systems;28;3
+5;6;6;9;Hydrological modeling with the support of GIS;28;3
+5;6;6;10;Podstawy in¿ynierii bioprocesowej;84;5
+5;6;6;11;Metody badañ fazowych;70;5
+5;6;6;12;Fundamentals of waste managament;42;3
+5;6;6;13;Renaturyzacja techniczna systemów dolin rzecznych;42;3
+5;6;6;14;Podstawy in¿ynierii mineralnej;28;2
+5;6;6;15;Bilansowanie konwencjonalnych i niekonwencjonalnych surowców wêglowodorowych;42;3
+5;6;6;16;Wykorzystanie w OZE energii p³ynów - energetyka wodna i wiatrowa;77;4
+5;6;6;17;Projektowanie i normalizacja w badaniach i pracach œrodowiskowych;28;2
+5;6;6;18;In¿ynieria i eksploatacja z³ó¿ wêglowodorów;42;2
+5;6;6;19;Kartografia geosozologiczna;42;2
+5;6;6;20;Geochemia organiczna ;28;2
+5;6;6;21;Mechanika p³ynów;42;3
+5;6;7;1;Ujêcia wód podziemnych i odwodnienia;35;3
+5;6;7;2;Zarys geotechniki;28;3
+5;6;7;3;Geodynamika in¿ynierska;28;3
+5;6;7;4;Modelowanie i analiza danych przestrzennych;21;2
+5;6;7;5;Podstawy modelowania filtracji wód podziemnych;42;3
+5;6;7;6;Systemy zarz¹dzania œrodowiskiem;42;4
+5;6;7;7;Grunty i surowce ilaste w in¿ynierii œrodowiska;42;3
+5;6;7;8;Walidacja metod analitycznych w in¿ynierii œrodowiska;42;3
+5;6;7;9;Analiza ryzyka œrodowiskowego;42;5
+5;6;7;10;Aspekty œrodowiskowe poszukiwañ i wydobycia paliw niekonwencjolnalnych;28;3
+5;6;7;11;Energetyka j¹drowa;21;2
+5;6;7;12;Energetyka s³oneczna;35;3
+5;6;7;13;Energia biomasy;35;3
+5;6;7;14;Energetyka geotermalna;35;3
+

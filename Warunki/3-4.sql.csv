@@ -1,0 +1,64 @@
+4;3;1;1;Fizyka I;56;4
+4;3;1;2;Matematyka I;112;6
+4;3;1;3;Metody numeryczne;28;2
+4;3;1;4;Statystyka i rachunek prawdopodobieñstwa;56;4
+4;3;1;5;Chemia;56;5
+4;3;1;6;Biocybernetyka;28;2
+4;3;1;7;Biologia i genetyka;56;5
+4;3;1;8;Propedeutyka nauk medycznych;28;2
+4;3;2;1;Fizyka II;56;5
+4;3;2;2;Matematyka II;56;5
+4;3;2;3;Algorytmy i struktury danych;28;2
+4;3;2;4;Analiza danych pomiarowych;42;2
+4;3;2;5;Chemia organiczna;56;5
+4;3;2;6;Podstawy graficznych jêzyków programowania;56;4
+4;3;2;7;Elektronika praktyczna;54;3
+4;3;2;8;Podstawy elektrotechniki;70;4
+4;3;3;1;Laboratorium z fizyki;28;3
+4;3;3;2;Mechanika i wytrzyma³oœæ;56;4
+4;3;3;3;Podstawy metrologii;56;5
+4;3;3;4;Materia³oznawstwo;84;7
+4;3;3;5;Zarys anatomii;28;3
+4;3;3;6;Podstawy fizjologii;42;5
+4;3;3;7;Podstawy fizjologii
+Programowanie komputerów;28;3
+4;3;4;1;Biofizyka;56;5
+4;3;4;2;Elementy biochemii;56;5
+4;3;4;3;Biomateria³y;56;5
+4;3;4;4;Cyfrowe przetwarzanie sygna³ów;56;5
+4;3;4;5;Sensory i pomiary wielkoœci nieelektrycznych;56;5
+4;3;4;6;Zintegrowane systemy pomiarowe wielkoœci nieelektrycznych;56;5
+4;3;4;7;Projektowanie wspomagane komputerem;56;5
+4;3;4;8;Projektowanie z wykorzystaniem metody elementów skoñczonych;56;5
+4;3;5;1;Fizyka medyczna;56;5
+4;3;5;2;Mikroelektronika;42;4
+4;3;5;3;Automatyka i robotyka;56;5
+4;3;5;4;Biomechanika in¿ynierska;56;5
+4;3;5;5;Grafika komputerowa;42;4
+4;3;5;6;Podstawy programowania obiektowego;84;7
+4;3;5;7;Programowanie obiektowe;84;7
+4;3;6;1;Przedmiot HS niezwi¹zany z kierunkiem studiów;28;2
+4;3;6;2;Historia medycyny;14;1
+4;3;6;3;Elektroniczna aparatura medyczna;70;4
+4;3;6;4;Biomechanika in¿ynierska;14;1
+4;3;6;5;Implanty i sztuczne narz¹dy;84;4
+4;3;6;6;Techniki obrazowania medyczego;70;3
+4;3;6;7;Kryptografia i systemy utajniania informacji;56;3
+4;3;6;8;Ergonomia i BHP;56;3
+4;3;6;9;Chemometria;56;3
+4;3;6;10;Klasyczne i ma³oinwazyjne metody leczenia chirurgicznego;28;3
+4;3;6;11;Podstawy eksploatacji systemów biotechnicznych;56;3
+4;3;6;12;Programowanie mikrokontrolerów w jêzyku C/C++;56;3
+4;3;6;13;Szk³a i materia³y szk³o-ceramiczne do zastosowania w medycynie;56;3
+4;3;6;14;Problemy globalizacji i modernizacji;56;3
+4;3;6;15;Wstêp do filozofii przyrody;56;3
+4;3;6;16;Ochrona w³asnoœci intelektualnej w in¿ynierii biomedycznej;56;3
+4;3;7;1;Wprowadzenie do filozofii;14;2
+4;3;7;2;Ochrona w³asnoœci intelektualnej w in¿ynierii biomedycznej;28;3
+4;3;7;3;Ochrona w³asnoœci intelektualnej w in¿ynierii biomedycznej
+Wprowadzenie do diagnostyki medycznej z u¿yciem promieniowania jonizuj¹cego;30;3
+4;3;7;5;Biomineralogia;56;4
+4;3;7;6;Programowanie systemów kontrolno-pomiarowych;56;4
+4;3;7;7;Biopomiary;56;4
+4;3;7;8;Metody wizualizacji i prezentacji danych in¿ynierskich;56;4
+

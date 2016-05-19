@@ -1,0 +1,43 @@
+3;4;1;1;Physics 1;70;5
+3;4;1;2;Algebra;56;5
+3;4;1;3;Mathematical Analysis 1;84;6
+3;4;1;4;Methodology and programming techniques 1;56;5
+3;4;1;5;Industrial safety and ergonomics;8;1
+3;4;1;6;Information Technology;28;2
+3;4;1;7;Circuits Theory 1;48;4
+3;4;1;8;Humanities Subject;28;2
+3;4;2;1;Physics 2;84;7
+3;4;2;2;Mathematical Analysis 2;56;4
+3;4;2;3;Probability and statistics;42;3
+3;4;2;4;Circuits Theory 2;48;5
+3;4;2;5;Methods and Programming Techniques 2;42;3
+3;4;2;6;Electronic  Devices;56;5
+3;4;2;7;Electronic Metrology;28;3
+3;4;3;1;Signals Theory;70;6
+3;4;3;2;Simulation of Electronic Circuits;28;3
+3;4;3;3;Computational Techniques;28;3
+3;4;3;4;Analogue Electronic Circuits 1;84;6
+3;4;3;5;Digital Electronics and Programmable Devices;84;6
+3;4;3;6;Introduction to Telecommunications;42;5
+3;4;3;7;Protection of intellectual property;7;1
+3;4;4;1;Microprocessor Technology 1;42;4
+3;4;4;2;Digital Signal Processing;56;4
+3;4;4;3;Operating Systems;56;4
+3;4;4;4;Optoelectronics;42;4
+3;4;4;5;Computer Networks;56;5
+3;4;4;6;Analogue Electronic Circuits 2;56;5
+3;4;4;7;Fundamentals of Economics, Finance and Business Law;28;2
+3;4;4;8;Introduction to Mechanics;28;2
+3;4;4;9;CAD and 3D modeling;15;2
+3;4;5;1;Microprocessor Technology  2;42;4
+3;4;5;2;Telecommunication Networks and Systems;52;5
+3;4;5;3;Computer measurement systems;28;4
+3;4;5;4;Integrated circuits and systems;49;4
+3;4;5;5;Object-Oriented Programming Language;56;4
+3;4;5;6;RF Electronics;52;5
+3;4;5;7;Design Laboratory;28;4
+3;4;6;1;Wireless techniques and systems;38;4
+3;4;6;2;Elective Module sem 6;210;15
+3;4;7;1;Thesis seminar;28;3
+3;4;7;2;Elective Module sem 7;168;12
+

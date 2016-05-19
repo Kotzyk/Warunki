@@ -1,0 +1,77 @@
+2;8;0;1;Przedmiot Obieralny 1ECTS;28;1
+2;8;0;2;Przedmiot Obieralny 3ECTS;28;3
+2;8;1;1;Wstêp do fizyki;42;4
+2;8;1;2;Technologie informacyjne;42;3
+2;8;1;3;Elementy chemii;14;0
+2;8;1;4;Propedeutyka nauk materia³owych;19;1
+2;8;1;5;Chemia ogólna i nieorganiczna - kurs podstaowy;126;12
+2;8;1;6;Chemia ogólna i nieorganiczna - kurs rozszerzony;126;12
+2;8;1;7;Wstêp do matematyki - kurs podstawowy;84;10
+2;8;2;1;Fizyka;56;6
+2;8;2;2;Termodynamika techniczna;28;3
+2;8;2;3;Nauka o materia³ach;28;3
+2;8;2;4;Technologia materia³ów budowlanych;28;2
+2;8;2;5;Chemia organiczna;70;7
+2;8;2;6;Kierowanie zespo³ami;28;2
+2;8;2;7;Zarz¹dzanie mark¹;28;2
+2;8;2;8;Podstawy logistyki;28;2
+2;8;2;9;Informatyka - kurs podstawowy;28;2
+2;8;2;10;Informatyka - kurs rozszerzony;28;2
+2;8;2;11;Matematyka - kurs podstawowy;56;5
+2;8;2;12;Matematyka - kurs zaawansowany;56;5
+2;8;3;1;Grafika in¿ynierska;28;2
+2;8;3;2;Automatyka i pomiar w³aœciwoœci fizykochemicznych;28;2
+2;8;3;3;Maszynoznawstwo i wytrzyma³oœæ materia³ów;56;4
+2;8;3;4;Elektronika z elektrotechnik¹;28;2
+2;8;3;5;Materia³y budowlane i instalacyjne;42;3
+2;8;3;6;Zarz¹dzanie jakoœci¹ i produktami chemii budowlanej;28;2
+2;8;3;7;Chemia analityczna;70;5
+2;8;3;8;Chemia fizyczna;56;4
+2;8;4;1;Technologia materia³ów wi¹¿¹cych i betonów;42;3
+2;8;4;2;Technologia ceramiki budowlanej i materia³ów termoizolacyjnych;42;3
+2;8;4;3;Materia³y ceramiczne w budownictwie;56;3
+2;8;4;4;Szk³o i materia³y szkliste w budownictwie;56;3
+2;8;4;5;Projektowanie materia³ów i komputerowa nauka o materia³ach;70;6
+2;8;4;6;Budownictwo ogólne;28;2
+2;8;4;7;Przedmiot obieralny - anglojêzyczny (Df);28;3
+2;8;4;8;Chemia krzemianów;56;5
+2;8;5;1;Technologia materia³ów wi¹¿¹cych i betonów;42;3
+2;8;5;2;Technologia ceramiki budowlanej i materia³ów termoizolacyjnych;42;3
+2;8;5;3;Materia³y ceramiczne w budownictwie;56;3
+2;8;5;4;Szk³o i materia³y szkliste w budownictwie;56;3
+2;8;5;5;Projektowanie materia³ów i komputerowa nauka o materia³ach;70;6
+2;8;5;6;Budownictwo ogólne;28;2
+2;8;5;7;Chemia krzemianów;56;5
+2;8;5;8;Przedmiot humanizuj¹cy;28;1
+2;8;5;9;Materia³y budowlane w ochronie œrodowiska;28;2
+2;8;5;10;Materia³y budowlane w nowoczesnym budownictwie jednorodzinnym;28;2
+2;8;5;11;Materia³y termoizolacyjne i termoprzewodz¹ce;28;2
+2;8;5;12;Materia³y wykoñczeniowe dla budownictwa;28;2
+2;8;5;13;Wp³yw domieszek i dodatków mineralnych na w³aœciwoœci kompozytowych materia³ów cementowych;28;2
+2;8;5;14;Projektowanie wyrobów polimerowych - LUB - Polimery w praktyce in¿ynierskiej;56;5
+2;8;6;1;Technologia materia³ów wi¹¿¹cych i betonów;42;3
+2;8;6;2;Technologia ceramiki budowlanej i materia³ów termoizolacyjnych;42;3
+2;8;6;3;Materia³y ceramiczne w budownictwie;56;3
+2;8;6;4;Szk³o i materia³y szkliste w budownictwie;56;3
+2;8;6;5;Projektowanie materia³ów i komputerowa nauka o materia³ach;70;6
+2;8;6;6;Budownictwo ogólne;28;2
+2;8;6;7;Przedmiot obieralny - humanizuj¹cy (Af) - (lista i opisy w sem0);28;1
+2;8;6;8;Chemia krzemianów;56;5
+2;8;6;9;Nowoczesne systemy dociepleñ;28;2
+2;8;6;10;Badania operacyjne w projektowaniu i zarz¹dzaniu;28;2
+2;8;6;11;Technologia spoiw gipsowych;28;2
+2;8;6;12;Korozja materia³ów ceramicznych;28;2
+2;8;6;13;Organiczne prekursory ceramiczne;28;2
+2;8;6;14;Analityka surowców i produktów budowlanych;84;7
+2;8;6;15;Analiza cyklu ¿ycia wyrobów budowlanych;28;3
+2;8;6;16;Analiza uszkodzeñ korozyjnych;42;2
+2;8;6;17;Diagnostyka i monitorowanie korozji;28;2
+2;8;6;18;Fizyka budowli;28;2
+2;8;6;19;Monitoring i analityka zanieczyszczeñ œrodowiska;70;6
+2;8;6;20;Nowoczesne techniki analityczne - LUB - Chemia i ochrona œrodowiska;56;4
+2;8;6;21;Procesy korozyjne;42;4
+2;8;7;1;Laboratorium dyplomowe;120;4
+2;8;7;2;Angielska terminologia techniczna;56;2
+2;8;7;3;Projektowanie produktów;70;4
+2;8;7;4;Metody badania materia³ów budowlanych;70;4
+
