@@ -21,7 +21,7 @@
     <None Include="Wydzialy.csv" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SourceRafal.c">
+    <ClCompile Include="Source.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
