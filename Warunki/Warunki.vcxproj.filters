@@ -15,7 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Przedmioty.csv" />
     <None Include="Przedmiotytest.csv" />
     <None Include="Kierunki.csv" />
     <None Include="Wydzialy.csv" />

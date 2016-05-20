@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
 #define KOLUMNY_A 7
 #define WIERSZE_A 18
 #define KIERUNKOW 60
 #define MAX_CSV 95
+
 char* przedmioty[MAX_CSV][KOLUMNY_A];
 char* wydzialy[WIERSZE_A][2];
 char* kierunki[KIERUNKOW][3];
@@ -100,66 +102,70 @@ void importWydz(char* csv_file, int kolumny)
 
 int main(int argc, char *argv[])
 {
+	int k, l, wyborW, wyborK, wyborS;
+	char wyborW_char[2] = "\0";
+	char wyborK_char[2] = "\0";
+	char wyborS_char[2] = "\0";
+	char przedmFname[12];
+
+
 	importWydz("wydzialy.csv", 2);
 	importKier("kierunki.csv", 3);
-	//importPrzedm("przedmiotytest.csv", KOLUMNY_A);
+
 
 	printf("\t \t=================WARUNKOLICZNIK====================\n");
 	printf("Witamy w naszym kalkulatorze do wyskosci warunkow za przedmioty nauczane na AGH,\
  zgodnie ze stawkami i programem studiow dla studentow zaczynajacych studia w 2015r.\n");
 	printf("Przedmioty dotyczace j. obcych lub WF zostaly przeniesione odpowiednio pod nr 17 i 18. \n");
 	printf("\t \t Wybierz wydzial z listy: \n");
-	int k, l, wyborW, wyborS;
-	char wyborW_char, wyborK_char, przedmiot;
-for (k = 0; k<WIERSZE_A; k++)  //for jest tylko do wypisywania tablicy
+
+
+	for (k = 0; k < WIERSZE_A; k++)
 	{
-		for (l = 0; l<2; l++)
+		for (l = 0; l < 2; l++)
 		{
 			printf("%s ", wydzialy[k][l]);
 		}
 		printf("\n");
 	}
 	printf("Nr: ");
-	scanf("%c", &wyborW_char);
-	
+	scanf("%d", &wyborW);
+	if (wyborW > 9) {
+		//KOD NIE DZIA£A DLA wyborW DWUCYFROWEGO!!!!
+		//TODO: co jesli wyborW > 9 
+	}else
+		wyborW_char[0] = wyborW + '0'; //konwersja wyborW do char a potem do stringa
+
 	if (wyborW < 19) {
-		for (k = 0; k < KIERUNKOW; k++)  //for jest tylko do wypisywania tablicy
-		{
-			if (kierunki[k][0] == wyborW) {
-				for (l = 1; l < 3; l++)
-				{
-					printf("%s ", kierunki[k][l]);
-				}
-			}
-				printf("\n");
-		}
-	}
-	else{ printf("wybor niepoprawny!");
-	}
-	printf("Nr: ");
-	scanf("%c", &wyborK_char);
-		if (wyborK < 61) {
-		printf("wpisz numer semestru: (0)(1)(2)...")
-		scanf("%d ",&wyborS);
-				printf("\n");
-			}
-		else{ printf("wybor niepoprawny!");
-		}
-strcpy(przedmiot, wyborW_char);
-	strcat(przedmiot, "-");
-	strcat(przedmiot, wyborK_char);
-	strcat(przedmiot, ".sql.csv");
-	importPrzedm(przedmiot, 5);
-if (wyborS<7){
-		while (przedmioty[k][2]=wyborS){
 		
-					printf("%s ", przedmioty[k][2]);
-					k++;
-				printf("\n");
-		}
+		for (k = 0; k < KIERUNKOW; k++)
+		{
 			
+			if (!strcmp(kierunki[k][0], wyborW_char)) { //strcmp zwraca 0 jesli jest prawda, dlatego !, umie porownywac tylko stringi wiec musialem zamienic wyborW_char na str zwyczajnie
+				printf("%s. %s \n", kierunki[k][1], kierunki[k][2]);
+			}
 		}
-	
+	}
+	else {
+		printf("wybor niepoprawny!");
+	}
+
+	printf("Nr: ");
+	scanf("%d", &wyborK);
+	wyborK_char[0] = wyborK + '0';
+
+	if (wyborK < 61) {
+		printf("wpisz numer semestru: (0)(1)(2)... \n");
+		scanf("%d", &wyborS);
+		wyborS_char[0] = wyborS + '0';
+	}
+	else {
+		printf("wybor niepoprawny!");
+	}
+
+	snprintf(przedmFname, sizeof(przedmFname), "%s-%s.sql.csv", wyborW_char, wyborK_char); //generowanie nazwy pliku csv
+	printf("%s \n", przedmFname);
+
 	system("Pause");
 	return 0;
 }

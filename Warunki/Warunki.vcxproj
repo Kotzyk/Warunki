@@ -146,7 +146,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Kierunki.csv" />
-    <None Include="Przedmioty.csv" />
     <None Include="Przedmiotytest.csv" />
     <None Include="Wydzialy.csv" />
   </ItemGroup>
