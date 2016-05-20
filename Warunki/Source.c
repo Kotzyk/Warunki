@@ -109,33 +109,57 @@ int main(int argc, char *argv[])
  zgodnie ze stawkami i programem studiow dla studentow zaczynajacych studia w 2015r.\n");
 	printf("Przedmioty dotyczace j. obcych lub WF zostaly przeniesione odpowiednio pod nr 17 i 18. \n");
 	printf("\t \t Wybierz wydzial z listy: \n");
-	int k, l, wyborW;
-	char wyborW_char;
-	for (k = 0; k < WIERSZE_A; k++)  //for jest tylko do wypisywania tablicy
+	int k, l, wyborW, wyborS;
+	char wyborW_char, wyborK_char, przedmiot;
+for (k = 0; k<WIERSZE_A; k++)  //for jest tylko do wypisywania tablicy
 	{
-		for (l = 0; l < 2; l++)
+		for (l = 0; l<2; l++)
 		{
 			printf("%s ", wydzialy[k][l]);
 		}
 		printf("\n");
 	}
-	//printf("Nr: ");
-	//scanf("%c", &wyborW_char);
-	//wyborW = (int)wyborW_char;
-
-	//if (wyborW < 19) {
-	for (k = 0; k < KIERUNKOW; k++)  //for jest tylko do wypisywania tablicy
-	{
-		//	if (kierunki[k][0] == wyborW) {
-		for (l = 1; l < 3; l++)
+	printf("Nr: ");
+	scanf("%c", &wyborW_char);
+	
+	if (wyborW < 19) {
+		for (k = 0; k < KIERUNKOW; k++)  //for jest tylko do wypisywania tablicy
 		{
-			printf("%s ", kierunki[k][l]);
+			if (kierunki[k][0] == wyborW) {
+				for (l = 1; l < 3; l++)
+				{
+					printf("%s ", kierunki[k][l]);
+				}
+			}
+				printf("\n");
 		}
-		//	}
-		printf("\n");
 	}
-	//}
-
+	else{ printf("wybor niepoprawny!");
+	}
+	printf("Nr: ");
+	scanf("%c", &wyborK_char);
+		if (wyborK < 61) {
+		printf("wpisz numer semestru: (0)(1)(2)...")
+		scanf("%d ",&wyborS);
+				printf("\n");
+			}
+		else{ printf("wybor niepoprawny!");
+		}
+strcpy(przedmiot, wyborW_char);
+	strcat(przedmiot, "-");
+	strcat(przedmiot, wyborK_char);
+	strcat(przedmiot, ".sql.csv");
+	importPrzedm(przedmiot, 5);
+if (wyborS<7){
+		while (przedmioty[k][2]=wyborS){
+		
+					printf("%s ", przedmioty[k][2]);
+					k++;
+				printf("\n");
+		}
+			
+		}
+	
 	system("Pause");
 	return 0;
 }
