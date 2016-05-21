@@ -1,56 +1,56 @@
-1;10;1;1;Wstêp do in¿ynierii materia³owej;28;2
-1;10;1;2;Grafika in¿ynierska i rysunek techniczny;28;2
-1;10;1;3;Historia in¿ynierii metalurgicznej;14;1
-1;10;1;4;Podstawy ekonomii;14;1
-1;10;1;5;Organizacja pracy i ergonomia;14;1
-1;10;1;6;Matematyka I IM;112;9
-1;10;1;7;Fizyka I;56;4
-1;10;1;8;Chemia I;28;2
-1;10;1;9;Informatyka I;56;4
-1;10;1;10;Podstawowe techniki rozwoju osobistego;28;2
-1;10;1;11;Etyka zawodowa;28;2
-1;10;2;1;Krystalografia i rentgenografia;70;6
-1;10;2;2;Mechanika techniczna;56;4
-1;10;2;3;Ochrona w³asnoœci intelektualnej;14;1
-1;10;2;4;Matematyka II IM;56;6
-1;10;2;5;Fizyka II;56;5
-1;10;2;6;Chemia II;42;5
-1;10;2;7;Informatyka II;42;3
-1;10;3;1;Wytrzyma³oœæ materia³ów;42;3
-1;10;3;2;Elektrotechnika i elektronika;42;3
-1;10;3;3;Podstawy konstrukcji in¿ynierskich;56;4
-1;10;3;4;Matematyka w in¿ynierii materia³owej;42;3
-1;10;3;5;Chemia fizyczna;56;6
-1;10;3;6;Fizyka cia³a sta³ego;56;5
-1;10;3;7;Metody statystyczne w in¿ynierii materia³owej;70;6
-1;10;3;8;Techniki pomiarowe w in¿ynierii materia³owej;70;6
-1;10;4;1;Teoria przemian fazowych;56;6
-1;10;4;2;Podstawy sprê¿ystoœci materia³ów;70;6
-1;10;4;3;Fizykochemiczne metody analizy;70;6
-1;10;4;4;Metalurgia proszków I;70;6
-1;10;4;5;Termodynamika fazy skondensowanej;70;6
-1;10;4;6;Metalurgia metali nie¿elaznych I;70;6
-1;10;4;7;Struktura materia³ów metalicznych;70;6
-1;10;5;1;Technologie in¿ynierii powierzchni;28;2
-1;10;5;2;Metody badañ strukturalnych;70;6
-1;10;5;3;Podstawy plastycznoœci materia³ów;56;5
-1;10;5;4;Metody badañ w³asnoœci fizycznych i technologicznych;28;2
-1;10;5;5;Stopy metali nie¿elaznych;70;5
-1;10;5;6;Stopy metali szlachetnych;70;5
-1;10;5;7;Tekstury metali;56;5
-1;10;5;8;Stopy ¿aroodporne i ¿arowytrzyma³e;70;5
-1;10;5;9;Stopy ¿elaza;70;5
-1;10;6;1;Odkszta³calnoœæ metali i stopów;42;3
-1;10;6;2;Projektowanie materia³ów;28;1
-1;10;6;3;Techniki wytwarzania wyrobów;56;4
-1;10;6;5;Monokryszta³y metali;70;4
-1;10;6;6;Materia³y ceramiczne;70;4
-1;10;6;7;Kompozytowe materia³y metaliczne;70;4
-1;10;6;8;Polimery;70;4
-1;10;6;9;Recykling metali;70;4
-1;10;7;1;Podstawy marketingu i jakoœci produkcji;56;5
-1;10;7;2;Podstawy in¿ynierii produkcji;56;5
-1;10;7;3;Zarz¹dzanie przedsiêbiorstwem;56;5
-1;10;7;4;Laboratorium jêzykowe A "Powder Metallurgy";56;5
-1;10;7;5;Laboratorium jêzykowe B "Fundamental aspects of material science";56;5
+10;1;1;1;Wstêp do in¿ynierii materia³owej;28;2;196.0
+10;1;1;2;Grafika in¿ynierska i rysunek techniczny;28;2;196.0
+10;1;1;3;Historia in¿ynierii metalurgicznej;14;1;98.0
+10;1;1;4;Podstawy ekonomii;14;1;98.0
+10;1;1;5;Organizacja pracy i ergonomia;14;1;98.0
+10;1;1;6;Matematyka I IM;112;9;784.0
+10;1;1;7;Fizyka I;56;4;392.0
+10;1;1;8;Chemia I;28;2;196.0
+10;1;1;9;Informatyka I;56;4;392.0
+10;1;1;10;Podstawowe techniki rozwoju osobistego;28;2;196.0
+10;1;1;11;Etyka zawodowa;28;2;196.0
+10;1;2;1;Krystalografia i rentgenografia;70;6;490.0
+10;1;2;2;Mechanika techniczna;56;4;392.0
+10;1;2;3;Ochrona w³asnoœci intelektualnej;14;1;98.0
+10;1;2;4;Matematyka II IM;56;6;392.0
+10;1;2;5;Fizyka II;56;5;392.0
+10;1;2;6;Chemia II;42;5;294.0
+10;1;2;7;Informatyka II;42;3;294.0
+10;1;3;1;Wytrzyma³oœæ materia³ów;42;3;294.0
+10;1;3;2;Elektrotechnika i elektronika;42;3;294.0
+10;1;3;3;Podstawy konstrukcji in¿ynierskich;56;4;392.0
+10;1;3;4;Matematyka w in¿ynierii materia³owej;42;3;294.0
+10;1;3;5;Chemia fizyczna;56;6;392.0
+10;1;3;6;Fizyka cia³a sta³ego;56;5;392.0
+10;1;3;7;Metody statystyczne w in¿ynierii materia³owej;70;6;490.0
+10;1;3;8;Techniki pomiarowe w in¿ynierii materia³owej;70;6;490.0
+10;1;4;1;Teoria przemian fazowych;56;6;392.0
+10;1;4;2;Podstawy sprê¿ystoœci materia³ów;70;6;490.0
+10;1;4;3;Fizykochemiczne metody analizy;70;6;490.0
+10;1;4;4;Metalurgia proszków I;70;6;490.0
+10;1;4;5;Termodynamika fazy skondensowanej;70;6;490.0
+10;1;4;6;Metalurgia metali nie¿elaznych I;70;6;490.0
+10;1;4;7;Struktura materia³ów metalicznych;70;6;490.0
+10;1;5;1;Technologie in¿ynierii powierzchni;28;2;196.0
+10;1;5;2;Metody badañ strukturalnych;70;6;490.0
+10;1;5;3;Podstawy plastycznoœci materia³ów;56;5;392.0
+10;1;5;4;Metody badañ w³asnoœci fizycznych i technologicznych;28;2;196.0
+10;1;5;5;Stopy metali nie¿elaznych;70;5;490.0
+10;1;5;6;Stopy metali szlachetnych;70;5;490.0
+10;1;5;7;Tekstury metali;56;5;392.0
+10;1;5;8;Stopy ¿aroodporne i ¿arowytrzyma³e;70;5;490.0
+10;1;5;9;Stopy ¿elaza;70;5;490.0
+10;1;6;1;Odkszta³calnoœæ metali i stopów;42;3;294.0
+10;1;6;2;Projektowanie materia³ów;28;1;196.0
+10;1;6;3;Techniki wytwarzania wyrobów;56;4;392.0
+10;1;6;5;Monokryszta³y metali;70;4;490.0
+10;1;6;6;Materia³y ceramiczne;70;4;490.0
+10;1;6;7;Kompozytowe materia³y metaliczne;70;4;490.0
+10;1;6;8;Polimery;70;4;490.0
+10;1;6;9;Recykling metali;70;4;490.0
+10;1;7;1;Podstawy marketingu i jakoœci produkcji;56;5;392.0
+10;1;7;2;Podstawy in¿ynierii produkcji;56;5;392.0
+10;1;7;3;Zarz¹dzanie przedsiêbiorstwem;56;5;392.0
+10;1;7;4;Laboratorium jêzykowe A "Powder Metallurgy";56;5;392.0
+10;1;7;5;Laboratorium jêzykowe B "Fundamental aspects of material science";56;5;392.0
 

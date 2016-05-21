@@ -1,65 +1,65 @@
-1;2;1;1;Technologia informacyjna;28;2
-1;2;1;2;Elementy informatyki i systemów informatycznych;42;3
-1;2;1;3;Programowanie i programy u¿ytkowe;42;4
-1;2;1;4;Matematyka I;56;6
-1;2;1;5;Zarz¹dzanie œrodowiskiem;28;3
-1;2;1;6;Bezpieczeñstwo i higiena pracy;42;2
-1;2;1;7;Ochrona w³asnoœci intelektualnej;14;2
-1;2;1;8;Chemia;70;6
-1;2;1;9;Metodyka skutecznego studiowania;28;2
-1;2;1;10;Wiedza o nauce;28;2
-1;2;1;11; Podstawy negocjacji;28;2
-1;2;2;1;Fizyka I;56;6
-1;2;2;2;Elektrotechnika i elektronika;42;3
-1;2;2;3;Podstawy konstrukcji i eksploatacji maszyn;56;3
-1;2;2;4;Metalurgia ogólna;28;3
-1;2;2;5;Mechanika techniczna;42;3
-1;2;2;6;Matematyka II;56;6
-1;2;2;7;Psychologia;90;3
-1;2;2;8;Historia techniki i kultury materialnej;28;3
-1;2;2;9;Autozarz¹dzanie i rozwój;28;3
-1;2;2;10;Etyka w technice i informatyce;28;3
-1;2;3;1;Fizyka II;56;6
-1;2;3;2;Materia³y in¿ynierskie;70;5
-1;2;3;3;Wytrzyma³oœæ materia³ów;42;2
-1;2;3;4;Sieci komputerowe i aplikacje sieciowe;42;3
-1;2;3;5;Matematyka III;56;6
-1;2;3;6;Praktyka psychologiczno - pedagogiczna;30;6
-1;2;3;7;Pedagogika;60;2
-1;2;4;1;Kszta³towanie plastyczne, obróbka ubytkowa i spajanie;70;6
-1;2;4;2;Bazy danych;42;4
-1;2;4;3;Techniki multimedialne;56;5
-1;2;4;4;Materia³oznawstwo;70;6
-1;2;4;5;Dydaktyka ogólna;30;4
-1;2;4;6;Dydaktyka techniki I;45;5
-1;2;5;1;In¿ynieria materia³ów metalicznych;56;5
-1;2;5;2;Podstawy przetwórstwa materia³ów;70;5
-1;2;5;3;Grafika in¿ynierska w systemach CAD/CAM;42;3
-1;2;5;4;Komputerowe wspomaganie w technice, systemy CAMD;28;2
-1;2;5;5;Sztuczna inteligencja i systemy ekspertowe;28;2
-1;2;5;6;Ekonomia;28;1
-1;2;5;7;Dydaktyka techniki II;45;6
-1;2;5;8;In¿ynieria oprogramowania;42;3
-1;2;5;9;Formy wspó³pracy i metody pozyskiwania funduszy europejskich;42;3
-1;2;5;10;Nowoczesne techniki ³¹cznoœci;42;3
-1;2;5;11;E-gospodarka;42;3
-1;2;5;12;Introduction to Powder Metallurgy;42;3
-1;2;5;13;Fundamentals of Metal Forming;42;3
-1;2;6;1;Dydaktyka techniki i informatyki - praktyka (180 h praktyki w szkole);14;7
-1;2;6;2;Praktyka zawodowa in¿ynierska;0;4
-1;2;6;3;Organizacja pracy, zarz¹dzanie i ergonomia;28;2
-1;2;6;4;Dydaktyka informatyki;60;3
-1;2;6;5;Algorytmy i struktury danych;42;3
-1;2;6;6;Programowanie strukturalne;42;3
-1;2;6;7;Statystyczna analiza danych;42;3
-1;2;6;8;W³asnoœci mechaniczne materia³ów;42;3
-1;2;6;9;Materia³y i projektowanie narzêdzi;42;3
-1;2;6;10;Technologie w przetwórstwie metali;42;3
-1;2;7;1;Przygotowanie pracy dyplomowej;0;15
-1;2;7;2;Systemy operacyjne;42;5
-1;2;7;3;Programowanie obiektowe;42;5
-1;2;7;4;Metalografia;42;5
-1;2;7;5;Stale i stopy specjalne;42;5
-1;2;7;6;Metaloplastyka;42;5
-1;2;7;7;Techniki dekoracyjne w metaloplastyce;42;5
+2;1;1;1;Technologia informacyjna;28;2;196.0
+2;1;1;2;Elementy informatyki i systemów informatycznych;42;3;294.0
+2;1;1;3;Programowanie i programy u¿ytkowe;42;4;294.0
+2;1;1;4;Matematyka I;56;6;392.0
+2;1;1;5;Zarz¹dzanie œrodowiskiem;28;3;196.0
+2;1;1;6;Bezpieczeñstwo i higiena pracy;42;2;294.0
+2;1;1;7;Ochrona w³asnoœci intelektualnej;14;2;98.0
+2;1;1;8;Chemia;70;6;490.0
+2;1;1;9;Metodyka skutecznego studiowania;28;2;196.0
+2;1;1;10;Wiedza o nauce;28;2;196.0
+2;1;1;11; Podstawy negocjacji;28;2;196.0
+2;1;2;1;Fizyka I;56;6;392.0
+2;1;2;2;Elektrotechnika i elektronika;42;3;294.0
+2;1;2;3;Podstawy konstrukcji i eksploatacji maszyn;56;3;392.0
+2;1;2;4;Metalurgia ogólna;28;3;196.0
+2;1;2;5;Mechanika techniczna;42;3;294.0
+2;1;2;6;Matematyka II;56;6;392.0
+2;1;2;7;Psychologia;90;3;630.0
+2;1;2;8;Historia techniki i kultury materialnej;28;3;196.0
+2;1;2;9;Autozarz¹dzanie i rozwój;28;3;196.0
+2;1;2;10;Etyka w technice i informatyce;28;3;196.0
+2;1;3;1;Fizyka II;56;6;392.0
+2;1;3;2;Materia³y in¿ynierskie;70;5;490.0
+2;1;3;3;Wytrzyma³oœæ materia³ów;42;2;294.0
+2;1;3;4;Sieci komputerowe i aplikacje sieciowe;42;3;294.0
+2;1;3;5;Matematyka III;56;6;392.0
+2;1;3;6;Praktyka psychologiczno - pedagogiczna;30;6;210.0
+2;1;3;7;Pedagogika;60;2;420.0
+2;1;4;1;Kszta³towanie plastyczne, obróbka ubytkowa i spajanie;70;6;490.0
+2;1;4;2;Bazy danych;42;4;294.0
+2;1;4;3;Techniki multimedialne;56;5;392.0
+2;1;4;4;Materia³oznawstwo;70;6;490.0
+2;1;4;5;Dydaktyka ogólna;30;4;210.0
+2;1;4;6;Dydaktyka techniki I;45;5;315.0
+2;1;5;1;In¿ynieria materia³ów metalicznych;56;5;392.0
+2;1;5;2;Podstawy przetwórstwa materia³ów;70;5;490.0
+2;1;5;3;Grafika in¿ynierska w systemach CAD/CAM;42;3;294.0
+2;1;5;4;Komputerowe wspomaganie w technice, systemy CAMD;28;2;196.0
+2;1;5;5;Sztuczna inteligencja i systemy ekspertowe;28;2;196.0
+2;1;5;6;Ekonomia;28;1;196.0
+2;1;5;7;Dydaktyka techniki II;45;6;315.0
+2;1;5;8;In¿ynieria oprogramowania;42;3;294.0
+2;1;5;9;Formy wspó³pracy i metody pozyskiwania funduszy europejskich;42;3;294.0
+2;1;5;10;Nowoczesne techniki ³¹cznoœci;42;3;294.0
+2;1;5;11;E-gospodarka;42;3;294.0
+2;1;5;12;Introduction to Powder Metallurgy;42;3;294.0
+2;1;5;13;Fundamentals of Metal Forming;42;3;294.0
+2;1;6;1;Dydaktyka techniki i informatyki - praktyka (180 h praktyki w szkole);14;7;98.0
+2;1;6;2;Praktyka zawodowa in¿ynierska;0;4;0.0
+2;1;6;3;Organizacja pracy, zarz¹dzanie i ergonomia;28;2;196.0
+2;1;6;4;Dydaktyka informatyki;60;3;420.0
+2;1;6;5;Algorytmy i struktury danych;42;3;294.0
+2;1;6;6;Programowanie strukturalne;42;3;294.0
+2;1;6;7;Statystyczna analiza danych;42;3;294.0
+2;1;6;8;W³asnoœci mechaniczne materia³ów;42;3;294.0
+2;1;6;9;Materia³y i projektowanie narzêdzi;42;3;294.0
+2;1;6;10;Technologie w przetwórstwie metali;42;3;294.0
+2;1;7;1;Przygotowanie pracy dyplomowej;0;15;0.0
+2;1;7;2;Systemy operacyjne;42;5;294.0
+2;1;7;3;Programowanie obiektowe;42;5;294.0
+2;1;7;4;Metalografia;42;5;294.0
+2;1;7;5;Stale i stopy specjalne;42;5;294.0
+2;1;7;6;Metaloplastyka;42;5;294.0
+2;1;7;7;Techniki dekoracyjne w metaloplastyce;42;5;294.0
 

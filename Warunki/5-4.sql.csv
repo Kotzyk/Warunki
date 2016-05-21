@@ -1,66 +1,66 @@
-4;5;1;1;Fizyka 1;42;4
-4;5;1;2;Chemia;56;6
-4;5;1;3;Matematyka 1;84;9
-4;5;1;4;Techniki informatyczne;28;2
-4;5;1;5;Zapis konstrukcji;54;4
-4;5;1;6;Techniki wytwarzania;28;3
-4;5;1;7;Socjologia;28;2
-4;5;1;8;Historia filozofii;28;2
-4;5;2;1;Matematyka 2;84;9
-4;5;2;2;Fizyka 2;42;5
-4;5;2;3;Informatyka;28;2
-4;5;2;4;Mechanika 1;56;4
-4;5;2;5;Podstawy nauki o materia³ach;63;5
-4;5;2;6;Elektrotechnika i elektronika;40;3
-4;5;2;7;Grafika in¿ynierska;28;2
-4;5;3;1;Metody numeryczne;42;3
-4;5;3;2;Mechanika 2;56;6
-4;5;3;3;Termodynamika;68;6
-4;5;3;4;Technologie obróbki bezubytkowej;42;4
-4;5;3;5;Podstawy wytrzyma³oœci materia³ów;52;4
-4;5;3;6;Napêdy maszyn;48;7
-4;5;4;1;Wytrzyma³oœæ elementów maszyn;66;7
-4;5;4;2;Podstawy konstrukcji maszyn 1;66;6
-4;5;4;3;Teoria mechanizmów i maszyn;50;4
-4;5;4;4;Podstawy automatyki;83;7
-4;5;4;5;Badania operacyjne i eksploatacyjne;42;3
-4;5;4;6;Metrologia 1;42;3
-4;5;5;1;Podstawy konstrukcji maszyn 2;52;6
-4;5;5;2;Mechanika p³ynów;40;3
-4;5;5;3;Wibroakustyka;28;2
-4;5;5;4;Technologie obróbki ubytkowej;54;5
-4;5;5;5;Metrologia 2;28;3
-4;5;5;6;Maszyny i urz¹dzenia transportowe;52;5
-4;5;5;7;In¿ynieria maszyn i urz¹dzeñ;40;3
-4;5;5;8;In¿ynierskie oprogramowanie komputerowe;40;3
-4;5;6;1;Eksploatacja maszyn;40;2
-4;5;6;2;Projektowanie maszyn;40;3
-4;5;6;3;Konstrukcje stalowe;28;2
-4;5;6;4;Maszyny i urz¹dzenia technologiczne;40;3
-4;5;6;5;Maszyny i urz¹dzenia energetyczne;40;3
-4;5;6;6;Technologie energetyczne;60;5
-4;5;6;7;Badania eksploatacyjne i modernizacja maszyn i pojazdów;60;5
-4;5;6;8;Maszyny i urz¹dzenia do pozyskiwania surowców mineralnych;60;5
-4;5;6;9;Pakiety informatyczne w mechanice i budowie maszyn;60;5
-4;5;6;10;In¿ynieria systemów ekologicznych i ekoenergetyka;60;5
-4;5;6;11;Zaawansowane metody projektowania;60;5
-4;5;6;12;Maszyny do robót ziemnych i transportu;60;5
-4;5;6;13;In¿ynieria procesów wytwórczych;60;5
-4;5;6;14;Nowoczesne systemy transportu linowego;60;5
-4;5;6;15;Eksploatacja kopalin u¿ytecznych;60;5
-4;5;7;1;Ochrona œrodowiska;28;2
-4;5;7;2;Soft computing in modeling and control;30;3
-4;5;7;3;Conveyors;30;3
-4;5;7;4;Tunnelling machines;30;3
-4;5;7;5;Kinematic and dynamic simulation of mechanical systems ;30;3
-4;5;7;6;In¿ynieria zarz¹dzania;34;2
-4;5;7;7;Zarz¹dzanie jakoœci¹;34;2
-4;5;7;8;Makroekonomia;30;2
-4;5;7;9;Podstawy marketingu;30;2
-4;5;7;10;Cz³owiek w œrodowisku technicznym;30;2
-4;5;7;11;Techniki szybkiego prototypowania;34;3
-4;5;7;12;Technologia maszyn;34;3
-4;5;7;13;Technologie spajania;34;3
-4;5;7;14;Prawo i ochrona w technice;34;2
-4;5;7;15;Ochrona twórczoœci w technice;34;2
+5;4;1;1;Fizyka 1;42;4;462.0
+5;4;1;2;Chemia;56;6;616.0
+5;4;1;3;Matematyka 1;84;9;924.0
+5;4;1;4;Techniki informatyczne;28;2;308.0
+5;4;1;5;Zapis konstrukcji;54;4;594.0
+5;4;1;6;Techniki wytwarzania;28;3;308.0
+5;4;1;7;Socjologia;28;2;308.0
+5;4;1;8;Historia filozofii;28;2;308.0
+5;4;2;1;Matematyka 2;84;9;924.0
+5;4;2;2;Fizyka 2;42;5;462.0
+5;4;2;3;Informatyka;28;2;308.0
+5;4;2;4;Mechanika 1;56;4;616.0
+5;4;2;5;Podstawy nauki o materia³ach;63;5;693.0
+5;4;2;6;Elektrotechnika i elektronika;40;3;440.0
+5;4;2;7;Grafika in¿ynierska;28;2;308.0
+5;4;3;1;Metody numeryczne;42;3;462.0
+5;4;3;2;Mechanika 2;56;6;616.0
+5;4;3;3;Termodynamika;68;6;748.0
+5;4;3;4;Technologie obróbki bezubytkowej;42;4;462.0
+5;4;3;5;Podstawy wytrzyma³oœci materia³ów;52;4;572.0
+5;4;3;6;Napêdy maszyn;48;7;528.0
+5;4;4;1;Wytrzyma³oœæ elementów maszyn;66;7;726.0
+5;4;4;2;Podstawy konstrukcji maszyn 1;66;6;726.0
+5;4;4;3;Teoria mechanizmów i maszyn;50;4;550.0
+5;4;4;4;Podstawy automatyki;83;7;913.0
+5;4;4;5;Badania operacyjne i eksploatacyjne;42;3;462.0
+5;4;4;6;Metrologia 1;42;3;462.0
+5;4;5;1;Podstawy konstrukcji maszyn 2;52;6;572.0
+5;4;5;2;Mechanika p³ynów;40;3;440.0
+5;4;5;3;Wibroakustyka;28;2;308.0
+5;4;5;4;Technologie obróbki ubytkowej;54;5;594.0
+5;4;5;5;Metrologia 2;28;3;308.0
+5;4;5;6;Maszyny i urz¹dzenia transportowe;52;5;572.0
+5;4;5;7;In¿ynieria maszyn i urz¹dzeñ;40;3;440.0
+5;4;5;8;In¿ynierskie oprogramowanie komputerowe;40;3;440.0
+5;4;6;1;Eksploatacja maszyn;40;2;440.0
+5;4;6;2;Projektowanie maszyn;40;3;440.0
+5;4;6;3;Konstrukcje stalowe;28;2;308.0
+5;4;6;4;Maszyny i urz¹dzenia technologiczne;40;3;440.0
+5;4;6;5;Maszyny i urz¹dzenia energetyczne;40;3;440.0
+5;4;6;6;Technologie energetyczne;60;5;660.0
+5;4;6;7;Badania eksploatacyjne i modernizacja maszyn i pojazdów;60;5;660.0
+5;4;6;8;Maszyny i urz¹dzenia do pozyskiwania surowców mineralnych;60;5;660.0
+5;4;6;9;Pakiety informatyczne w mechanice i budowie maszyn;60;5;660.0
+5;4;6;10;In¿ynieria systemów ekologicznych i ekoenergetyka;60;5;660.0
+5;4;6;11;Zaawansowane metody projektowania;60;5;660.0
+5;4;6;12;Maszyny do robót ziemnych i transportu;60;5;660.0
+5;4;6;13;In¿ynieria procesów wytwórczych;60;5;660.0
+5;4;6;14;Nowoczesne systemy transportu linowego;60;5;660.0
+5;4;6;15;Eksploatacja kopalin u¿ytecznych;60;5;660.0
+5;4;7;1;Ochrona œrodowiska;28;2;308.0
+5;4;7;2;Soft computing in modeling and control;30;3;330.0
+5;4;7;3;Conveyors;30;3;330.0
+5;4;7;4;Tunnelling machines;30;3;330.0
+5;4;7;5;Kinematic and dynamic simulation of mechanical systems ;30;3;330.0
+5;4;7;6;In¿ynieria zarz¹dzania;34;2;374.0
+5;4;7;7;Zarz¹dzanie jakoœci¹;34;2;374.0
+5;4;7;8;Makroekonomia;30;2;330.0
+5;4;7;9;Podstawy marketingu;30;2;330.0
+5;4;7;10;Cz³owiek w œrodowisku technicznym;30;2;330.0
+5;4;7;11;Techniki szybkiego prototypowania;34;3;374.0
+5;4;7;12;Technologia maszyn;34;3;374.0
+5;4;7;13;Technologie spajania;34;3;374.0
+5;4;7;14;Prawo i ochrona w technice;34;2;374.0
+5;4;7;15;Ochrona twórczoœci w technice;34;2;374.0
 

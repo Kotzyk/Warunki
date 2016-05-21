@@ -1,76 +1,76 @@
-1;9;1;1;Metalurgia i odlewnictwo ogólne;70;5
-1;9;1;2;Matematyka I;70;7
-1;9;1;3;Podstawy ergonomii;28;2
-1;9;1;4;Ekonomia ;28;2
-1;9;1;5;Historia odlewnictwa ;15;1
-1;9;1;6;Marketing;14;1
-1;9;1;7;Chemia ogólna I;84;6
-1;9;1;8;Geometria wykreœlna ;28;2
-1;9;1;9;Informatyka i technologia informacyjne;42;4
-1;9;2;1;Fizyka I;56;4
-1;9;2;2;Matematyka II;70;8
-1;9;2;3;Elektrotechnika i elektronika;42;4
-1;9;2;4;Obróbka ubytkowa;28;2
-1;9;2;5;Chemia ogólna  II;42;4
-1;9;2;6;Zapis konstrukcji i grafika in¿ynierska;70;5
-1;9;2;7;Komputerowe programy u¿ytkowe;28;2
-1;9;2;8;Internet, kultura, spo³oczeñstwo;14;1
-1;9;2;9;Historia kulturyn materialnej;14;1
-1;9;2;10;Konflikty œwiata wspó³czesnego;14;1
-1;9;2;11;Ochrona dziedzictwa kulturowego;14;1
-1;9;3;1;Fizyka II;28;5
-1;9;3;2;Ochrona œrodowiska;28;2
-1;9;3;3;Mechanika i wytrzyma³oœæ materia³ów;56;4
-1;9;3;4;Statystyka i rachunek prawdopodobieñstwa;28;2
-1;9;3;5;Chemia fizyczna I;42;3
-1;9;3;6;Krystalografia;28;2
-1;9;3;7;Tworzywa na formy odlewnicze ;70;5
-1;9;3;8;Termodynamika techniczna i technika cieplna, paliwa i spalanie;84;7
-1;9;4;1;Kszta³towanie plastyczne metali;14;1
-1;9;4;2;Chemia fizyczna II;70;6
-1;9;4;3;Materia³y in¿ynierskie;84;7
-1;9;4;4;Metody badañ materia³ów;28;2
-1;9;4;5;Podstawy konstrukcji maszyn;84;7
-1;9;4;6;Maszynoznawstwo ogólne;70;6
-1;9;4;7;Kierowanie zasobami ludzkimi;14;1
-1;9;5;1;Krystalizacja metali i stopów;42;3
-1;9;5;2;Technologia form odlewniczych ;42;4
-1;9;5;3;Materia³y ogniotrwa³e;28;2
-1;9;5;4;Maszyny i urz¹dzenia w  procesach metalurgicznych i odlewniczych ;56;5
-1;9;5;5;Mechanizacja i automatyzacja procesów metalurgicznych i odlewniczych;56;4
-1;9;5;6;Metalurgia i odlewnictwo staliwa;56;4
-1;9;5;7;Fizykochemia procesów metalurgicznych i odlewniczych ;28;2
-1;9;5;8;Podstawy automatyki i robotyki;56;4
-1;9;5;9;Tworzywa sztuczne i ich przetwórstwo;14;1
-1;9;5;10;Wentylacja, klimatyzacja i odpylanie w odlewniach;14;1
-1;9;5;11;Metalurgia proszków;14;1
-1;9;5;12;Zasady wytrzyma³oœciowego kszta³towania odlewów;14;1
-1;9;5;13;Gospodarka energetyczna w odlewniach;14;1
-1;9;5;14;Wiedza o sztuce;14;1
-1;9;6;1;Ochrona w³asnoœci intelektualnej;14;1
-1;9;6;2;Recykling materia³ów w metalurgii i odlewnictwie;28;2
-1;9;6;3;Metalurgia i odlewnictwo ¿eliwa ;56;4
-1;9;6;4;Metalurgia i odlewnictwo metali nie¿elaznych ;56;4
-1;9;6;5;Teoria wymiany masy, ciep³a i pêdu w  procesach metalurgicznych i odlewniczych;28;2
-1;9;6;6;Projektowanie i uruchomienie produkcji  odlewów;28;2
-1;9;6;7;Zintegrowane systemy zarz¹dzania;28;2
-1;9;6;8;Komputerowe wspomaganie prac in¿ynierskich w metalurgii i odlewnictwie;42;3
-1;9;6;9;Regeneracja zu¿ytych mas;14;1
-1;9;6;10;In¿ynieria warstwy fluidalnej i przep³ywów dwufazowych;14;1
-1;9;6;11;Kszta³towanie jakoœci odlewów;14;1
-1;9;6;12;Metalurgia proszków;14;1
-1;9;6;13;Procesy uszlachetniania stopów;14;1
-1;9;7;1;Wybrane zagadnienia z korozji tworzyw odlewniczych;42;5
-1;9;7;2;Projektowanie technologii odlewniczych ;42;6
-1;9;7;3;Procesy uszlachetniania stopów;42;5
-1;9;7;4;Odlewnicze stopy dla energetyki i lotnictwa;42;6
-1;9;7;5;Metrologia procesów odlewniczych;42;5
-1;9;7;6;Maszyny do odlewania ciœnieniowego i kokilowego;28;6
-1;9;7;7;Technologie odlewów precyzyjnych;42;6
-1;9;7;8;Technologia wytapiania i uszlachetniania metali nie¿elaznych;42;5
-1;9;7;9;Wp³yw przemys³u odlewniczego na œrodowisko;42;5
-1;9;7;10;Odpady odlewnicze i metalurgiczne;42;5
-1;9;7;11;Modelowanie i symulacja procesów odlewniczych;42;6
-1;9;7;12;Corrosion and Corrosion Protection;28;3
-1;9;7;13;Selected problems in surface engineering;28;3
+9;1;1;1;Metalurgia i odlewnictwo ogólne;70;5;560.0
+9;1;1;2;Matematyka I;70;7;560.0
+9;1;1;3;Podstawy ergonomii;28;2;224.0
+9;1;1;4;Ekonomia ;28;2;224.0
+9;1;1;5;Historia odlewnictwa ;15;1;120.0
+9;1;1;6;Marketing;14;1;112.0
+9;1;1;7;Chemia ogólna I;84;6;672.0
+9;1;1;8;Geometria wykreœlna ;28;2;224.0
+9;1;1;9;Informatyka i technologia informacyjne;42;4;336.0
+9;1;2;1;Fizyka I;56;4;448.0
+9;1;2;2;Matematyka II;70;8;560.0
+9;1;2;3;Elektrotechnika i elektronika;42;4;336.0
+9;1;2;4;Obróbka ubytkowa;28;2;224.0
+9;1;2;5;Chemia ogólna  II;42;4;336.0
+9;1;2;6;Zapis konstrukcji i grafika in¿ynierska;70;5;560.0
+9;1;2;7;Komputerowe programy u¿ytkowe;28;2;224.0
+9;1;2;8;Internet, kultura, spo³oczeñstwo;14;1;112.0
+9;1;2;9;Historia kulturyn materialnej;14;1;112.0
+9;1;2;10;Konflikty œwiata wspó³czesnego;14;1;112.0
+9;1;2;11;Ochrona dziedzictwa kulturowego;14;1;112.0
+9;1;3;1;Fizyka II;28;5;224.0
+9;1;3;2;Ochrona œrodowiska;28;2;224.0
+9;1;3;3;Mechanika i wytrzyma³oœæ materia³ów;56;4;448.0
+9;1;3;4;Statystyka i rachunek prawdopodobieñstwa;28;2;224.0
+9;1;3;5;Chemia fizyczna I;42;3;336.0
+9;1;3;6;Krystalografia;28;2;224.0
+9;1;3;7;Tworzywa na formy odlewnicze ;70;5;560.0
+9;1;3;8;Termodynamika techniczna i technika cieplna, paliwa i spalanie;84;7;672.0
+9;1;4;1;Kszta³towanie plastyczne metali;14;1;112.0
+9;1;4;2;Chemia fizyczna II;70;6;560.0
+9;1;4;3;Materia³y in¿ynierskie;84;7;672.0
+9;1;4;4;Metody badañ materia³ów;28;2;224.0
+9;1;4;5;Podstawy konstrukcji maszyn;84;7;672.0
+9;1;4;6;Maszynoznawstwo ogólne;70;6;560.0
+9;1;4;7;Kierowanie zasobami ludzkimi;14;1;112.0
+9;1;5;1;Krystalizacja metali i stopów;42;3;336.0
+9;1;5;2;Technologia form odlewniczych ;42;4;336.0
+9;1;5;3;Materia³y ogniotrwa³e;28;2;224.0
+9;1;5;4;Maszyny i urz¹dzenia w  procesach metalurgicznych i odlewniczych ;56;5;448.0
+9;1;5;5;Mechanizacja i automatyzacja procesów metalurgicznych i odlewniczych;56;4;448.0
+9;1;5;6;Metalurgia i odlewnictwo staliwa;56;4;448.0
+9;1;5;7;Fizykochemia procesów metalurgicznych i odlewniczych ;28;2;224.0
+9;1;5;8;Podstawy automatyki i robotyki;56;4;448.0
+9;1;5;9;Tworzywa sztuczne i ich przetwórstwo;14;1;112.0
+9;1;5;10;Wentylacja, klimatyzacja i odpylanie w odlewniach;14;1;112.0
+9;1;5;11;Metalurgia proszków;14;1;112.0
+9;1;5;12;Zasady wytrzyma³oœciowego kszta³towania odlewów;14;1;112.0
+9;1;5;13;Gospodarka energetyczna w odlewniach;14;1;112.0
+9;1;5;14;Wiedza o sztuce;14;1;112.0
+9;1;6;1;Ochrona w³asnoœci intelektualnej;14;1;112.0
+9;1;6;2;Recykling materia³ów w metalurgii i odlewnictwie;28;2;224.0
+9;1;6;3;Metalurgia i odlewnictwo ¿eliwa ;56;4;448.0
+9;1;6;4;Metalurgia i odlewnictwo metali nie¿elaznych ;56;4;448.0
+9;1;6;5;Teoria wymiany masy, ciep³a i pêdu w  procesach metalurgicznych i odlewniczych;28;2;224.0
+9;1;6;6;Projektowanie i uruchomienie produkcji  odlewów;28;2;224.0
+9;1;6;7;Zintegrowane systemy zarz¹dzania;28;2;224.0
+9;1;6;8;Komputerowe wspomaganie prac in¿ynierskich w metalurgii i odlewnictwie;42;3;336.0
+9;1;6;9;Regeneracja zu¿ytych mas;14;1;112.0
+9;1;6;10;In¿ynieria warstwy fluidalnej i przep³ywów dwufazowych;14;1;112.0
+9;1;6;11;Kszta³towanie jakoœci odlewów;14;1;112.0
+9;1;6;12;Metalurgia proszków;14;1;112.0
+9;1;6;13;Procesy uszlachetniania stopów;14;1;112.0
+9;1;7;1;Wybrane zagadnienia z korozji tworzyw odlewniczych;42;5;336.0
+9;1;7;2;Projektowanie technologii odlewniczych ;42;6;336.0
+9;1;7;3;Procesy uszlachetniania stopów;42;5;336.0
+9;1;7;4;Odlewnicze stopy dla energetyki i lotnictwa;42;6;336.0
+9;1;7;5;Metrologia procesów odlewniczych;42;5;336.0
+9;1;7;6;Maszyny do odlewania ciœnieniowego i kokilowego;28;6;224.0
+9;1;7;7;Technologie odlewów precyzyjnych;42;6;336.0
+9;1;7;8;Technologia wytapiania i uszlachetniania metali nie¿elaznych;42;5;336.0
+9;1;7;9;Wp³yw przemys³u odlewniczego na œrodowisko;42;5;336.0
+9;1;7;10;Odpady odlewnicze i metalurgiczne;42;5;336.0
+9;1;7;11;Modelowanie i symulacja procesów odlewniczych;42;6;336.0
+9;1;7;12;Corrosion and Corrosion Protection;28;3;224.0
+9;1;7;13;Selected problems in surface engineering;28;3;224.0
 

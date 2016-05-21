@@ -1,79 +1,79 @@
-1;6;1;1;Geometria i grafika komputerowa;42;2
-1;6;1;2;Matematyka I;56;6
-1;6;1;3;Bezpieczeñstwo pracy i ergonomia;28;1
-1;6;1;4;Geologia ogólna;70;4
-1;6;1;5;Ochrona œrodowiska;28;2
-1;6;1;6;Hydrologia in¿ynierska;28;2
-1;6;1;7;Techniki informatyczne;42;2
-1;6;1;8;Chemia;56;6
-1;6;1;9;Podstawy ekonomi i zarz¹dzania - ekonomiczny 1 ;42;3
-1;6;1;10;Ma³e i œrednie przedsiêbiorstwa ekonomiczny 2;42;3
-1;6;1;11;Przedmiot humanistyczny1 - Podstawy prawa;28;2
-1;6;1;12;Przedmiot humanistyczny 2 ;28;2
-1;6;2;1;Fizyka I;56;6
-1;6;2;2;Matematyka II;56;6
-1;6;2;3;Geologia in¿ynierska;28;2
-1;6;2;4;OZE przysz³oœæ energetyczna;56;4
-1;6;2;5;Meteorologia i klimatologia;42;3
-1;6;2;6;Paliwa gazowe jako ekologiczne Ÿród³a energii;42;3
-1;6;2;7;Geologia z³ó¿ kopalin p³ynnych;42;3
-1;6;2;8;Zajêcia terenowe z geologii;28;1
-1;6;2;9;Podstawy monitoringu œrodowiska;28;2
-1;6;2;10;Ochrona powietrza;28;2
-1;6;3;1;Fizyka II;56;6
-1;6;3;2;Statystyka;28;3
-1;6;3;3;Przemys³ paliwowo-energetyczny a ochrona œrodowiska;56;5
-1;6;3;4;Hydrogeologia;28;2
-1;6;3;5;Mechanika i wytrzyma³oœæ materia³ów;56;4
-1;6;3;6;Materia³oznawstwo;28;2
-1;6;3;7;Metody geofizyczne w poszukiwaniach surowców energetycznych;56;4
-1;6;3;8;Podstawy budownictwa;28;2
-1;6;3;9;Grafika in¿ynierska - AutoCAD;28;2
-1;6;3;10;Grafika in¿ynierska - Corel;28;2
-1;6;4;1;Termodynamika techniczna;42;3
-1;6;4;2;Maszyny przep³ywowe;42;3
-1;6;4;3;Mechanika p³ynów;42;3
-1;6;4;4;Podstawy energetyki;56;5
-1;6;4;5;Podstawy prawne w energetyce;28;2
-1;6;4;6;Instalacje sanitarne;56;5
-1;6;4;7;Automatyka i sterowanie w OZE;56;3
-1;6;4;8;Metody GIS w OZE ;42;3
-1;6;4;9;Modelowanie parametryczne w œrodowisku DecisionSpaceDesktop;42;3
-1;6;4;10;Modelowanie i grafika in¿ynierska w œrodowisku Petrel;42;3
-1;6;4;11;Zajêcia terenowe z energetyki konwencjonalnej i odnawialnej;42;3
-1;6;4;12;Fizyczne podstawy konwersji energii ;42;3
-1;6;5;1;Energetyka s³oneczna;49;4
-1;6;5;2;In¿ynieria elektryczna;49;4
-1;6;5;3;Energetyka geotermalna;49;4
-1;6;5;4;Energetyka wiatrowa;49;4
-1;6;5;5;Poszukiwanie i udostêpnienie z³ó¿ gazu ziemnego i wód termalnych;42;2
-1;6;5;6;Energetyka wodna;49;4
-1;6;5;7;Pompy ciep³a;49;3
-1;6;5;8;Gospodarka odpadami;30;2
-1;6;5;9;Sieci i instalacje gazowe;28;2
-1;6;5;10;Analiza ryzyka œrodowiskowego;30;2
-1;6;5;11;Physical background of energy conversion ;30;3
-1;6;5;12;Przedmiot obieralny w jêzyku angielskim Geothermal energy resources;30;3
-1;6;6;1;Energia biomasy;70;5
-1;6;6;2;Technologie energooszczêdne w budownictwie;42;3
-1;6;6;3;Geochemia powierzchniowa;28;2
-1;6;6;4;Audyt energetyczne budynku i charakterystyka energetyczna budynku;49;4
-1;6;6;5;Sposoby gospodarowania energi¹ i minimalizacja jej strat;56;4
-1;6;6;6;Podstawy fotowoltaiki ;28;2
-1;6;6;7;Wody termalne mineralne i leczniczê - w³asnoœci, poszukiwanie i udostêpnianie;56;5
-1;6;6;8;Ogrzewnictwo, wentylacja i klimatyzacja;63;4
-1;6;6;9;Wielop³aszczyznowa analiza inwestycji OZE;28;2
-1;6;6;10;Efekt ekologiczny inwestycji OZE;28;2
-1;6;6;11;Praktyka zawodowa;112;4
-1;6;6;12;Wody termalne, mineralne i lecznicze;30;2
-1;6;6;13;Projektowanie instalacji centralnego ogrzewania z wykorzystaniem OZE;63;4
-1;6;7;1;Technologie produkcji i wykorzystania biopaliw - projekt;42;4
-1;6;7;2;Instalacje fotowoltaiczne ;42;4
-1;6;7;3;Pompy ciep³a - projekt;42;4
-1;6;7;4;Instalacje geotermalne - projekt;42;4
-1;6;7;5;Inwestycje wiatrowe - projekt;42;4
-1;6;7;6;Elektrownie wodne - projekt;45;4
-1;6;7;7;Alternatywne Ÿród³a energii;28;2
-1;6;7;8;Ocena zasobów OZE;28;2
-1;6;7;9;Instalacje solarne termiczne - projekt;42;4
+6;1;1;1;Geometria i grafika komputerowa;42;2;315.0
+6;1;1;2;Matematyka I;56;6;420.0
+6;1;1;3;Bezpieczeñstwo pracy i ergonomia;28;1;210.0
+6;1;1;4;Geologia ogólna;70;4;525.0
+6;1;1;5;Ochrona œrodowiska;28;2;210.0
+6;1;1;6;Hydrologia in¿ynierska;28;2;210.0
+6;1;1;7;Techniki informatyczne;42;2;315.0
+6;1;1;8;Chemia;56;6;420.0
+6;1;1;9;Podstawy ekonomi i zarz¹dzania - ekonomiczny 1 ;42;3;315.0
+6;1;1;10;Ma³e i œrednie przedsiêbiorstwa ekonomiczny 2;42;3;315.0
+6;1;1;11;Przedmiot humanistyczny1 - Podstawy prawa;28;2;210.0
+6;1;1;12;Przedmiot humanistyczny 2 ;28;2;210.0
+6;1;2;1;Fizyka I;56;6;420.0
+6;1;2;2;Matematyka II;56;6;420.0
+6;1;2;3;Geologia in¿ynierska;28;2;210.0
+6;1;2;4;OZE przysz³oœæ energetyczna;56;4;420.0
+6;1;2;5;Meteorologia i klimatologia;42;3;315.0
+6;1;2;6;Paliwa gazowe jako ekologiczne Ÿród³a energii;42;3;315.0
+6;1;2;7;Geologia z³ó¿ kopalin p³ynnych;42;3;315.0
+6;1;2;8;Zajêcia terenowe z geologii;28;1;210.0
+6;1;2;9;Podstawy monitoringu œrodowiska;28;2;210.0
+6;1;2;10;Ochrona powietrza;28;2;210.0
+6;1;3;1;Fizyka II;56;6;420.0
+6;1;3;2;Statystyka;28;3;210.0
+6;1;3;3;Przemys³ paliwowo-energetyczny a ochrona œrodowiska;56;5;420.0
+6;1;3;4;Hydrogeologia;28;2;210.0
+6;1;3;5;Mechanika i wytrzyma³oœæ materia³ów;56;4;420.0
+6;1;3;6;Materia³oznawstwo;28;2;210.0
+6;1;3;7;Metody geofizyczne w poszukiwaniach surowców energetycznych;56;4;420.0
+6;1;3;8;Podstawy budownictwa;28;2;210.0
+6;1;3;9;Grafika in¿ynierska - AutoCAD;28;2;210.0
+6;1;3;10;Grafika in¿ynierska - Corel;28;2;210.0
+6;1;4;1;Termodynamika techniczna;42;3;315.0
+6;1;4;2;Maszyny przep³ywowe;42;3;315.0
+6;1;4;3;Mechanika p³ynów;42;3;315.0
+6;1;4;4;Podstawy energetyki;56;5;420.0
+6;1;4;5;Podstawy prawne w energetyce;28;2;210.0
+6;1;4;6;Instalacje sanitarne;56;5;420.0
+6;1;4;7;Automatyka i sterowanie w OZE;56;3;420.0
+6;1;4;8;Metody GIS w OZE ;42;3;315.0
+6;1;4;9;Modelowanie parametryczne w œrodowisku DecisionSpaceDesktop;42;3;315.0
+6;1;4;10;Modelowanie i grafika in¿ynierska w œrodowisku Petrel;42;3;315.0
+6;1;4;11;Zajêcia terenowe z energetyki konwencjonalnej i odnawialnej;42;3;315.0
+6;1;4;12;Fizyczne podstawy konwersji energii ;42;3;315.0
+6;1;5;1;Energetyka s³oneczna;49;4;367.5
+6;1;5;2;In¿ynieria elektryczna;49;4;367.5
+6;1;5;3;Energetyka geotermalna;49;4;367.5
+6;1;5;4;Energetyka wiatrowa;49;4;367.5
+6;1;5;5;Poszukiwanie i udostêpnienie z³ó¿ gazu ziemnego i wód termalnych;42;2;315.0
+6;1;5;6;Energetyka wodna;49;4;367.5
+6;1;5;7;Pompy ciep³a;49;3;367.5
+6;1;5;8;Gospodarka odpadami;30;2;225.0
+6;1;5;9;Sieci i instalacje gazowe;28;2;210.0
+6;1;5;10;Analiza ryzyka œrodowiskowego;30;2;225.0
+6;1;5;11;Physical background of energy conversion ;30;3;225.0
+6;1;5;12;Przedmiot obieralny w jêzyku angielskim Geothermal energy resources;30;3;225.0
+6;1;6;1;Energia biomasy;70;5;525.0
+6;1;6;2;Technologie energooszczêdne w budownictwie;42;3;315.0
+6;1;6;3;Geochemia powierzchniowa;28;2;210.0
+6;1;6;4;Audyt energetyczne budynku i charakterystyka energetyczna budynku;49;4;367.5
+6;1;6;5;Sposoby gospodarowania energi¹ i minimalizacja jej strat;56;4;420.0
+6;1;6;6;Podstawy fotowoltaiki ;28;2;210.0
+6;1;6;7;Wody termalne mineralne i leczniczê - w³asnoœci, poszukiwanie i udostêpnianie;56;5;420.0
+6;1;6;8;Ogrzewnictwo, wentylacja i klimatyzacja;63;4;472.5
+6;1;6;9;Wielop³aszczyznowa analiza inwestycji OZE;28;2;210.0
+6;1;6;10;Efekt ekologiczny inwestycji OZE;28;2;210.0
+6;1;6;11;Praktyka zawodowa;112;4;840.0
+6;1;6;12;Wody termalne, mineralne i lecznicze;30;2;225.0
+6;1;6;13;Projektowanie instalacji centralnego ogrzewania z wykorzystaniem OZE;63;4;472.5
+6;1;7;1;Technologie produkcji i wykorzystania biopaliw - projekt;42;4;315.0
+6;1;7;2;Instalacje fotowoltaiczne ;42;4;315.0
+6;1;7;3;Pompy ciep³a - projekt;42;4;315.0
+6;1;7;4;Instalacje geotermalne - projekt;42;4;315.0
+6;1;7;5;Inwestycje wiatrowe - projekt;42;4;315.0
+6;1;7;6;Elektrownie wodne - projekt;45;4;337.5
+6;1;7;7;Alternatywne Ÿród³a energii;28;2;210.0
+6;1;7;8;Ocena zasobów OZE;28;2;210.0
+6;1;7;9;Instalacje solarne termiczne - projekt;42;4;315.0
 

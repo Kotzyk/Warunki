@@ -1,57 +1,57 @@
-1;4;1;1;Fizyka 1;98;6
-1;4;1;2;Wprowadzenie do  elektroniki;34;3
-1;4;1;3;Analiza obwodów I;48;5
-1;4;1;4;Analiza matematyczna 1;56;4
-1;4;1;5;Algebra;56;4
-1;4;1;6;Przedmiot humanistyczny;28;2
-1;4;1;7;BHP i ergonomia;8;1
-1;4;1;8;Podstawy informatyki;58;5
-1;4;2;1;Fizyka 2;56;6
-1;4;2;2;Miernictwo elektroniczne;28;3
-1;4;2;3;Analiza obwodów II;48;4
-1;4;2;4;Elementy elektroniczne;56;4
-1;4;2;5;Cyfrowe uk³ady elektroniczne I;28;3
-1;4;2;6;Probabilistyka i statystyka;34;3
-1;4;2;7;Analiza matematyczna 2;84;5
-1;4;2;8;In¿ynierskie techniki obliczeniowe;28;2
-1;4;3;1;In¿ynierskie techniki obliczeniowe
+4;1;1;1;Fizyka 1;98;6;784.0
+4;1;1;2;Wprowadzenie do  elektroniki;34;3;272.0
+4;1;1;3;Analiza obwodów I;48;5;384.0
+4;1;1;4;Analiza matematyczna 1;56;4;448.0
+4;1;1;5;Algebra;56;4;448.0
+4;1;1;6;Przedmiot humanistyczny;28;2;224.0
+4;1;1;7;BHP i ergonomia;8;1;64.0
+4;1;1;8;Podstawy informatyki;58;5;464.0
+4;1;2;1;Fizyka 2;56;6;448.0
+4;1;2;2;Miernictwo elektroniczne;28;3;224.0
+4;1;2;3;Analiza obwodów II;48;4;384.0
+4;1;2;4;Elementy elektroniczne;56;4;448.0
+4;1;2;5;Cyfrowe uk³ady elektroniczne I;28;3;224.0
+4;1;2;6;Probabilistyka i statystyka;34;3;272.0
+4;1;2;7;Analiza matematyczna 2;84;5;672.0
+4;1;2;8;In¿ynierskie techniki obliczeniowe;28;2;224.0
+4;1;3;1;In¿ynierskie techniki obliczeniowe
 
 
 
-Jêzyki programowania;56;4
-1;4;3;2;Teoria sygna³ów;56;5
-1;4;3;3;Analogowe uk³ady elektroniczne;74;5
-1;4;3;4;Symulacja uk³adów elektronicznych;28;3
-1;4;3;5;Cyfrowe uk³ady elektroniczne II;56;5
-1;4;3;6;Automatyka przemys³owa;42;3
-1;4;3;7;Metody numeryczne;28;3
-1;4;3;8;Podstawy ekonomii finansów i prawa w biznesie;28;2
-1;4;4;1;Laboratorium uk³adów elektronicznych;18;3
-1;4;4;2;Podstawy mikroelektroniki;40;3
-1;4;4;3;Systemy i uk³ady elektroniczne;46;4
-1;4;4;4;Cyfrowe przetwarzanie sygna³ów;56;4
-1;4;4;5;Systemy mikroprocesorowe I;56;4
-1;4;4;6;Programowanie obiektowe;56;5
-1;4;4;7;Podstawy transmisji danych;56;4
-1;4;4;8;Ochrona w³asnoœci intelektualnej;8;1
-1;4;4;9;Podstawy konstrukcji mechanicznych;28;3
-1;4;4;10;Narzêdzia CAD;28;3
-1;4;5;1;Technika mikrofalowa;28;3
-1;4;5;2;Systemy mikroprocesorowe II;44;4
-1;4;5;3;Projektowanie systemów cyfrowych;48;4
-1;4;5;4;Systemy œwiat³owodowe;56;3
-1;4;5;5;Systemy kontrolno-pomiarowe;28;2
-1;4;5;6;Design Laboratory;28;3
-1;4;5;7;Projektowanie uk³adów scalonych;56;3
-1;4;5;8;Modu³ obieralny 1;42;4
-1;4;5;9;Modu³ obieralny 2;42;4
-1;4;6;1;Wprowadzenie do techniki sensorowej;42;3
-1;4;6;2;Sieci transmisji danych;42;3
-1;4;6;3;Projektowanie urz¹dzeñ elektronicznych;58;3
-1;4;6;4;Modu³ obieralny 3;42;4
-1;4;6;5;Modu³ obieralny 4;42;4
-1;4;7;1;Techniki i systemy bezprzewodowe;38;4
-1;4;7;3;Modu³ obieralny 5;42;4
-1;4;7;4;Modu³ obieralny 6;42;4
-1;4;7;5;Modu³ obieralny 7  - w jêzyku obcym);42;4
+Jêzyki programowania;56;4;448.0
+4;1;3;2;Teoria sygna³ów;56;5;448.0
+4;1;3;3;Analogowe uk³ady elektroniczne;74;5;592.0
+4;1;3;4;Symulacja uk³adów elektronicznych;28;3;224.0
+4;1;3;5;Cyfrowe uk³ady elektroniczne II;56;5;448.0
+4;1;3;6;Automatyka przemys³owa;42;3;336.0
+4;1;3;7;Metody numeryczne;28;3;224.0
+4;1;3;8;Podstawy ekonomii finansów i prawa w biznesie;28;2;224.0
+4;1;4;1;Laboratorium uk³adów elektronicznych;18;3;144.0
+4;1;4;2;Podstawy mikroelektroniki;40;3;320.0
+4;1;4;3;Systemy i uk³ady elektroniczne;46;4;368.0
+4;1;4;4;Cyfrowe przetwarzanie sygna³ów;56;4;448.0
+4;1;4;5;Systemy mikroprocesorowe I;56;4;448.0
+4;1;4;6;Programowanie obiektowe;56;5;448.0
+4;1;4;7;Podstawy transmisji danych;56;4;448.0
+4;1;4;8;Ochrona w³asnoœci intelektualnej;8;1;64.0
+4;1;4;9;Podstawy konstrukcji mechanicznych;28;3;224.0
+4;1;4;10;Narzêdzia CAD;28;3;224.0
+4;1;5;1;Technika mikrofalowa;28;3;224.0
+4;1;5;2;Systemy mikroprocesorowe II;44;4;352.0
+4;1;5;3;Projektowanie systemów cyfrowych;48;4;384.0
+4;1;5;4;Systemy œwiat³owodowe;56;3;448.0
+4;1;5;5;Systemy kontrolno-pomiarowe;28;2;224.0
+4;1;5;6;Design Laboratory;28;3;224.0
+4;1;5;7;Projektowanie uk³adów scalonych;56;3;448.0
+4;1;5;8;Modu³ obieralny 1;42;4;336.0
+4;1;5;9;Modu³ obieralny 2;42;4;336.0
+4;1;6;1;Wprowadzenie do techniki sensorowej;42;3;336.0
+4;1;6;2;Sieci transmisji danych;42;3;336.0
+4;1;6;3;Projektowanie urz¹dzeñ elektronicznych;58;3;464.0
+4;1;6;4;Modu³ obieralny 3;42;4;336.0
+4;1;6;5;Modu³ obieralny 4;42;4;336.0
+4;1;7;1;Techniki i systemy bezprzewodowe;38;4;304.0
+4;1;7;3;Modu³ obieralny 5;42;4;336.0
+4;1;7;4;Modu³ obieralny 6;42;4;336.0
+4;1;7;5;Modu³ obieralny 7  - w jêzyku obcym);42;4;336.0
 

@@ -1,62 +1,62 @@
-4;6;1;1;Fizyka I;56;4
-4;6;1;2;Analiza matematyczna;98;6
-4;6;1;3;Algebra liniowa;56;5
-4;6;1;4;Geologia podstawowa;42;3
-4;6;1;5;Chemia;56;6
-4;6;1;6;Wstêp do informatyki;56;6
-4;6;2;1;Fizyka II;56;5
-4;6;2;2;Równania ró¿niczkowe;84;5
-4;6;2;3;Logika i matematyka dyskretna;42;2
-4;6;2;4;Aspekty ekonomiczno-prawne w informatyce;28;3
-4;6;2;5;Algorytmy i struktury danych;42;3
-4;6;2;6;Techniki internetowe;42;3
-4;6;2;7;Geofizyka I;42;3
-4;6;2;8;System Unix;42;4
-4;6;2;9;Religie œwiata: cz³owiek a sacrum;28;2
-4;6;2;10; Podstawy negocjacji;28;2
-4;6;2;11;Wiedza o nauce;28;2
-4;6;3;1;Fizyka wspó³czesna;42;3
-4;6;3;2;Statystyka Matematyczna;56;6
-4;6;3;3;Podstawy elektroniki i miernictwa;70;6
-4;6;3;4;Programowanie proceduralne;56;5
-4;6;3;5;Teledetekcja z elementami fotogrametrii;42;3
-4;6;3;6;Przestrzeñ ekologiczna i rozwój zrównowa¿ony;42;3
-4;6;3;7;Geologia podstawowa II;56;4
-4;6;3;8;Zagro¿enia naturalne;42;3
-4;6;3;9;Geofizyka II;56;4
-4;6;4;1;Sieci komputerowe;56;6
-4;6;4;2;Systemy Operacyjne;56;6
-4;6;4;3;Programowanie obiektowe;56;4
-4;6;4;4;Elektronika cyfrowa i architektura komputerów;56;5
-4;6;4;5;Metody numeryczne;56;6
-4;6;4;6;Komputerowe wspomaganie projektowania;42;3
-4;6;5;1;Bazy danych I;42;4
-4;6;5;2;Geometria i grafika komputerowa;42;3
-4;6;5;3;Komputerowe systemy pomiarowe;56;3
-4;6;5;4;Teoria sygna³ów;56;5
-4;6;5;5;Programowanie obiektowe II;42;4
-4;6;5;6;Programowanie w jêzyku Python;42;4
-4;6;5;7;Programowanie w systemie Linux;42;4
-4;6;5;8;Zaawansowane programowanie PHP;42;3
-4;6;5;9;Elementy teledetekcji i GIS;42;4
-4;6;5;10;Satelitarna Interferometria Radarowa;42;3
-4;6;5;11;Podstawy systemów modelowañ geodynamicznych;42;4
-4;6;5;12;Podstawy geologii in¿ynierskiej ;42;4
-4;6;6;1;Analiza i przetwarzanie obrazów cyfrowych;70;4
-4;6;6;2;Sztuczna inteligencja i systemy ekspertowe;70;4
-4;6;6;3;Programowanie obiektowe w œrodowisku Windows ;56;3
-4;6;6;4;Podstawy programowania aplikacji korporacyjnych;56;4
-4;6;6;5;Systemy Informatyczne;42;3
-4;6;6;6;Administracja Systemami Komputerowymi;42;3
-4;6;6;7;Kombinatoryka dla programistów;42;3
-4;6;6;8;Konfiguracja i diagnostyka sieci komputerowej;42;3
-4;6;6;9;Programowanie komunikacji sieciowej;56;4
-4;6;7;1;Advanced Signal Processing ;42;3
-4;6;7;2;Analiza danych przestrzennych;42;4
-4;6;7;3;Stereologia i analiza obrazu w zastosowaniach geologicznych;28;3
-4;6;7;4;Grafika wektorowa SVG;42;4
-4;6;7;5;Data mining;42;3
-4;6;7;6;Programowanie w œrodowisku .NET;28;3
-4;6;7;7;Technologie Komponentowe;42;3
-4;6;7;8;Bazy danych przestrzennych;42;5
+6;4;1;1;Fizyka I;56;4;420.0
+6;4;1;2;Analiza matematyczna;98;6;735.0
+6;4;1;3;Algebra liniowa;56;5;420.0
+6;4;1;4;Geologia podstawowa;42;3;315.0
+6;4;1;5;Chemia;56;6;420.0
+6;4;1;6;Wstêp do informatyki;56;6;420.0
+6;4;2;1;Fizyka II;56;5;420.0
+6;4;2;2;Równania ró¿niczkowe;84;5;630.0
+6;4;2;3;Logika i matematyka dyskretna;42;2;315.0
+6;4;2;4;Aspekty ekonomiczno-prawne w informatyce;28;3;210.0
+6;4;2;5;Algorytmy i struktury danych;42;3;315.0
+6;4;2;6;Techniki internetowe;42;3;315.0
+6;4;2;7;Geofizyka I;42;3;315.0
+6;4;2;8;System Unix;42;4;315.0
+6;4;2;9;Religie œwiata: cz³owiek a sacrum;28;2;210.0
+6;4;2;10; Podstawy negocjacji;28;2;210.0
+6;4;2;11;Wiedza o nauce;28;2;210.0
+6;4;3;1;Fizyka wspó³czesna;42;3;315.0
+6;4;3;2;Statystyka Matematyczna;56;6;420.0
+6;4;3;3;Podstawy elektroniki i miernictwa;70;6;525.0
+6;4;3;4;Programowanie proceduralne;56;5;420.0
+6;4;3;5;Teledetekcja z elementami fotogrametrii;42;3;315.0
+6;4;3;6;Przestrzeñ ekologiczna i rozwój zrównowa¿ony;42;3;315.0
+6;4;3;7;Geologia podstawowa II;56;4;420.0
+6;4;3;8;Zagro¿enia naturalne;42;3;315.0
+6;4;3;9;Geofizyka II;56;4;420.0
+6;4;4;1;Sieci komputerowe;56;6;420.0
+6;4;4;2;Systemy Operacyjne;56;6;420.0
+6;4;4;3;Programowanie obiektowe;56;4;420.0
+6;4;4;4;Elektronika cyfrowa i architektura komputerów;56;5;420.0
+6;4;4;5;Metody numeryczne;56;6;420.0
+6;4;4;6;Komputerowe wspomaganie projektowania;42;3;315.0
+6;4;5;1;Bazy danych I;42;4;315.0
+6;4;5;2;Geometria i grafika komputerowa;42;3;315.0
+6;4;5;3;Komputerowe systemy pomiarowe;56;3;420.0
+6;4;5;4;Teoria sygna³ów;56;5;420.0
+6;4;5;5;Programowanie obiektowe II;42;4;315.0
+6;4;5;6;Programowanie w jêzyku Python;42;4;315.0
+6;4;5;7;Programowanie w systemie Linux;42;4;315.0
+6;4;5;8;Zaawansowane programowanie PHP;42;3;315.0
+6;4;5;9;Elementy teledetekcji i GIS;42;4;315.0
+6;4;5;10;Satelitarna Interferometria Radarowa;42;3;315.0
+6;4;5;11;Podstawy systemów modelowañ geodynamicznych;42;4;315.0
+6;4;5;12;Podstawy geologii in¿ynierskiej ;42;4;315.0
+6;4;6;1;Analiza i przetwarzanie obrazów cyfrowych;70;4;525.0
+6;4;6;2;Sztuczna inteligencja i systemy ekspertowe;70;4;525.0
+6;4;6;3;Programowanie obiektowe w œrodowisku Windows ;56;3;420.0
+6;4;6;4;Podstawy programowania aplikacji korporacyjnych;56;4;420.0
+6;4;6;5;Systemy Informatyczne;42;3;315.0
+6;4;6;6;Administracja Systemami Komputerowymi;42;3;315.0
+6;4;6;7;Kombinatoryka dla programistów;42;3;315.0
+6;4;6;8;Konfiguracja i diagnostyka sieci komputerowej;42;3;315.0
+6;4;6;9;Programowanie komunikacji sieciowej;56;4;420.0
+6;4;7;1;Advanced Signal Processing ;42;3;315.0
+6;4;7;2;Analiza danych przestrzennych;42;4;315.0
+6;4;7;3;Stereologia i analiza obrazu w zastosowaniach geologicznych;28;3;210.0
+6;4;7;4;Grafika wektorowa SVG;42;4;315.0
+6;4;7;5;Data mining;42;3;315.0
+6;4;7;6;Programowanie w œrodowisku .NET;28;3;210.0
+6;4;7;7;Technologie Komponentowe;42;3;315.0
+6;4;7;8;Bazy danych przestrzennych;42;5;315.0
 

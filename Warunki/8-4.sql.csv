@@ -1,56 +1,56 @@
-4;8;0;1;Przedmiot Obieralny 1ECTS;28;1
-4;8;0;2;Przedmiot Obieralny 2ECTS;28;2
-4;8;0;3;Przedmiot Obieralny 3ECTS;28;3
-4;8;1;1;Wstêp do fizyki;42;3
-4;8;1;2;Grafika in¿ynierska;56;4
-4;8;1;3;Propedeutyka nauk materia³owych;9;1
-4;8;1;4;Technologie informacyjne;42;3
-4;8;1;5;Elementy chemii;14;0
-4;8;1;6;Chemia ogólna - kurs podstawowy;84;9
-4;8;1;7;Chemia ogólna - kurs rozszerzony;84;9
-4;8;1;8;Wstêp do matematyki - kurs podstawowy;84;10
-4;8;1;9;Wstêp do matematyki - kurs rozszerzony;84;10
-4;8;2;1;Fizyka;84;9
-4;8;2;2;Statystyka;56;4
-4;8;2;3;Przedmiot obieralny - humanizuj¹cy (Af) - (lista i opisy w sem0);28;1
-4;8;2;4;Chemia nieorganiczna - kurs podstawowy;140;11
-4;8;2;5;Chemia nieorganiczna - kurs rozszerzony;140;11
-4;8;2;6;Matematyka - kurs podstawowy;56;5
-4;8;2;7;Matematyka - kurs rozszerzony;56;5
-4;8;3;1;Podstawy mechaniki i konstrukcji maszyn;70;5
-4;8;3;2;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2
-4;8;3;3;Wstêp do filozofii przyrody;28;2
-4;8;3;4;Chemia organiczna;84;7
-4;8;3;5;Termodynamika chemiczna;56;7
-4;8;3;6;Krystalografia i krystalochemia;84;7
-4;8;4;1;Nauka o materia³ach;98;8
-4;8;4;2;Elektrotechnika z elektronik¹;42;3
-4;8;4;3;Wstêp do ceramiki i in¿ynierii materia³owej;70;3
-4;8;4;4;Chemia fizyczna;98;8
-4;8;4;5;Chemia krzemianów;70;6
-4;8;5;1;Surowce mineralne;56;5
-4;8;5;2;Podstawy in¿ynierii materia³ów;84;7
-4;8;5;3;In¿ynieria chemiczna;56;5
-4;8;5;4;Maszynoznawstwo ceramiczne;56;4
-4;8;5;5;Elementy automatyki;56;4
-4;8;5;6;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2
-4;8;5;7;Przedmiot obieralny - anglojêzyczny (Df) - (lista i opisy - sem0);28;3
-4;8;6;1;Termodynamika techniczna;70;4
-4;8;6;2;Bezpieczeñstwo techniczne;28;1
-4;8;6;3;Praktyka przemys³owa - 6 tygodni;240;4
-4;8;6;4;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2
-4;8;6;5;Przedmiot obieralny 2 - kierunkowy (Cf) - (lista i opisy - sem0);28;2
-4;8;6;6;Ekonomika i zarz¹dzanie;28;1
-4;8;6;7;Instrumentalne metody analizy;70;4
-4;8;6;8;Elementy technologii chemicznej;56;3
-4;8;6;9;Metody badañ strukturalnych;42;3
-4;8;7;1;Technologia materia³ów budowlanych;56;3
-4;8;7;2;Technologia szk³a i ceramiki;56;3
-4;8;7;3;Ochrona w³asnoœci intelektualnej;14;1
-4;8;7;4;Seminarium in¿ynierskie;14;1
-4;8;7;5;Zarz¹dzanie jakoœci¹;28;1
-4;8;7;6;Technologia ceramiki;56;2
-4;8;7;7;Technologia szk³a;56;2
-4;8;7;8;Technologia materia³ów wi¹¿¹cych i betonów;56;2
-4;8;7;9;Technologia ceramiki budowlanej i materia³ów termoizolacyjnych;56;2
+8;4;0;1;Przedmiot Obieralny 1ECTS;28;1;280.0
+8;4;0;2;Przedmiot Obieralny 2ECTS;28;2;280.0
+8;4;0;3;Przedmiot Obieralny 3ECTS;28;3;280.0
+8;4;1;1;Wstêp do fizyki;42;3;420.0
+8;4;1;2;Grafika in¿ynierska;56;4;560.0
+8;4;1;3;Propedeutyka nauk materia³owych;9;1;90.0
+8;4;1;4;Technologie informacyjne;42;3;420.0
+8;4;1;5;Elementy chemii;14;0;140.0
+8;4;1;6;Chemia ogólna - kurs podstawowy;84;9;840.0
+8;4;1;7;Chemia ogólna - kurs rozszerzony;84;9;840.0
+8;4;1;8;Wstêp do matematyki - kurs podstawowy;84;10;840.0
+8;4;1;9;Wstêp do matematyki - kurs rozszerzony;84;10;840.0
+8;4;2;1;Fizyka;84;9;840.0
+8;4;2;2;Statystyka;56;4;560.0
+8;4;2;3;Przedmiot obieralny - humanizuj¹cy (Af) - (lista i opisy w sem0);28;1;280.0
+8;4;2;4;Chemia nieorganiczna - kurs podstawowy;140;11;1400.0
+8;4;2;5;Chemia nieorganiczna - kurs rozszerzony;140;11;1400.0
+8;4;2;6;Matematyka - kurs podstawowy;56;5;560.0
+8;4;2;7;Matematyka - kurs rozszerzony;56;5;560.0
+8;4;3;1;Podstawy mechaniki i konstrukcji maszyn;70;5;700.0
+8;4;3;2;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2;280.0
+8;4;3;3;Wstêp do filozofii przyrody;28;2;280.0
+8;4;3;4;Chemia organiczna;84;7;840.0
+8;4;3;5;Termodynamika chemiczna;56;7;560.0
+8;4;3;6;Krystalografia i krystalochemia;84;7;840.0
+8;4;4;1;Nauka o materia³ach;98;8;980.0
+8;4;4;2;Elektrotechnika z elektronik¹;42;3;420.0
+8;4;4;3;Wstêp do ceramiki i in¿ynierii materia³owej;70;3;700.0
+8;4;4;4;Chemia fizyczna;98;8;980.0
+8;4;4;5;Chemia krzemianów;70;6;700.0
+8;4;5;1;Surowce mineralne;56;5;560.0
+8;4;5;2;Podstawy in¿ynierii materia³ów;84;7;840.0
+8;4;5;3;In¿ynieria chemiczna;56;5;560.0
+8;4;5;4;Maszynoznawstwo ceramiczne;56;4;560.0
+8;4;5;5;Elementy automatyki;56;4;560.0
+8;4;5;6;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2;280.0
+8;4;5;7;Przedmiot obieralny - anglojêzyczny (Df) - (lista i opisy - sem0);28;3;280.0
+8;4;6;1;Termodynamika techniczna;70;4;700.0
+8;4;6;2;Bezpieczeñstwo techniczne;28;1;280.0
+8;4;6;3;Praktyka przemys³owa - 6 tygodni;240;4;2400.0
+8;4;6;4;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2;280.0
+8;4;6;5;Przedmiot obieralny 2 - kierunkowy (Cf) - (lista i opisy - sem0);28;2;280.0
+8;4;6;6;Ekonomika i zarz¹dzanie;28;1;280.0
+8;4;6;7;Instrumentalne metody analizy;70;4;700.0
+8;4;6;8;Elementy technologii chemicznej;56;3;560.0
+8;4;6;9;Metody badañ strukturalnych;42;3;420.0
+8;4;7;1;Technologia materia³ów budowlanych;56;3;560.0
+8;4;7;2;Technologia szk³a i ceramiki;56;3;560.0
+8;4;7;3;Ochrona w³asnoœci intelektualnej;14;1;140.0
+8;4;7;4;Seminarium in¿ynierskie;14;1;140.0
+8;4;7;5;Zarz¹dzanie jakoœci¹;28;1;280.0
+8;4;7;6;Technologia ceramiki;56;2;560.0
+8;4;7;7;Technologia szk³a;56;2;560.0
+8;4;7;8;Technologia materia³ów wi¹¿¹cych i betonów;56;2;560.0
+8;4;7;9;Technologia ceramiki budowlanej i materia³ów termoizolacyjnych;56;2;560.0
 

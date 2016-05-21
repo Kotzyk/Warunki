@@ -1,62 +1,62 @@
-2;5;1;1;Metodyki i techniki programowania;90;7
-2;5;1;2;Analiza matematyczna 1;60;6
-2;5;1;3;Algebra;60;6
-2;5;1;4;Programowanie w œrodowisku Matlab;53;4
-2;5;1;5;Ochrona w³asnoœci intelektualnej;28;3
-2;5;1;6;BHP i ergonomia;24;2
-2;5;1;7;Ochrona œrodowiska;27;2
-2;5;2;1;Fizyka;75;9
-2;5;2;2;Jêzyki programowania wysokiego poziomu;60;4
-2;5;2;3;Analiza matematyczna 2;60;6
-2;5;2;4;Podstawy probabilistyki i procesów stochastycznych;39;3
-2;5;2;5;Mechanika;56;4
-2;5;2;6;Elektrotechnika i teoria obwodów;40;4
-2;5;3;1;Grafika in¿ynierska i dokumentacja projektów;36;3
-2;5;3;2;Podstawy akustyki;85;8
-2;5;3;3;Teoria drgañ;70;7
-2;5;3;4;Metrologia i systemy pomiarowe;60;6
-2;5;3;5;Przetwarzanie sygna³ów 1 (modu³);60;6
-2;5;4;1;Przetwarzanie sygna³ów 2 (modu³);60;5
-2;5;4;2;Metody matematyczne w akustyce;52;5
-2;5;4;3;Elementy elektroniczne;30;2
-2;5;4;4;Miernictwo wibroakustyczne;40;3
-2;5;4;5;Elektroakustyka;60;5
-2;5;4;6;Akustyka architektoniczna;52;4
-2;5;4;7;Programowanie w œrodowisku LabView;30;2
-2;5;4;8;Technologia internetu;24;2
-2;5;4;9;Ekoakustyka;38;2
-2;5;4;10;Metody akustyczne w biologii i medycynie;27;2
-2;5;4;11;Dynamika uk³adów ci¹g³ych;27;2
-2;5;4;12;Zasady muzyki;27;2
-2;5;5;1;Principles of audio engineering;70;6
-2;5;5;2;Analogowe uk³ady elektroniczne;60;6
-2;5;5;3;Technologia mowy;90;6
-2;5;5;4;Technika infra- i ultradŸwiêkowa;24;2
-2;5;5;5;Przetwarzanie obrazów;52;4
-2;5;5;6;Obiektowe metody projektowania systemów;24;2
-2;5;5;7;Wytrzyma³oœæ materia³ów;39;2
-2;5;5;8;Wibroakustyka w technice i œrodowisku 1 (modu³);52;6
-2;5;5;9;Akustyka muzyczna z kszta³ceniem s³uchu;91;8
-2;5;6;1;Uniwersalizm modelowania matematycznego;27;2
-2;5;6;2;Technika cyfrowa i mikroprocesorowa;56;6
-2;5;6;3;Architektura komputerów i systemów operacyjnych;35;2
-2;5;6;4;Technologia internetu;24;2
-2;5;6;5;Technika poch³aniania i rozpraszania dŸwiêku;46;4
-2;5;6;6;Techniki multimedialne;40;2
-2;5;6;7;Metody akustyczne w biologii i medycynie;27;2
-2;5;6;8;Metody i narzêdzia programowe w akustyce;50;4
-2;5;6;9;Urz¹dzenia elektroniczne w akustyce;45;4
-2;5;6;10;Sekwencery i programy notacyjne;26;2
-2;5;6;11;Techniki bezprzewodowe;40;4
-2;5;6;12;Wibroakustyka w technice i œrodowisku 2 (modu³);154;10
-2;5;6;13;In¿ynieria miksowania;84;6
-2;5;7;1;Technika infra- i ultradŸwiêkowa;24;2
-2;5;7;2;Przetwarzanie obrazów;52;4
-2;5;7;3;Mapy akustyczne;30;2
-2;5;7;4;Obiektowe metody projektowania systemów;24;2
-2;5;7;5;Analogowe uk³ady peryferyjne w systemach cyfrowych;30;2
-2;5;7;6;Mikroprocesory sygna³owe;60;4
-2;5;7;7;Programming in LabVIEW environment;30;2
-2;5;7;8;Podstawy percepcji i przetwarzania informacji przez cz³owieka;26;2
-2;5;7;9;Realizacja nagrañ;58;4
+5;2;1;1;Metodyki i techniki programowania;90;7;990.0
+5;2;1;2;Analiza matematyczna 1;60;6;660.0
+5;2;1;3;Algebra;60;6;660.0
+5;2;1;4;Programowanie w œrodowisku Matlab;53;4;583.0
+5;2;1;5;Ochrona w³asnoœci intelektualnej;28;3;308.0
+5;2;1;6;BHP i ergonomia;24;2;264.0
+5;2;1;7;Ochrona œrodowiska;27;2;297.0
+5;2;2;1;Fizyka;75;9;825.0
+5;2;2;2;Jêzyki programowania wysokiego poziomu;60;4;660.0
+5;2;2;3;Analiza matematyczna 2;60;6;660.0
+5;2;2;4;Podstawy probabilistyki i procesów stochastycznych;39;3;429.0
+5;2;2;5;Mechanika;56;4;616.0
+5;2;2;6;Elektrotechnika i teoria obwodów;40;4;440.0
+5;2;3;1;Grafika in¿ynierska i dokumentacja projektów;36;3;396.0
+5;2;3;2;Podstawy akustyki;85;8;935.0
+5;2;3;3;Teoria drgañ;70;7;770.0
+5;2;3;4;Metrologia i systemy pomiarowe;60;6;660.0
+5;2;3;5;Przetwarzanie sygna³ów 1 (modu³);60;6;660.0
+5;2;4;1;Przetwarzanie sygna³ów 2 (modu³);60;5;660.0
+5;2;4;2;Metody matematyczne w akustyce;52;5;572.0
+5;2;4;3;Elementy elektroniczne;30;2;330.0
+5;2;4;4;Miernictwo wibroakustyczne;40;3;440.0
+5;2;4;5;Elektroakustyka;60;5;660.0
+5;2;4;6;Akustyka architektoniczna;52;4;572.0
+5;2;4;7;Programowanie w œrodowisku LabView;30;2;330.0
+5;2;4;8;Technologia internetu;24;2;264.0
+5;2;4;9;Ekoakustyka;38;2;418.0
+5;2;4;10;Metody akustyczne w biologii i medycynie;27;2;297.0
+5;2;4;11;Dynamika uk³adów ci¹g³ych;27;2;297.0
+5;2;4;12;Zasady muzyki;27;2;297.0
+5;2;5;1;Principles of audio engineering;70;6;770.0
+5;2;5;2;Analogowe uk³ady elektroniczne;60;6;660.0
+5;2;5;3;Technologia mowy;90;6;990.0
+5;2;5;4;Technika infra- i ultradŸwiêkowa;24;2;264.0
+5;2;5;5;Przetwarzanie obrazów;52;4;572.0
+5;2;5;6;Obiektowe metody projektowania systemów;24;2;264.0
+5;2;5;7;Wytrzyma³oœæ materia³ów;39;2;429.0
+5;2;5;8;Wibroakustyka w technice i œrodowisku 1 (modu³);52;6;572.0
+5;2;5;9;Akustyka muzyczna z kszta³ceniem s³uchu;91;8;1001.0
+5;2;6;1;Uniwersalizm modelowania matematycznego;27;2;297.0
+5;2;6;2;Technika cyfrowa i mikroprocesorowa;56;6;616.0
+5;2;6;3;Architektura komputerów i systemów operacyjnych;35;2;385.0
+5;2;6;4;Technologia internetu;24;2;264.0
+5;2;6;5;Technika poch³aniania i rozpraszania dŸwiêku;46;4;506.0
+5;2;6;6;Techniki multimedialne;40;2;440.0
+5;2;6;7;Metody akustyczne w biologii i medycynie;27;2;297.0
+5;2;6;8;Metody i narzêdzia programowe w akustyce;50;4;550.0
+5;2;6;9;Urz¹dzenia elektroniczne w akustyce;45;4;495.0
+5;2;6;10;Sekwencery i programy notacyjne;26;2;286.0
+5;2;6;11;Techniki bezprzewodowe;40;4;440.0
+5;2;6;12;Wibroakustyka w technice i œrodowisku 2 (modu³);154;10;1694.0
+5;2;6;13;In¿ynieria miksowania;84;6;924.0
+5;2;7;1;Technika infra- i ultradŸwiêkowa;24;2;264.0
+5;2;7;2;Przetwarzanie obrazów;52;4;572.0
+5;2;7;3;Mapy akustyczne;30;2;330.0
+5;2;7;4;Obiektowe metody projektowania systemów;24;2;264.0
+5;2;7;5;Analogowe uk³ady peryferyjne w systemach cyfrowych;30;2;330.0
+5;2;7;6;Mikroprocesory sygna³owe;60;4;660.0
+5;2;7;7;Programming in LabVIEW environment;30;2;330.0
+5;2;7;8;Podstawy percepcji i przetwarzania informacji przez cz³owieka;26;2;286.0
+5;2;7;9;Realizacja nagrañ;58;4;638.0
 

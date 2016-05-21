@@ -1,58 +1,58 @@
-2;11;1;1;Podstawy techniki wiertnictwa, gazownictwa i eksploatacji;28;2
-2;11;1;2;Górnictwo ogólne                                                        ;28;3
-2;11;1;3;Geologia ogólna;56;5
-2;11;1;4;Ochrona œrodowiska w górnictwie naftowym;56;3
-2;11;1;5;Matematyka I                                                          ;56;7
-2;11;1;6;BHP i ergonomia I;42;3
-2;11;1;7;Chemia ;42;4
-2;11;1;8;Geometria i grafika in¿ynierska                               ;28;3
-2;11;2;1;Fizyka I ;56;5
-2;11;2;2;Informatyka  ;56;4
-2;11;2;3;Geologia naftowa    ;56;5
-2;11;2;4;Mineralogia i petrografia  ;28;2
-2;11;2;5;Matematyka II  ;56;7
-2;11;2;6;Mechanika;42;3
-2;11;2;7;Chemia organiczna i technologie przeróbki wêglowodorów;42;4
-2;11;3;1;Fizyka  II  ;56;7
-2;11;3;2;Wytrzyma³oœæ materia³ów;28;3
-2;11;3;3;Geofizyka poszukiwawcza;28;3
-2;11;3;4;Wiertnictwo naftowe;56;6
-2;11;3;5;Matematyka stosowana   ;56;5
-2;11;3;6;Ekonomika i marketing w przemyœle naftowym ;28;2
-2;11;3;7;Mechanika p³ynów;42;4
-2;11;4;1;Termodynamika;56;6
-2;11;4;2;Geomechanika;42;3
-2;11;4;3;In¿ynieria z³o¿owa;42;5
-2;11;4;4;Podstawy konstrukcji maszyn ;56;4
-2;11;4;5;Geofizyka wiertnicza;42;4
-2;11;4;6;Statystyka matematyczna;28;2
-2;11;5;1;Procesy technologiczne w gazownictwie ziemnym;42;5
-2;11;5;2;P³uczki wiertnicze;28;5
-2;11;5;3;Techniki i technologie bezwykopowe;28;3
-2;11;5;4;Eksploatacja gazu ziemnego;56;6
-2;11;5;5;Mechanika  i hydromechanika z³ó¿ ropy i gazu;42;4
-2;11;5;6;Wiercenia in¿ynieryjne;42;4
-2;11;5;7;Prawo europejskie/energetyczne;28;2
-2;11;5;8;Niekonwencjonalne Ÿród³a energii;28;2
-2;11;6;1;Eksploatacja z³ó¿ ropy naftowej;84;6
-2;11;6;2;Magazynowanie ropy naftowej;28;2
-2;11;6;3;Projektowanie otworów naftowych;42;3
-2;11;6;4;Technologia cementowania;42;5
-2;11;6;5;Zagospodarowanie z³ó¿ ropy ;28;3
-2;11;6;6;Automatyzacja w kopalnictwie naftowym;28;3
-2;11;6;7;Technologia przeróbki ropy;28;2
-2;11;6;8;Ocena oddzia³ywania inwestycji ma œrodowisko;28;2
-2;11;6;9;Eksploatacja z³ó¿ wód;28;2
-2;11;7;1;Magazynowanie gazu ziemnego ;28;3
-2;11;7;2;Pozyskiwanie metanu z pok³adów wêgla;28;3
-2;11;7;3;Prawo geologiczne, górnicze, wodne i budowlane ;42;5
-2;11;7;4;Transport gazu;56;4
-2;11;7;5;Metody EOR  ;28;3
-2;11;7;6;Prawo geologiczne, górnicze, wodne i budowlane;42;5
-2;11;7;7;Zagospodarowanie z³ó¿ ropy ;42;3
-2;11;7;8;Urz¹dzenia eksploatacyjne  ;42;4
-2;11;7;9;Urz¹dzenia wiertnicze ;28;3
-2;11;7;10;Technologia wiercenia otworów;42;3
-2;11;7;11;Technologia cementowania;42;4
-2;11;7;12;Prawo geologiczne, górnicze, wodne i budowlane                  ;42;5
+11;2;1;1;Podstawy techniki wiertnictwa, gazownictwa i eksploatacji;28;2;280.0
+11;2;1;2;Górnictwo ogólne                                                        ;28;3;280.0
+11;2;1;3;Geologia ogólna;56;5;560.0
+11;2;1;4;Ochrona œrodowiska w górnictwie naftowym;56;3;560.0
+11;2;1;5;Matematyka I                                                          ;56;7;560.0
+11;2;1;6;BHP i ergonomia I;42;3;420.0
+11;2;1;7;Chemia ;42;4;420.0
+11;2;1;8;Geometria i grafika in¿ynierska                               ;28;3;280.0
+11;2;2;1;Fizyka I ;56;5;560.0
+11;2;2;2;Informatyka  ;56;4;560.0
+11;2;2;3;Geologia naftowa    ;56;5;560.0
+11;2;2;4;Mineralogia i petrografia  ;28;2;280.0
+11;2;2;5;Matematyka II  ;56;7;560.0
+11;2;2;6;Mechanika;42;3;420.0
+11;2;2;7;Chemia organiczna i technologie przeróbki wêglowodorów;42;4;420.0
+11;2;3;1;Fizyka  II  ;56;7;560.0
+11;2;3;2;Wytrzyma³oœæ materia³ów;28;3;280.0
+11;2;3;3;Geofizyka poszukiwawcza;28;3;280.0
+11;2;3;4;Wiertnictwo naftowe;56;6;560.0
+11;2;3;5;Matematyka stosowana   ;56;5;560.0
+11;2;3;6;Ekonomika i marketing w przemyœle naftowym ;28;2;280.0
+11;2;3;7;Mechanika p³ynów;42;4;420.0
+11;2;4;1;Termodynamika;56;6;560.0
+11;2;4;2;Geomechanika;42;3;420.0
+11;2;4;3;In¿ynieria z³o¿owa;42;5;420.0
+11;2;4;4;Podstawy konstrukcji maszyn ;56;4;560.0
+11;2;4;5;Geofizyka wiertnicza;42;4;420.0
+11;2;4;6;Statystyka matematyczna;28;2;280.0
+11;2;5;1;Procesy technologiczne w gazownictwie ziemnym;42;5;420.0
+11;2;5;2;P³uczki wiertnicze;28;5;280.0
+11;2;5;3;Techniki i technologie bezwykopowe;28;3;280.0
+11;2;5;4;Eksploatacja gazu ziemnego;56;6;560.0
+11;2;5;5;Mechanika  i hydromechanika z³ó¿ ropy i gazu;42;4;420.0
+11;2;5;6;Wiercenia in¿ynieryjne;42;4;420.0
+11;2;5;7;Prawo europejskie/energetyczne;28;2;280.0
+11;2;5;8;Niekonwencjonalne Ÿród³a energii;28;2;280.0
+11;2;6;1;Eksploatacja z³ó¿ ropy naftowej;84;6;840.0
+11;2;6;2;Magazynowanie ropy naftowej;28;2;280.0
+11;2;6;3;Projektowanie otworów naftowych;42;3;420.0
+11;2;6;4;Technologia cementowania;42;5;420.0
+11;2;6;5;Zagospodarowanie z³ó¿ ropy ;28;3;280.0
+11;2;6;6;Automatyzacja w kopalnictwie naftowym;28;3;280.0
+11;2;6;7;Technologia przeróbki ropy;28;2;280.0
+11;2;6;8;Ocena oddzia³ywania inwestycji ma œrodowisko;28;2;280.0
+11;2;6;9;Eksploatacja z³ó¿ wód;28;2;280.0
+11;2;7;1;Magazynowanie gazu ziemnego ;28;3;280.0
+11;2;7;2;Pozyskiwanie metanu z pok³adów wêgla;28;3;280.0
+11;2;7;3;Prawo geologiczne, górnicze, wodne i budowlane ;42;5;420.0
+11;2;7;4;Transport gazu;56;4;560.0
+11;2;7;5;Metody EOR  ;28;3;280.0
+11;2;7;6;Prawo geologiczne, górnicze, wodne i budowlane;42;5;420.0
+11;2;7;7;Zagospodarowanie z³ó¿ ropy ;42;3;420.0
+11;2;7;8;Urz¹dzenia eksploatacyjne  ;42;4;420.0
+11;2;7;9;Urz¹dzenia wiertnicze ;28;3;280.0
+11;2;7;10;Technologia wiercenia otworów;42;3;420.0
+11;2;7;11;Technologia cementowania;42;4;420.0
+11;2;7;12;Prawo geologiczne, górnicze, wodne i budowlane                  ;42;5;420.0
 

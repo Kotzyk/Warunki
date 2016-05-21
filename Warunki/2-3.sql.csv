@@ -1,56 +1,56 @@
-3;2;1;1;Chemia;56;6
-3;2;1;2;Fizyka I;56;6
-3;2;1;3;Bezpieczeñstwo i Higiena Pracy;28;2
-3;2;1;4;Podstawy informatyki;56;5
-3;2;1;5;Analiza Matematyczna I;56;6
-3;2;1;6;Algebra;28;3
-3;2;1;7;Ochrona œrodowiska;28;2
-3;2;2;1;Fizyka II;56;6
-3;2;2;2;Ekonomika i Zarz¹dzanie;28;1
-3;2;2;3;Mechanika i wytrzyma³oœæ materia³ów;56;5
-3;2;2;4;Podstawy nauki o materia³ach;56;5
-3;2;2;5;Podstawy termodynamiki;56;5
-3;2;2;6;Grafika in¿ynierska i systemy CAD;56;5
-3;2;2;7;Analiza matematyczna II;28;3
-3;2;3;1;Wymiana ciep³a i masy;56;5
-3;2;3;2;Materia³y in¿ynierskie;56;5
-3;2;3;3;Technologie wytwarzania i przetwarzania metali;56;5
-3;2;3;4;Teoria pomiarów i planowanie eksperymentu;28;3
-3;2;3;5;Równania ró¿niczkowe i rachunek wariacyjny;56;6
-3;2;3;6;Biopaliwa;56;6
-3;2;3;7;Korozja i ochrona przed korozj¹;56;6
-3;2;4;1;Historia techniki i kultury materialnej;28;2
-3;2;4;2;Programowanie proceduralne i obiektowe;56;5
-3;2;4;3;Technika cieplna;56;5
-3;2;4;4;Metody numeryczne;56;4
-3;2;4;5;Mechanika p³ynów;56;4
-3;2;4;6;Ciep³ownictwo, ogrzewnictwo i ch³odnictwo;56;5
-3;2;4;7;Odnawialne Ÿród³a energii;56;5
-3;2;4;8;Bazy danych;56;5
-3;2;4;9;In¿ynieria powierzchni w energetyce;56;5
-3;2;5;1;Gospodarka energetyczna;56;5
-3;2;5;2;Elektrotechnika i elektronika;42;4
-3;2;5;3;Urz¹dzenia cieplne;56;5
-3;2;5;4;Miernictwo energetyczne;56;4
-3;2;5;5;Automatyka i Sterowanie (ENG);42;6
-3;2;5;6;Metody badañ materia³ów (ENG);42;6
-3;2;5;7; Podstawy sztucznej inteligencji;56;6
-3;2;5;8;In¿ynieria Spajania;56;6
-3;2;5;9;Spalanie niskoemisyjne;56;6
-3;2;6;1;Praktyki 4;100;4
-3;2;6;2;Materia³y ceramiczne w in¿ynierii ciep³a;56;5
-3;2;6;3;Energetyka j¹drowa;56;5
-3;2;6;4;Modelowanie procesów cieplnych;56;5
-3;2;6;5;Metody oczyszczania gazów;56;5
-3;2;6;6;Techniki procesów spalania;70;6
-3;2;6;7;Techniki badawcze warstw wierzchnich i pow³ok;56;6
-3;2;6;8;Napawanie i natryskiwanie cieplne;56;5
-3;2;6;9;Obróbka cieplna metali;56;5
-3;2;7;1;Projekt in¿ynierski;0;15
-3;2;7;2;Korozja wysokotemperaturowa;56;5
-3;2;7;3;Mechanizmy zu¿ycia warstw wierzchnich;56;5
-3;2;7;4;Urz¹dzenia do obróbki powierzchniowej;56;5
-3;2;7;5;Gospodarka i utylizacja odpadów;56;5
-3;2;7;6;Pakiety numeryczne dla energetyki;56;5
-3;2;7;7;Surowce energetyczne i paliwa;56;5
+2;3;1;1;Chemia;56;6;616.0
+2;3;1;2;Fizyka I;56;6;616.0
+2;3;1;3;Bezpieczeñstwo i Higiena Pracy;28;2;308.0
+2;3;1;4;Podstawy informatyki;56;5;616.0
+2;3;1;5;Analiza Matematyczna I;56;6;616.0
+2;3;1;6;Algebra;28;3;308.0
+2;3;1;7;Ochrona œrodowiska;28;2;308.0
+2;3;2;1;Fizyka II;56;6;616.0
+2;3;2;2;Ekonomika i Zarz¹dzanie;28;1;308.0
+2;3;2;3;Mechanika i wytrzyma³oœæ materia³ów;56;5;616.0
+2;3;2;4;Podstawy nauki o materia³ach;56;5;616.0
+2;3;2;5;Podstawy termodynamiki;56;5;616.0
+2;3;2;6;Grafika in¿ynierska i systemy CAD;56;5;616.0
+2;3;2;7;Analiza matematyczna II;28;3;308.0
+2;3;3;1;Wymiana ciep³a i masy;56;5;616.0
+2;3;3;2;Materia³y in¿ynierskie;56;5;616.0
+2;3;3;3;Technologie wytwarzania i przetwarzania metali;56;5;616.0
+2;3;3;4;Teoria pomiarów i planowanie eksperymentu;28;3;308.0
+2;3;3;5;Równania ró¿niczkowe i rachunek wariacyjny;56;6;616.0
+2;3;3;6;Biopaliwa;56;6;616.0
+2;3;3;7;Korozja i ochrona przed korozj¹;56;6;616.0
+2;3;4;1;Historia techniki i kultury materialnej;28;2;308.0
+2;3;4;2;Programowanie proceduralne i obiektowe;56;5;616.0
+2;3;4;3;Technika cieplna;56;5;616.0
+2;3;4;4;Metody numeryczne;56;4;616.0
+2;3;4;5;Mechanika p³ynów;56;4;616.0
+2;3;4;6;Ciep³ownictwo, ogrzewnictwo i ch³odnictwo;56;5;616.0
+2;3;4;7;Odnawialne Ÿród³a energii;56;5;616.0
+2;3;4;8;Bazy danych;56;5;616.0
+2;3;4;9;In¿ynieria powierzchni w energetyce;56;5;616.0
+2;3;5;1;Gospodarka energetyczna;56;5;616.0
+2;3;5;2;Elektrotechnika i elektronika;42;4;462.0
+2;3;5;3;Urz¹dzenia cieplne;56;5;616.0
+2;3;5;4;Miernictwo energetyczne;56;4;616.0
+2;3;5;5;Automatyka i Sterowanie (ENG);42;6;462.0
+2;3;5;6;Metody badañ materia³ów (ENG);42;6;462.0
+2;3;5;7; Podstawy sztucznej inteligencji;56;6;616.0
+2;3;5;8;In¿ynieria Spajania;56;6;616.0
+2;3;5;9;Spalanie niskoemisyjne;56;6;616.0
+2;3;6;1;Praktyki 4;100;4;1100.0
+2;3;6;2;Materia³y ceramiczne w in¿ynierii ciep³a;56;5;616.0
+2;3;6;3;Energetyka j¹drowa;56;5;616.0
+2;3;6;4;Modelowanie procesów cieplnych;56;5;616.0
+2;3;6;5;Metody oczyszczania gazów;56;5;616.0
+2;3;6;6;Techniki procesów spalania;70;6;770.0
+2;3;6;7;Techniki badawcze warstw wierzchnich i pow³ok;56;6;616.0
+2;3;6;8;Napawanie i natryskiwanie cieplne;56;5;616.0
+2;3;6;9;Obróbka cieplna metali;56;5;616.0
+2;3;7;1;Projekt in¿ynierski;0;15;0.0
+2;3;7;2;Korozja wysokotemperaturowa;56;5;616.0
+2;3;7;3;Mechanizmy zu¿ycia warstw wierzchnich;56;5;616.0
+2;3;7;4;Urz¹dzenia do obróbki powierzchniowej;56;5;616.0
+2;3;7;5;Gospodarka i utylizacja odpadów;56;5;616.0
+2;3;7;6;Pakiety numeryczne dla energetyki;56;5;616.0
+2;3;7;7;Surowce energetyczne i paliwa;56;5;616.0
 

@@ -1,82 +1,82 @@
-2;10;1;1;Informatyka I;28;2
-2;10;1;2;Grafika in¿ynierska i rysunek techniczny;28;2
-2;10;1;3;Technologie informacyjne;42;2
-2;10;1;4;Metalurgia ogólna;28;2
-2;10;1;5;Wstêp do in¿ynierii materia³owej;28;2
-2;10;1;6;Rynek metali;28;2
-2;10;1;7;Matematyka I;98;9
-2;10;1;8;Chemia ogólna I;56;4
-2;10;1;9;Ochrona w³asnoœci intelektualnej;14;1
-2;10;1;10;Podstawowe techniki rozwoju osobistego;28;2
-2;10;1;11;Ekologia i zarz¹dzanie œrodowiskiem ;28;2
-2;10;1;12;Podstawy marketingu;28;2
-2;10;1;13;Podstawy ekonomii;28;2
-2;10;1;14;Historia i rola stowarzyszeñ in¿ynierskich ;28;2
-2;10;1;15;Wiedza o nauce;28;2
-2;10;1;16; Podstawy negocjacji;28;2
-2;10;1;17;Religie œwiata: cz³owiek a sacrum;28;2
-2;10;2;1;Informatyka II;56;4
-2;10;2;2;Komputerowe wspomaganie projektowania - AUTOCAD;42;3
-2;10;2;3;Statystyka i planowanie eksperymentu;56;4
-2;10;2;4;Matematyka II;70;6
-2;10;2;5;Fizyka I;56;6
-2;10;2;6;Chemia ogólna II;56;4
-2;10;2;7;Przedmiot humanistyczny (obieralny I);28;2
-2;10;2;8;Przedmiot humanistyczny (obieralny II);14;1
-2;10;3;1;Elektrotechnika i elektronika;56;4
-2;10;3;2;Komputerowe wspomaganie w nauce i technice - MATLAB;42;3
-2;10;3;3;Podstawy teoretyczne przeróbki plastycznej;84;4
-2;10;3;4;Metaloznawstwo I;70;5
-2;10;3;5;Chemia fizyczna I;56;4
-2;10;3;6;Mechanika i wytrzyma³oœæ materia³ów;56;4
-2;10;3;7;Fizyka II;56;6
-2;10;4;1;Matematyka aplikacyjna;42;3
-2;10;4;2;Chemia fizyczna II;56;5
-2;10;4;3;Metaloznawstwo II;56;4
-2;10;4;4;Przeróbka plastyczna metali I;56;5
-2;10;4;5;Transport masy i ciep³a w metalurgii;56;3
-2;10;4;6;Procesy metalurgii ekstrakcyjnej I;70;5
-2;10;4;7;Teoria procesów metalurgicznych I;56;5
-2;10;5;1;Procesy metalurgii ekstrakcyjnej II;56;4
-2;10;5;2;Przeróbka plastyczna metali II;70;5
-2;10;5;3;Zarz¹dzanie produkcj¹ i jakoœci¹ produkcji;28;2
-2;10;5;4;Walcowanie profilowe;42;3
-2;10;5;5;Utylizacja i neutralizacja odpadów przemys³owych;42;3
-2;10;5;6;Analiza strukturalna powierzchni;42;3
-2;10;5;7;Technologie wytwarzania rur w przemyœle metali nie¿elaznych;42;3
-2;10;5;8;Krystalizacja metali i stopów;42;4
-2;10;5;9;Fizyczne metody badañ materia³ów;42;4
-2;10;5;10;Energetyka hutnicza;42;4
-2;10;5;11;Metalurgia metali lekkich;42;4
-2;10;5;12;Odlewnictwo;42;4
-2;10;5;13;Techniki spajania materia³ów;42;4
-2;10;5;14;Tarcie i smarowanie w procesach przeróbki plastycznej;42;4
-2;10;5;15;Urz¹dzenia i pomiary w przeróbce plastycznej;42;4
-2;10;6;1;Konstrukcje in¿ynierskie w metalurgii;28;2
-2;10;6;2;Metalurgia metali ciê¿kich;56;4
-2;10;6;3;Kowalstwo artystyczne i u¿ytkowe;42;3
-2;10;6;4;Przeróbka plastyczna metali III;28;2
-2;10;6;5;Materia³y dla elektroniki;42;3
-2;10;6;6;Historia in¿ynierii metalurgicznej;14;1
-2;10;6;7;LaTeX - system do profesjonalnej edycji dokumentów;28;2
-2;10;6;8;Przemiany fazowe;56;4
-2;10;6;9;Rentgenografia i tekstura;56;4
-2;10;6;10;Pirometalurgia;56;4
-2;10;6;11;Hydrometalurgia;56;4
-2;10;6;12;Podstawy recyklingu metali nie¿elaznych;56;4
-2;10;6;13;Metalurgia proszków;56;4
-2;10;6;14;Obróbka cieplna w przeróbce plastycznej;56;4
-2;10;6;15;Technologie wytwarzania wyrobów z metali nie¿elaznych;56;4
-2;10;7;1;Electrochemistry;42;3
-2;10;7;2;Properties of slags and molten salts;42;3
-2;10;7;3;Technologies in cable industry;42;3
-2;10;7;4;Analytical methods and equipment in metallurgy;42;3
-2;10;7;5;Korozja i ochrona metali;42;3
-2;10;7;6;Wyroby z metali szlachetnych;42;3
-2;10;7;7;Materia³y narzêdziowe;42;3
-2;10;7;8;Materia³y i technologie w przemyœle lotnicznym i motoryzacyjnym;42;3
-2;10;7;9;Obróbka cieplna materia³ów;42;4
-2;10;7;10;Fizykochemiczne metody badañ materia³ów;42;4
-2;10;7;11;Kompozyty metaliczne;42;4
-2;10;7;12;Projektowanie narzêdzi w przeróbce plastycznej;42;4
+10;2;1;1;Informatyka I;28;2;196.0
+10;2;1;2;Grafika in¿ynierska i rysunek techniczny;28;2;196.0
+10;2;1;3;Technologie informacyjne;42;2;294.0
+10;2;1;4;Metalurgia ogólna;28;2;196.0
+10;2;1;5;Wstêp do in¿ynierii materia³owej;28;2;196.0
+10;2;1;6;Rynek metali;28;2;196.0
+10;2;1;7;Matematyka I;98;9;686.0
+10;2;1;8;Chemia ogólna I;56;4;392.0
+10;2;1;9;Ochrona w³asnoœci intelektualnej;14;1;98.0
+10;2;1;10;Podstawowe techniki rozwoju osobistego;28;2;196.0
+10;2;1;11;Ekologia i zarz¹dzanie œrodowiskiem ;28;2;196.0
+10;2;1;12;Podstawy marketingu;28;2;196.0
+10;2;1;13;Podstawy ekonomii;28;2;196.0
+10;2;1;14;Historia i rola stowarzyszeñ in¿ynierskich ;28;2;196.0
+10;2;1;15;Wiedza o nauce;28;2;196.0
+10;2;1;16; Podstawy negocjacji;28;2;196.0
+10;2;1;17;Religie œwiata: cz³owiek a sacrum;28;2;196.0
+10;2;2;1;Informatyka II;56;4;392.0
+10;2;2;2;Komputerowe wspomaganie projektowania - AUTOCAD;42;3;294.0
+10;2;2;3;Statystyka i planowanie eksperymentu;56;4;392.0
+10;2;2;4;Matematyka II;70;6;490.0
+10;2;2;5;Fizyka I;56;6;392.0
+10;2;2;6;Chemia ogólna II;56;4;392.0
+10;2;2;7;Przedmiot humanistyczny (obieralny I);28;2;196.0
+10;2;2;8;Przedmiot humanistyczny (obieralny II);14;1;98.0
+10;2;3;1;Elektrotechnika i elektronika;56;4;392.0
+10;2;3;2;Komputerowe wspomaganie w nauce i technice - MATLAB;42;3;294.0
+10;2;3;3;Podstawy teoretyczne przeróbki plastycznej;84;4;588.0
+10;2;3;4;Metaloznawstwo I;70;5;490.0
+10;2;3;5;Chemia fizyczna I;56;4;392.0
+10;2;3;6;Mechanika i wytrzyma³oœæ materia³ów;56;4;392.0
+10;2;3;7;Fizyka II;56;6;392.0
+10;2;4;1;Matematyka aplikacyjna;42;3;294.0
+10;2;4;2;Chemia fizyczna II;56;5;392.0
+10;2;4;3;Metaloznawstwo II;56;4;392.0
+10;2;4;4;Przeróbka plastyczna metali I;56;5;392.0
+10;2;4;5;Transport masy i ciep³a w metalurgii;56;3;392.0
+10;2;4;6;Procesy metalurgii ekstrakcyjnej I;70;5;490.0
+10;2;4;7;Teoria procesów metalurgicznych I;56;5;392.0
+10;2;5;1;Procesy metalurgii ekstrakcyjnej II;56;4;392.0
+10;2;5;2;Przeróbka plastyczna metali II;70;5;490.0
+10;2;5;3;Zarz¹dzanie produkcj¹ i jakoœci¹ produkcji;28;2;196.0
+10;2;5;4;Walcowanie profilowe;42;3;294.0
+10;2;5;5;Utylizacja i neutralizacja odpadów przemys³owych;42;3;294.0
+10;2;5;6;Analiza strukturalna powierzchni;42;3;294.0
+10;2;5;7;Technologie wytwarzania rur w przemyœle metali nie¿elaznych;42;3;294.0
+10;2;5;8;Krystalizacja metali i stopów;42;4;294.0
+10;2;5;9;Fizyczne metody badañ materia³ów;42;4;294.0
+10;2;5;10;Energetyka hutnicza;42;4;294.0
+10;2;5;11;Metalurgia metali lekkich;42;4;294.0
+10;2;5;12;Odlewnictwo;42;4;294.0
+10;2;5;13;Techniki spajania materia³ów;42;4;294.0
+10;2;5;14;Tarcie i smarowanie w procesach przeróbki plastycznej;42;4;294.0
+10;2;5;15;Urz¹dzenia i pomiary w przeróbce plastycznej;42;4;294.0
+10;2;6;1;Konstrukcje in¿ynierskie w metalurgii;28;2;196.0
+10;2;6;2;Metalurgia metali ciê¿kich;56;4;392.0
+10;2;6;3;Kowalstwo artystyczne i u¿ytkowe;42;3;294.0
+10;2;6;4;Przeróbka plastyczna metali III;28;2;196.0
+10;2;6;5;Materia³y dla elektroniki;42;3;294.0
+10;2;6;6;Historia in¿ynierii metalurgicznej;14;1;98.0
+10;2;6;7;LaTeX - system do profesjonalnej edycji dokumentów;28;2;196.0
+10;2;6;8;Przemiany fazowe;56;4;392.0
+10;2;6;9;Rentgenografia i tekstura;56;4;392.0
+10;2;6;10;Pirometalurgia;56;4;392.0
+10;2;6;11;Hydrometalurgia;56;4;392.0
+10;2;6;12;Podstawy recyklingu metali nie¿elaznych;56;4;392.0
+10;2;6;13;Metalurgia proszków;56;4;392.0
+10;2;6;14;Obróbka cieplna w przeróbce plastycznej;56;4;392.0
+10;2;6;15;Technologie wytwarzania wyrobów z metali nie¿elaznych;56;4;392.0
+10;2;7;1;Electrochemistry;42;3;294.0
+10;2;7;2;Properties of slags and molten salts;42;3;294.0
+10;2;7;3;Technologies in cable industry;42;3;294.0
+10;2;7;4;Analytical methods and equipment in metallurgy;42;3;294.0
+10;2;7;5;Korozja i ochrona metali;42;3;294.0
+10;2;7;6;Wyroby z metali szlachetnych;42;3;294.0
+10;2;7;7;Materia³y narzêdziowe;42;3;294.0
+10;2;7;8;Materia³y i technologie w przemyœle lotnicznym i motoryzacyjnym;42;3;294.0
+10;2;7;9;Obróbka cieplna materia³ów;42;4;294.0
+10;2;7;10;Fizykochemiczne metody badañ materia³ów;42;4;294.0
+10;2;7;11;Kompozyty metaliczne;42;4;294.0
+10;2;7;12;Projektowanie narzêdzi w przeróbce plastycznej;42;4;294.0
 

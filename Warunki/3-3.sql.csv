@@ -1,64 +1,64 @@
-3;3;1;1;Algebra liniowa i geometria analityczna;56;5
-3;3;1;2;Analiza matematyczna;84;7
-3;3;1;3;Matematyka dyskretna;28;3
-3;3;1;4;Wstêp do informatyki;56;4
-3;3;1;5;Je?zyki i metody programowania 1;56;4
-3;3;1;6;Wste?p do systemo´w uniksowych;56;4
-3;3;1;7;Narzêdzia pracy grupowej;28;3
-3;3;2;1;Fizyka 1;42;5
-3;3;2;2;Logika;42;4
-3;3;2;3;Rachunek prawdopodobien´stwa i statystyka;56;4
-3;3;2;4;Równania ró¿niczkowe;28;3
-3;3;2;5;Je?zyki i metody programowania 2;56;4
-3;3;2;6;Algorytmy i struktury danych;56;4
-3;3;2;7;Podstawy grafiki komputerowej;56;4
-3;3;2;8;Sk³ad dokumentów w œrodowisku LaTeX;28;2
-3;3;3;1;Fizyka 2;42;4
-3;3;3;2;Podstawy elektroniki cyfrowej;56;4
-3;3;3;3;Programowanie obiektowe;56;5
-3;3;3;4;Architektury komputerów;28;3
-3;3;3;5;Metody numeryczne;28;3
-3;3;3;6;Analiza numeryczna i symulacja systemo´w;28;3
-3;3;3;7;Systemy dynamiczne;42;4
-3;3;3;8;Je?zyki i technologie webowe;56;4
-3;3;4;1;Prawo autorskie i patentowe;14;1
-3;3;4;2;Badania operacyjne i teoria z³ozÿonos´ci obliczeniowej;56;5
-3;3;4;3;Sieci komputerowe;56;5
-3;3;4;4;Podstawy automatyki;56;4
-3;3;4;5;Paradygmaty programowania;56;5
-3;3;4;6;Programowanie mikrokontrolero´w i mikroprocesoro´w;56;4
-3;3;4;7;Systemy operacyjne;56;4
-3;3;4;8;Podstawy negocjacji;28;2
-3;3;4;9;Wiedza o nauce;28;2
-3;3;4;10;Religie œwiata: cz³owiek a sacrum;28;2
-3;3;5;1;Aspekty prawne i organizacja przedsiêbiorstwa;28;2
-3;3;5;2;Inzÿynieria oprogramowania;42;3
-3;3;5;3;Programowanie wspo´³biezÿne i rozproszone;56;4
-3;3;5;4;Przetwarzanie obrazów cyfrowych;56;4
-3;3;5;5;Bazy danych;56;4
-3;3;5;6;Lingwistyka formalna i automaty;42;3
-3;3;5;7;Wprowadzenie do wzorco´w projektowych;28;3
-3;3;5;8;Wzorce i problemy projektowe;28;3
-3;3;5;9;Technologie agentowe w modelowaniu i symulacji;28;3
-3;3;5;10;Modelowanie i symulacja systemo´w;28;3
-3;3;5;11;Analiza i modelowanie oprogramowania;56;4
-3;3;5;12;Je?zyki UML i SysML;56;4
-3;3;6;1;Teoria kompilacji i kompilatory;56;4
-3;3;6;2;Podstawy sztucznej inteligencji;42;4
-3;3;6;3;Studio projektowe 1;42;3
-3;3;6;4;SOA w projektowaniu i implementacji oprogramowania;56;4
-3;3;6;5;Technologie integracji oprogramowania;56;4
-3;3;6;6;Systemy czasu rzeczywistego;56;4
-3;3;6;7;Systemy wbudowane;56;4
-3;3;6;8;Hurtownie danych;28;2
-3;3;6;9;Systemy wspomagania zarz¹dzania;28;2
-3;3;7;1;Studio projektowe 2;42;2
-3;3;7;2;Systemy informatyczne ERP;42;3
-3;3;7;3;Systemy informatyczne zarz¹dzania produkcj¹;42;3
-3;3;7;4;Systemy i technologie wirtualizacji;28;2
-3;3;7;5;Wprowadzenie do technologii mobilnych;56;4
-3;3;7;6;Multimedia i transmisje multimedialne;42;3
-3;3;7;7;Systemy rekonfigurowalne;56;3
-3;3;7;8;Interfejsy multimodalne;56;3
-3;3;7;9;Inteligencja obliczeniowa w analizie danych cyfrowych;56;3
+3;3;1;1;Algebra liniowa i geometria analityczna;56;5;504.0
+3;3;1;2;Analiza matematyczna;84;7;756.0
+3;3;1;3;Matematyka dyskretna;28;3;252.0
+3;3;1;4;Wstêp do informatyki;56;4;504.0
+3;3;1;5;Je?zyki i metody programowania 1;56;4;504.0
+3;3;1;6;Wste?p do systemo´w uniksowych;56;4;504.0
+3;3;1;7;Narzêdzia pracy grupowej;28;3;252.0
+3;3;2;1;Fizyka 1;42;5;378.0
+3;3;2;2;Logika;42;4;378.0
+3;3;2;3;Rachunek prawdopodobien´stwa i statystyka;56;4;504.0
+3;3;2;4;Równania ró¿niczkowe;28;3;252.0
+3;3;2;5;Je?zyki i metody programowania 2;56;4;504.0
+3;3;2;6;Algorytmy i struktury danych;56;4;504.0
+3;3;2;7;Podstawy grafiki komputerowej;56;4;504.0
+3;3;2;8;Sk³ad dokumentów w œrodowisku LaTeX;28;2;252.0
+3;3;3;1;Fizyka 2;42;4;378.0
+3;3;3;2;Podstawy elektroniki cyfrowej;56;4;504.0
+3;3;3;3;Programowanie obiektowe;56;5;504.0
+3;3;3;4;Architektury komputerów;28;3;252.0
+3;3;3;5;Metody numeryczne;28;3;252.0
+3;3;3;6;Analiza numeryczna i symulacja systemo´w;28;3;252.0
+3;3;3;7;Systemy dynamiczne;42;4;378.0
+3;3;3;8;Je?zyki i technologie webowe;56;4;504.0
+3;3;4;1;Prawo autorskie i patentowe;14;1;126.0
+3;3;4;2;Badania operacyjne i teoria z³ozÿonos´ci obliczeniowej;56;5;504.0
+3;3;4;3;Sieci komputerowe;56;5;504.0
+3;3;4;4;Podstawy automatyki;56;4;504.0
+3;3;4;5;Paradygmaty programowania;56;5;504.0
+3;3;4;6;Programowanie mikrokontrolero´w i mikroprocesoro´w;56;4;504.0
+3;3;4;7;Systemy operacyjne;56;4;504.0
+3;3;4;8;Podstawy negocjacji;28;2;252.0
+3;3;4;9;Wiedza o nauce;28;2;252.0
+3;3;4;10;Religie œwiata: cz³owiek a sacrum;28;2;252.0
+3;3;5;1;Aspekty prawne i organizacja przedsiêbiorstwa;28;2;252.0
+3;3;5;2;Inzÿynieria oprogramowania;42;3;378.0
+3;3;5;3;Programowanie wspo´³biezÿne i rozproszone;56;4;504.0
+3;3;5;4;Przetwarzanie obrazów cyfrowych;56;4;504.0
+3;3;5;5;Bazy danych;56;4;504.0
+3;3;5;6;Lingwistyka formalna i automaty;42;3;378.0
+3;3;5;7;Wprowadzenie do wzorco´w projektowych;28;3;252.0
+3;3;5;8;Wzorce i problemy projektowe;28;3;252.0
+3;3;5;9;Technologie agentowe w modelowaniu i symulacji;28;3;252.0
+3;3;5;10;Modelowanie i symulacja systemo´w;28;3;252.0
+3;3;5;11;Analiza i modelowanie oprogramowania;56;4;504.0
+3;3;5;12;Je?zyki UML i SysML;56;4;504.0
+3;3;6;1;Teoria kompilacji i kompilatory;56;4;504.0
+3;3;6;2;Podstawy sztucznej inteligencji;42;4;378.0
+3;3;6;3;Studio projektowe 1;42;3;378.0
+3;3;6;4;SOA w projektowaniu i implementacji oprogramowania;56;4;504.0
+3;3;6;5;Technologie integracji oprogramowania;56;4;504.0
+3;3;6;6;Systemy czasu rzeczywistego;56;4;504.0
+3;3;6;7;Systemy wbudowane;56;4;504.0
+3;3;6;8;Hurtownie danych;28;2;252.0
+3;3;6;9;Systemy wspomagania zarz¹dzania;28;2;252.0
+3;3;7;1;Studio projektowe 2;42;2;378.0
+3;3;7;2;Systemy informatyczne ERP;42;3;378.0
+3;3;7;3;Systemy informatyczne zarz¹dzania produkcj¹;42;3;378.0
+3;3;7;4;Systemy i technologie wirtualizacji;28;2;252.0
+3;3;7;5;Wprowadzenie do technologii mobilnych;56;4;504.0
+3;3;7;6;Multimedia i transmisje multimedialne;42;3;378.0
+3;3;7;7;Systemy rekonfigurowalne;56;3;504.0
+3;3;7;8;Interfejsy multimodalne;56;3;504.0
+3;3;7;9;Inteligencja obliczeniowa w analizie danych cyfrowych;56;3;504.0
 

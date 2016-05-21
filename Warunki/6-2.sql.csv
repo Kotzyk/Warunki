@@ -1,77 +1,77 @@
-2;6;1;1;Geometria i grafika komputerowa;42;3
-2;6;1;2;Informatyka;28;2
-2;6;1;3;Geodezja górnicza i metrologia;28;2
-2;6;1;4;Bezpieczeñstwo pracy i ergonomia;14;2
-2;6;1;5;Matematyka I;84;9
-2;6;1;6;Chemia;56;6
-2;6;1;7;Geologia ogólna I;56;4
-2;6;1;8;Ochrona œrodowiska;28;2
-2;6;2;1;Fizyka I;56;6
-2;6;2;2;Zastosowanie informatyki w geologii;42;2
-2;6;2;3;Podstawy mechaniki i wytrzyma³oœci materia³ów;42;2
-2;6;2;4;Statystyka;42;3
-2;6;2;5;Matematyka II;84;9
-2;6;2;6;Wychowanie fizyczne 1;28;0
-2;6;2;7;Geologia ogólna II;56;5
-2;6;2;8;Zajêcia terenowe z geologii ogólnej;90;3
-2;6;3;1;Fizyka II;56;6
-2;6;3;2;Górnictwo;42;4
-2;6;3;3;Hydrogeologia;56;4
-2;6;3;4;Geologia in¿ynierska ;56;4
-2;6;3;5;Geomechanika;28;3
-2;6;3;6;Geologia historyczna z paleontologi¹;56;4
-2;6;3;7;Mineralogia ;70;5
-2;6;4;1;Systemy informacji przestrzennej;42;3
-2;6;4;2;Geofizyka;70;5
-2;6;4;3;Kartografia geologiczna;56;5
-2;6;4;4;Sedymentologia;28;2
-2;6;4;5;Geologia regionalna Polski;42;3
-2;6;4;6;Petrografia;70;5
-2;6;4;7;Zajêcia terenowe z kartografii geologicznej;90;3
-2;6;4;8;Geomorfologia i geologia czwartorzêdu;56;4
-2;6;5;1;Ekonomia i zarz¹dzanie;42;3
-2;6;5;2;Geologia górnicza;56;3
-2;6;5;3;Nauka o z³o¿ach;84;4
-2;6;5;4;Geochemia;42;3
-2;6;5;5;Petrologia surowców mineralnych I;56;7
-2;6;5;6;Metody badañ minera³ów i ska³;70;7
-2;6;5;7;Gemmologia;28;4
-2;6;5;8;Gruntoznawstwo;56;7
-2;6;5;9;Hydrogeochemia;56;7
-2;6;5;10;Hydrologia;28;4
-2;6;5;11;Geozagro¿enia;42;5
-2;6;5;12;Przemys³ naftowy a œrodowisko;56;7
-2;6;5;13;Geologia strukturalna;42;6
-2;6;6;1;Prawo autorskie i patentowe;28;2
-2;6;6;2;Geologia z³ó¿ kopalin p³ynnych;42;2
-2;6;6;3;Wiertnictwo;42;2
-2;6;6;4;Surowce mineralne;42;2
-2;6;6;5;Prawo geologiczne i górnicze;28;2
-2;6;6;6;Petrologia surowców mineralnych II;42;2
-2;6;6;7;Dokumentowanie geologiczne z³ó¿;56;3
-2;6;6;8;Metody badañ surowców mineralnych;84;6
-2;6;6;9;Hydrogeologia regionalna;28;2
-2;6;6;10;Geotechnika;73;4
-2;6;6;11;Hydrogeologia górnicza;42;2
-2;6;6;12;Metody badañ terenowych w  hydrogeologii i geologii-in¿ynierskiej;56;3
-2;6;6;13;Poszukiwania z³ó¿ ropy naftowej i gazu ziemnego;84;6
-2;6;6;14;Kartografia wg³êbna I;42;2
-2;6;6;15;Geotectonics;28;3
-2;6;6;16;Facies analysis;28;3
-2;6;7;1;Geologiczno-górnicze warunki eksploatacji;28;3
-2;6;7;2;Seminarium dyplomowe;28;2
-2;6;7;3;Komputerowe wspomaganie prac geologicznych;70;7
-2;6;7;4;Geological English;28;3
-2;6;7;5;Applied mineralogy and geochemistry;28;3
-2;6;7;6;Geodynamika ;28;2
-2;6;7;7;Seminarium dyplomowe;14;1
-2;6;7;8;Podstawy modelowania filtracji wód podziemnych;42;4
-2;6;7;9;Projektowanie odwodnieñ i prac geologiczno-in¿ynierskich;56;5
-2;6;7;10;Artificial tracers in hydrology and hydrogeology  ;28;3
-2;6;7;11;Hydrogeological English;28;3
-2;6;7;12;Geologia ska³ zbiornikowych;56;4
-2;6;7;13;Geologia gospodarcza;28;3
-2;6;7;14;Profilowanie wierceñ;28;3
-2;6;7;15;Seminarium dyplomowe;28;2
-2;6;7;16;Izotopy w geologii;28;3
+6;2;1;1;Geometria i grafika komputerowa;42;3;315.0
+6;2;1;2;Informatyka;28;2;210.0
+6;2;1;3;Geodezja górnicza i metrologia;28;2;210.0
+6;2;1;4;Bezpieczeñstwo pracy i ergonomia;14;2;105.0
+6;2;1;5;Matematyka I;84;9;630.0
+6;2;1;6;Chemia;56;6;420.0
+6;2;1;7;Geologia ogólna I;56;4;420.0
+6;2;1;8;Ochrona œrodowiska;28;2;210.0
+6;2;2;1;Fizyka I;56;6;420.0
+6;2;2;2;Zastosowanie informatyki w geologii;42;2;315.0
+6;2;2;3;Podstawy mechaniki i wytrzyma³oœci materia³ów;42;2;315.0
+6;2;2;4;Statystyka;42;3;315.0
+6;2;2;5;Matematyka II;84;9;630.0
+6;2;2;6;Wychowanie fizyczne 1;28;0;210.0
+6;2;2;7;Geologia ogólna II;56;5;420.0
+6;2;2;8;Zajêcia terenowe z geologii ogólnej;90;3;675.0
+6;2;3;1;Fizyka II;56;6;420.0
+6;2;3;2;Górnictwo;42;4;315.0
+6;2;3;3;Hydrogeologia;56;4;420.0
+6;2;3;4;Geologia in¿ynierska ;56;4;420.0
+6;2;3;5;Geomechanika;28;3;210.0
+6;2;3;6;Geologia historyczna z paleontologi¹;56;4;420.0
+6;2;3;7;Mineralogia ;70;5;525.0
+6;2;4;1;Systemy informacji przestrzennej;42;3;315.0
+6;2;4;2;Geofizyka;70;5;525.0
+6;2;4;3;Kartografia geologiczna;56;5;420.0
+6;2;4;4;Sedymentologia;28;2;210.0
+6;2;4;5;Geologia regionalna Polski;42;3;315.0
+6;2;4;6;Petrografia;70;5;525.0
+6;2;4;7;Zajêcia terenowe z kartografii geologicznej;90;3;675.0
+6;2;4;8;Geomorfologia i geologia czwartorzêdu;56;4;420.0
+6;2;5;1;Ekonomia i zarz¹dzanie;42;3;315.0
+6;2;5;2;Geologia górnicza;56;3;420.0
+6;2;5;3;Nauka o z³o¿ach;84;4;630.0
+6;2;5;4;Geochemia;42;3;315.0
+6;2;5;5;Petrologia surowców mineralnych I;56;7;420.0
+6;2;5;6;Metody badañ minera³ów i ska³;70;7;525.0
+6;2;5;7;Gemmologia;28;4;210.0
+6;2;5;8;Gruntoznawstwo;56;7;420.0
+6;2;5;9;Hydrogeochemia;56;7;420.0
+6;2;5;10;Hydrologia;28;4;210.0
+6;2;5;11;Geozagro¿enia;42;5;315.0
+6;2;5;12;Przemys³ naftowy a œrodowisko;56;7;420.0
+6;2;5;13;Geologia strukturalna;42;6;315.0
+6;2;6;1;Prawo autorskie i patentowe;28;2;210.0
+6;2;6;2;Geologia z³ó¿ kopalin p³ynnych;42;2;315.0
+6;2;6;3;Wiertnictwo;42;2;315.0
+6;2;6;4;Surowce mineralne;42;2;315.0
+6;2;6;5;Prawo geologiczne i górnicze;28;2;210.0
+6;2;6;6;Petrologia surowców mineralnych II;42;2;315.0
+6;2;6;7;Dokumentowanie geologiczne z³ó¿;56;3;420.0
+6;2;6;8;Metody badañ surowców mineralnych;84;6;630.0
+6;2;6;9;Hydrogeologia regionalna;28;2;210.0
+6;2;6;10;Geotechnika;73;4;547.5
+6;2;6;11;Hydrogeologia górnicza;42;2;315.0
+6;2;6;12;Metody badañ terenowych w  hydrogeologii i geologii-in¿ynierskiej;56;3;420.0
+6;2;6;13;Poszukiwania z³ó¿ ropy naftowej i gazu ziemnego;84;6;630.0
+6;2;6;14;Kartografia wg³êbna I;42;2;315.0
+6;2;6;15;Geotectonics;28;3;210.0
+6;2;6;16;Facies analysis;28;3;210.0
+6;2;7;1;Geologiczno-górnicze warunki eksploatacji;28;3;210.0
+6;2;7;2;Seminarium dyplomowe;28;2;210.0
+6;2;7;3;Komputerowe wspomaganie prac geologicznych;70;7;525.0
+6;2;7;4;Geological English;28;3;210.0
+6;2;7;5;Applied mineralogy and geochemistry;28;3;210.0
+6;2;7;6;Geodynamika ;28;2;210.0
+6;2;7;7;Seminarium dyplomowe;14;1;105.0
+6;2;7;8;Podstawy modelowania filtracji wód podziemnych;42;4;315.0
+6;2;7;9;Projektowanie odwodnieñ i prac geologiczno-in¿ynierskich;56;5;420.0
+6;2;7;10;Artificial tracers in hydrology and hydrogeology  ;28;3;210.0
+6;2;7;11;Hydrogeological English;28;3;210.0
+6;2;7;12;Geologia ska³ zbiornikowych;56;4;420.0
+6;2;7;13;Geologia gospodarcza;28;3;210.0
+6;2;7;14;Profilowanie wierceñ;28;3;210.0
+6;2;7;15;Seminarium dyplomowe;28;2;210.0
+6;2;7;16;Izotopy w geologii;28;3;210.0
 

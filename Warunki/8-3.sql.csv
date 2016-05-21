@@ -1,54 +1,54 @@
-3;8;0;1;Przedmiot Obieralny 1ECTS;28;1
-3;8;0;2;Przedmiot Obieralny 2ECTS;28;2
-3;8;0;3;Przedmiot Obieralny 3ECTS;28;3
-3;8;1;1;Wstêp do fizyki;42;3
-3;8;1;2;Propedeutyka nauk materia³owych;9;1
-3;8;1;3;Technologie informacyjne;42;3
-3;8;1;4;Elementy chemii;14;0
-3;8;1;5;Chemia ogólna - kurs podstawowy;84;9
-3;8;1;6;Chemia ogólna - kurs rozszerzony;84;9
-3;8;1;7;Wstêp do matematyki - kurs podstawowy;84;10
-3;8;1;8;Wstêp do matematyki - kurs rozszerzony;84;10
-3;8;2;1;Fizyka;84;9
-3;8;2;2;Statystyka;56;4
-3;8;2;3;Przedmiot obieralny - humanizuj¹cy (Af) - (lista i opisy w sem0);28;1
-3;8;2;4;Chemia nieorganiczna - kurs podstawowy;140;11
-3;8;2;5;Chemia nieorganiczna - kurs rozszerzony;140;11
-3;8;2;6;Matematyka - kurs podstawowy;56;5
-3;8;2;7;Matematyka - kurs rozszerzony;56;5
-3;8;3;1;Podstawy mechaniki i konstrukcji maszyn;70;5
-3;8;3;2;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2
-3;8;3;3;Wstêp do filozofii przyrody;28;2
-3;8;3;4;Chemia organiczna;56;7
-3;8;3;5;Chemia fizyczna;84;7
-3;8;3;6;Krystalografia i krystalochemia;84;7
-3;8;4;1;Nauka o materia³ach;98;8
-3;8;4;2;Wstêp do ceramiki i in¿ynierii materia³owej;70;3
-3;8;4;3;Elektrotechnika z elektronik¹;42;3
-3;8;4;4;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2
-3;8;4;5;Fizykochemia cia³a sta³ego;70;6
-3;8;4;6;Informatyka;56;6
-3;8;5;1;Fizyczne podstawy technologii materia³owych;70;6
-3;8;5;2;Nanomateria³y i nanotechnologie;56;6
-3;8;5;3;Transport masy i ciep³a;56;4
-3;8;5;4;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2
-3;8;5;5;Przedmiot obieralny 2 - kierunkowy (Cf) - (lista i opisy - sem0);28;2
-3;8;5;6;Metody badañ sk³adu chemicznego;70;6
-3;8;5;7;Elektrochemia cia³a sta³ego;56;4
-3;8;6;1;Materia³y ceramiczne;70;4
-3;8;6;2;Materia³y kompozytowe;70;4
-3;8;6;3;Materia³y polimerowe;70;4
-3;8;6;4;Projektowanie materia³owe i komputerowa nauka o materia³ach;70;3
-3;8;6;5;Bezpieczeñstwo techniczne;28;1
-3;8;6;6;Przedmiot obieralny - anglojêzyczny (Df) - (lista i opisy - sem0);28;3
-3;8;6;7;Ochrona w³asnoœci intelektualnej;14;1
-3;8;7;1;Materia³y metaliczne;70;3
-3;8;7;2;Ochrona przed korozj¹;56;3
-3;8;7;3;Metody badañ materia³ów;56;3
-3;8;7;4;Seminarium in¿ynierskie;14;1
-3;8;7;5;Technologia materia³ów ceramicznych;56;2
-3;8;7;6;Technologia materia³ów kompozytowych;56;2
-3;8;7;7;Technologia materia³ów polimerowych;56;2
-3;8;7;8;Technologia materia³ów metalicznych;56;2
-3;8;7;9;Zarz¹dzanie jakoœci¹;28;1
+8;3;0;1;Przedmiot Obieralny 1ECTS;28;1;280.0
+8;3;0;2;Przedmiot Obieralny 2ECTS;28;2;280.0
+8;3;0;3;Przedmiot Obieralny 3ECTS;28;3;280.0
+8;3;1;1;Wstêp do fizyki;42;3;420.0
+8;3;1;2;Propedeutyka nauk materia³owych;9;1;90.0
+8;3;1;3;Technologie informacyjne;42;3;420.0
+8;3;1;4;Elementy chemii;14;0;140.0
+8;3;1;5;Chemia ogólna - kurs podstawowy;84;9;840.0
+8;3;1;6;Chemia ogólna - kurs rozszerzony;84;9;840.0
+8;3;1;7;Wstêp do matematyki - kurs podstawowy;84;10;840.0
+8;3;1;8;Wstêp do matematyki - kurs rozszerzony;84;10;840.0
+8;3;2;1;Fizyka;84;9;840.0
+8;3;2;2;Statystyka;56;4;560.0
+8;3;2;3;Przedmiot obieralny - humanizuj¹cy (Af) - (lista i opisy w sem0);28;1;280.0
+8;3;2;4;Chemia nieorganiczna - kurs podstawowy;140;11;1400.0
+8;3;2;5;Chemia nieorganiczna - kurs rozszerzony;140;11;1400.0
+8;3;2;6;Matematyka - kurs podstawowy;56;5;560.0
+8;3;2;7;Matematyka - kurs rozszerzony;56;5;560.0
+8;3;3;1;Podstawy mechaniki i konstrukcji maszyn;70;5;700.0
+8;3;3;2;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2;280.0
+8;3;3;3;Wstêp do filozofii przyrody;28;2;280.0
+8;3;3;4;Chemia organiczna;56;7;560.0
+8;3;3;5;Chemia fizyczna;84;7;840.0
+8;3;3;6;Krystalografia i krystalochemia;84;7;840.0
+8;3;4;1;Nauka o materia³ach;98;8;980.0
+8;3;4;2;Wstêp do ceramiki i in¿ynierii materia³owej;70;3;700.0
+8;3;4;3;Elektrotechnika z elektronik¹;42;3;420.0
+8;3;4;4;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2;280.0
+8;3;4;5;Fizykochemia cia³a sta³ego;70;6;700.0
+8;3;4;6;Informatyka;56;6;560.0
+8;3;5;1;Fizyczne podstawy technologii materia³owych;70;6;700.0
+8;3;5;2;Nanomateria³y i nanotechnologie;56;6;560.0
+8;3;5;3;Transport masy i ciep³a;56;4;560.0
+8;3;5;4;Przedmiot obieralny - kierunkowy (Cf) - (lista i opisy - sem0);28;2;280.0
+8;3;5;5;Przedmiot obieralny 2 - kierunkowy (Cf) - (lista i opisy - sem0);28;2;280.0
+8;3;5;6;Metody badañ sk³adu chemicznego;70;6;700.0
+8;3;5;7;Elektrochemia cia³a sta³ego;56;4;560.0
+8;3;6;1;Materia³y ceramiczne;70;4;700.0
+8;3;6;2;Materia³y kompozytowe;70;4;700.0
+8;3;6;3;Materia³y polimerowe;70;4;700.0
+8;3;6;4;Projektowanie materia³owe i komputerowa nauka o materia³ach;70;3;700.0
+8;3;6;5;Bezpieczeñstwo techniczne;28;1;280.0
+8;3;6;6;Przedmiot obieralny - anglojêzyczny (Df) - (lista i opisy - sem0);28;3;280.0
+8;3;6;7;Ochrona w³asnoœci intelektualnej;14;1;140.0
+8;3;7;1;Materia³y metaliczne;70;3;700.0
+8;3;7;2;Ochrona przed korozj¹;56;3;560.0
+8;3;7;3;Metody badañ materia³ów;56;3;560.0
+8;3;7;4;Seminarium in¿ynierskie;14;1;140.0
+8;3;7;5;Technologia materia³ów ceramicznych;56;2;560.0
+8;3;7;6;Technologia materia³ów kompozytowych;56;2;560.0
+8;3;7;7;Technologia materia³ów polimerowych;56;2;560.0
+8;3;7;8;Technologia materia³ów metalicznych;56;2;560.0
+8;3;7;9;Zarz¹dzanie jakoœci¹;28;1;280.0
 

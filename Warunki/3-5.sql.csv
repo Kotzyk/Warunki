@@ -1,60 +1,60 @@
-5;3;1;1;Fizyka 1;56;6
-5;3;1;2;Metodyka i technika programowania;56;4
-5;3;1;3;Teoria obwodów;56;4
-5;3;1;4;Algebra;56;4
-5;3;1;5;Analiza matematyczna 1;98;8
-5;3;1;6;Ochrona w³asnoœci intelektualnej
-Ochrona w³asnoœci intelektualnej;7;1
-5;3;1;7;Ergonomia i BHP;8;1
-5;3;1;8;Wiedza o nauce;28;2
-5;3;1;9; Podstawy negocjacji;28;2
-5;3;1;10;Religie œwiata: cz³owiek a sacrum;28;2
-5;3;2;1;Fizyka 2;84;6
-5;3;2;2;Technika obliczeniowa i symulacyjna;42;3
-5;3;2;3;Elementy elektroniczne i technologie VLSI;32;3
-5;3;2;4;Podstawy elektroniki praktycznej;80;4
-5;3;2;5;Systemy operacyjne;42;4
-5;3;2;6;Teoria sygna³ów;56;5
-5;3;2;7;Analiza matematyczna 2;70;5
-5;3;3;1;Uk³ady elektroniki analogowej 1;84;7
-5;3;3;2;Uk³ady elektroniki cyfrowej 1;56;6
-5;3;3;3;Podstawy telekomunikacji;28;3
-5;3;3;4;Metrologia i elektroniczne przyrz¹dy pomiarowe;56;5
-5;3;3;5;Podstawy programowania systemów wbudowanych;56;5
-5;3;3;6;Statystyka i rachunek prawdopodobieñstwa;42;4
-5;3;4;1;Uk³ady elektroniki analogowej 2;56;5
-5;3;4;2;Uk³ady elektroniki cyfrowej 2;84;6
-5;3;4;3;Pomiary biomedyczne i technologiczne;56;4
-5;3;4;4;Podstawy programowania obiektowego;56;4
-5;3;4;5;Podstawy graficznych jêzyków programowania;56;6
-5;3;4;6;Podstawy projektowania obwodów z wykorzystaniem oprogramowania CAD/CAM;56;5
-5;3;5;1;Programowalne uk³ady logiczne;56;4
-5;3;5;2;Systemy mikroprocesorowe;70;5
-5;3;5;3;Podstawy projektowania analogowych uk³adów VLSI;70;5
-5;3;5;4;Programowanie systemów kontrolno-pomiarowych;56;6
-5;3;5;5;Podstawy programowania systemów czasu rzeczywistego;56;6
-5;3;5;6;£¹cznoœæ bezprzewodowa;56;6
-5;3;5;7;Aparatura medyczna i przemys³owa 1;56;6
-5;3;5;8;Podstawy projektowania systemów wbudowanych;56;6
-5;3;5;9;Czujniki w technologiach MEMS;28;2
-5;3;5;10;Mikroelektronika w systemach multimedialnych;28;2
-5;3;5;11;Optoelektronika i technika œwiat³owodowa;28;2
-5;3;6;1;Podstawy projektowania cyfrowych uk³adów VLSI;70;4
-5;3;6;2;Elektronika w technice samochodowej;56;5
-5;3;6;3;Programowanie interfejsów szeregowych w systemach wbudowanych;56;3
-5;3;6;4;Techniki obrazowania medycznego;56;3
-5;3;6;5;Systemy elektroniczne inteligentnego budynku;56;3
-5;3;6;6;Systemy elektroniki przemys³owej;56;3
-5;3;6;7;Procesory sygna³owe i ich zastosowania;56;3
-5;3;6;8;Aparatura medyczna i przemys³owa 2;56;3
-5;3;6;9; Podstawy negocjacji;28;2
-5;3;6;10;Wiedza o nauce;28;2
-5;3;6;11;Religie œwiata: cz³owiek a sacrum;28;2
-5;3;7;1;Podstawy prowadzenia dzia³alnoœci gospodarczej;14;2
-5;3;7;3;Testing and measurements of integrated circuits;56;5
-5;3;7;4;Computer networks;56;5
-5;3;7;5;Ko³o naukowe;42;2
-5;3;7;6;Sk³ad dokumentów w œrodowisku LaTeX;42;2
-5;3;7;7;Wybrane zagadnienia matematyki stosowanej;42;2
-5;3;7;8;Integracja i testy aparatury medycznej;42;2
+3;5;1;1;Fizyka 1;56;6;504.0
+3;5;1;2;Metodyka i technika programowania;56;4;504.0
+3;5;1;3;Teoria obwodów;56;4;504.0
+3;5;1;4;Algebra;56;4;504.0
+3;5;1;5;Analiza matematyczna 1;98;8;882.0
+3;5;1;6;Ochrona w³asnoœci intelektualnej
+Ochrona w³asnoœci intelektualnej;7;1;63.0
+3;5;1;7;Ergonomia i BHP;8;1;72.0
+3;5;1;8;Wiedza o nauce;28;2;252.0
+3;5;1;9; Podstawy negocjacji;28;2;252.0
+3;5;1;10;Religie œwiata: cz³owiek a sacrum;28;2;252.0
+3;5;2;1;Fizyka 2;84;6;756.0
+3;5;2;2;Technika obliczeniowa i symulacyjna;42;3;378.0
+3;5;2;3;Elementy elektroniczne i technologie VLSI;32;3;288.0
+3;5;2;4;Podstawy elektroniki praktycznej;80;4;720.0
+3;5;2;5;Systemy operacyjne;42;4;378.0
+3;5;2;6;Teoria sygna³ów;56;5;504.0
+3;5;2;7;Analiza matematyczna 2;70;5;630.0
+3;5;3;1;Uk³ady elektroniki analogowej 1;84;7;756.0
+3;5;3;2;Uk³ady elektroniki cyfrowej 1;56;6;504.0
+3;5;3;3;Podstawy telekomunikacji;28;3;252.0
+3;5;3;4;Metrologia i elektroniczne przyrz¹dy pomiarowe;56;5;504.0
+3;5;3;5;Podstawy programowania systemów wbudowanych;56;5;504.0
+3;5;3;6;Statystyka i rachunek prawdopodobieñstwa;42;4;378.0
+3;5;4;1;Uk³ady elektroniki analogowej 2;56;5;504.0
+3;5;4;2;Uk³ady elektroniki cyfrowej 2;84;6;756.0
+3;5;4;3;Pomiary biomedyczne i technologiczne;56;4;504.0
+3;5;4;4;Podstawy programowania obiektowego;56;4;504.0
+3;5;4;5;Podstawy graficznych jêzyków programowania;56;6;504.0
+3;5;4;6;Podstawy projektowania obwodów z wykorzystaniem oprogramowania CAD/CAM;56;5;504.0
+3;5;5;1;Programowalne uk³ady logiczne;56;4;504.0
+3;5;5;2;Systemy mikroprocesorowe;70;5;630.0
+3;5;5;3;Podstawy projektowania analogowych uk³adów VLSI;70;5;630.0
+3;5;5;4;Programowanie systemów kontrolno-pomiarowych;56;6;504.0
+3;5;5;5;Podstawy programowania systemów czasu rzeczywistego;56;6;504.0
+3;5;5;6;£¹cznoœæ bezprzewodowa;56;6;504.0
+3;5;5;7;Aparatura medyczna i przemys³owa 1;56;6;504.0
+3;5;5;8;Podstawy projektowania systemów wbudowanych;56;6;504.0
+3;5;5;9;Czujniki w technologiach MEMS;28;2;252.0
+3;5;5;10;Mikroelektronika w systemach multimedialnych;28;2;252.0
+3;5;5;11;Optoelektronika i technika œwiat³owodowa;28;2;252.0
+3;5;6;1;Podstawy projektowania cyfrowych uk³adów VLSI;70;4;630.0
+3;5;6;2;Elektronika w technice samochodowej;56;5;504.0
+3;5;6;3;Programowanie interfejsów szeregowych w systemach wbudowanych;56;3;504.0
+3;5;6;4;Techniki obrazowania medycznego;56;3;504.0
+3;5;6;5;Systemy elektroniczne inteligentnego budynku;56;3;504.0
+3;5;6;6;Systemy elektroniki przemys³owej;56;3;504.0
+3;5;6;7;Procesory sygna³owe i ich zastosowania;56;3;504.0
+3;5;6;8;Aparatura medyczna i przemys³owa 2;56;3;504.0
+3;5;6;9; Podstawy negocjacji;28;2;252.0
+3;5;6;10;Wiedza o nauce;28;2;252.0
+3;5;6;11;Religie œwiata: cz³owiek a sacrum;28;2;252.0
+3;5;7;1;Podstawy prowadzenia dzia³alnoœci gospodarczej;14;2;126.0
+3;5;7;3;Testing and measurements of integrated circuits;56;5;504.0
+3;5;7;4;Computer networks;56;5;504.0
+3;5;7;5;Ko³o naukowe;42;2;378.0
+3;5;7;6;Sk³ad dokumentów w œrodowisku LaTeX;42;2;378.0
+3;5;7;7;Wybrane zagadnienia matematyki stosowanej;42;2;378.0
+3;5;7;8;Integracja i testy aparatury medycznej;42;2;378.0
 

@@ -1,65 +1,65 @@
-6;2;5;12;Programowanie metod numerycznych w MATLABie;42;3
-6;2;5;13;Uszlachetnianie wyrobów stalowych;42;3
-6;2;5;14;Metody i narzêdzia komputerowej symulacji procesów;42;3
-6;2;6;1;Praktyka zawodowa 4 tyg.;0;5
-6;2;6;2;Techniki programowania;56;5
-6;2;6;3;Bazy danych;56;5
-6;2;6;4;Walcownictwo;56;5
-6;2;6;5;KuŸnictwo i prasownictwo;56;5
-6;2;6;6;Termodynamika metali i stopów;56;5
-6;2;6;7;Metalurgia proszków;56;5
-6;2;6;8;Przygotowanie wsadu i podstawy procesów redukcji;56;5
-6;2;6;9;Procesy elektrometalurgiczne z elementami sterowania;56;5
-6;2;6;10;Urz¹dzenia cieplne;56;5
-6;2;6;11;Ogrzewnictwo i ch³odnictwo;56;5
-6;2;6;12;Stale stopowe;56;5
-6;2;7;1;Przygotowanie pracy dyplomowej;0;15
-6;2;7;2;Modelowanie w technologii materia³ów;56;5
-6;2;7;3;In¿ynieria internetu;56;5
-6;2;7;4;Ci¹garstwo i t³ocznictwo;56;5
-6;2;7;5;Wytwarzanie rur;56;5
-6;2;7;6;Metalografia iloœciowa;56;5
-6;2;7;7;Obróbka cieplna;56;5
-6;2;7;8;Technologia i podstawy sterowania procesami redukcji;56;5
-6;2;7;9;Stalownicze procesy tlenowe;56;5
-6;2;7;10;Technika procesów spalania;56;5
-6;2;7;11;Gospodarka energetyczna;56;5
-6;2;1;1;Matematyka I;98;11
-6;2;1;2;Ochrona œrodowiska i gospodarka odpadami;42;3
-6;2;1;3;Chemia ogólna;56;6
-6;2;1;4;Podstawy technologii wytwarzania i przetwarzania;56;5
-6;2;1;5;Bezpieczeñstwo i higiena pracy;42;2
-6;2;1;6;E-gospodarka;42;3
-6;2;2;1;Fizyka I;56;6
-6;2;2;2;Termodynamika techniczna;56;3
-6;2;2;3;Metody badania materia³ów;56;4
-6;2;2;4;Grafika in¿ynierska;42;3
-6;2;2;5;Nauka o materia³ach I;42;2
-6;2;2;6;Matematyka II;70;7
-6;2;2;7;Podstawy informatyki;28;2
-6;2;2;8;Krystalografia i mineralogia;42;3
-6;2;3;1;Fizyka II;56;6
-6;2;3;2;Nauka o materia³ach II;70;5
-6;2;3;3;Wymiana ciep³a i masy;56;6
-6;2;3;4;Mechanika i wytrzyma³oœæ materia³ów;56;4
-6;2;3;5;Podstawy projektowania in¿ynierskiego;42;5
-6;2;3;6;Technologia informacyjna;28;4
-6;2;4;1;Metalurgia ekstrakcyjna;56;5
-6;2;4;2;Technika cieplna;56;5
-6;2;4;3;Mechanika oœrodków ci¹g³ych;56;4
-6;2;4;4;Projektowanie w systemach CAD;42;5
-6;2;4;5;Procesy przeróbki plastycznej I;56;5
-6;2;4;6;Chemia fizyczna;56;5
-6;2;4;7;Prawo patentowe i ochrona w³asnoœci intelektualnej;14;1
-6;2;5;1;Procesy przeróbki plastycznej II;56;6
-6;2;5;2;Metody numeryczne i komputerowe;56;6
-6;2;5;3;Metalurgia metali nie¿elaznych;42;3
-6;2;5;4;Elektrotechnika i elektronika;42;3
-6;2;5;5;Automatyka i sterowanie;42;4
-6;2;5;6;Zarz¹dzanie jakoœci¹;28;2
-6;2;5;7;Computer-aided design of casting processes using ProCAST  software;42;3
-6;2;5;8;Fundamentals of Metal Forming;42;3
-6;2;5;9;Techniki wytwarzania nanomateria³ów;42;3
-6;2;5;10;Tendencje rozwoju rynku i technologii w hutnictwie œwiatowym;42;3
-6;2;5;11;Nowoczesne techniki ³¹cznoœci;42;3
+2;6;5;12;Programowanie metod numerycznych w MATLABie;42;3;462.0
+2;6;5;13;Uszlachetnianie wyrobów stalowych;42;3;462.0
+2;6;5;14;Metody i narzêdzia komputerowej symulacji procesów;42;3;462.0
+2;6;6;1;Praktyka zawodowa 4 tyg.;0;5;0.0
+2;6;6;2;Techniki programowania;56;5;616.0
+2;6;6;3;Bazy danych;56;5;616.0
+2;6;6;4;Walcownictwo;56;5;616.0
+2;6;6;5;KuŸnictwo i prasownictwo;56;5;616.0
+2;6;6;6;Termodynamika metali i stopów;56;5;616.0
+2;6;6;7;Metalurgia proszków;56;5;616.0
+2;6;6;8;Przygotowanie wsadu i podstawy procesów redukcji;56;5;616.0
+2;6;6;9;Procesy elektrometalurgiczne z elementami sterowania;56;5;616.0
+2;6;6;10;Urz¹dzenia cieplne;56;5;616.0
+2;6;6;11;Ogrzewnictwo i ch³odnictwo;56;5;616.0
+2;6;6;12;Stale stopowe;56;5;616.0
+2;6;7;1;Przygotowanie pracy dyplomowej;0;15;0.0
+2;6;7;2;Modelowanie w technologii materia³ów;56;5;616.0
+2;6;7;3;In¿ynieria internetu;56;5;616.0
+2;6;7;4;Ci¹garstwo i t³ocznictwo;56;5;616.0
+2;6;7;5;Wytwarzanie rur;56;5;616.0
+2;6;7;6;Metalografia iloœciowa;56;5;616.0
+2;6;7;7;Obróbka cieplna;56;5;616.0
+2;6;7;8;Technologia i podstawy sterowania procesami redukcji;56;5;616.0
+2;6;7;9;Stalownicze procesy tlenowe;56;5;616.0
+2;6;7;10;Technika procesów spalania;56;5;616.0
+2;6;7;11;Gospodarka energetyczna;56;5;616.0
+2;6;1;1;Matematyka I;98;11;1078.0
+2;6;1;2;Ochrona œrodowiska i gospodarka odpadami;42;3;462.0
+2;6;1;3;Chemia ogólna;56;6;616.0
+2;6;1;4;Podstawy technologii wytwarzania i przetwarzania;56;5;616.0
+2;6;1;5;Bezpieczeñstwo i higiena pracy;42;2;462.0
+2;6;1;6;E-gospodarka;42;3;462.0
+2;6;2;1;Fizyka I;56;6;616.0
+2;6;2;2;Termodynamika techniczna;56;3;616.0
+2;6;2;3;Metody badania materia³ów;56;4;616.0
+2;6;2;4;Grafika in¿ynierska;42;3;462.0
+2;6;2;5;Nauka o materia³ach I;42;2;462.0
+2;6;2;6;Matematyka II;70;7;770.0
+2;6;2;7;Podstawy informatyki;28;2;308.0
+2;6;2;8;Krystalografia i mineralogia;42;3;462.0
+2;6;3;1;Fizyka II;56;6;616.0
+2;6;3;2;Nauka o materia³ach II;70;5;770.0
+2;6;3;3;Wymiana ciep³a i masy;56;6;616.0
+2;6;3;4;Mechanika i wytrzyma³oœæ materia³ów;56;4;616.0
+2;6;3;5;Podstawy projektowania in¿ynierskiego;42;5;462.0
+2;6;3;6;Technologia informacyjna;28;4;308.0
+2;6;4;1;Metalurgia ekstrakcyjna;56;5;616.0
+2;6;4;2;Technika cieplna;56;5;616.0
+2;6;4;3;Mechanika oœrodków ci¹g³ych;56;4;616.0
+2;6;4;4;Projektowanie w systemach CAD;42;5;462.0
+2;6;4;5;Procesy przeróbki plastycznej I;56;5;616.0
+2;6;4;6;Chemia fizyczna;56;5;616.0
+2;6;4;7;Prawo patentowe i ochrona w³asnoœci intelektualnej;14;1;154.0
+2;6;5;1;Procesy przeróbki plastycznej II;56;6;616.0
+2;6;5;2;Metody numeryczne i komputerowe;56;6;616.0
+2;6;5;3;Metalurgia metali nie¿elaznych;42;3;462.0
+2;6;5;4;Elektrotechnika i elektronika;42;3;462.0
+2;6;5;5;Automatyka i sterowanie;42;4;462.0
+2;6;5;6;Zarz¹dzanie jakoœci¹;28;2;308.0
+2;6;5;7;Computer-aided design of casting processes using ProCAST  software;42;3;462.0
+2;6;5;8;Fundamentals of Metal Forming;42;3;462.0
+2;6;5;9;Techniki wytwarzania nanomateria³ów;42;3;462.0
+2;6;5;10;Tendencje rozwoju rynku i technologii w hutnictwie œwiatowym;42;3;462.0
+2;6;5;11;Nowoczesne techniki ³¹cznoœci;42;3;462.0
 

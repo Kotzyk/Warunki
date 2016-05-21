@@ -1,77 +1,77 @@
-2;7;1;1;Matematyka 1;70;7
-2;7;1;2;Szkolenie w zakresie bezpieczeñstwa i higieny pracy;4;0
-2;7;1;3;Technologia informacyjna;28;2
-2;7;1;4;Podstawy zarz¹dzania i ekonomii;28;2
-2;7;1;5;Chemia;70;7
-2;7;1;6;Biologia i ekologia;70;7
-2;7;1;7;Podstawy nauk o Ziemi;56;5
-2;7;2;1;Fizyka 1;42;4
-2;7;2;2;Matematyka 2;70;8
-2;7;2;3;Podstawy prawa administracyjnego;14;1
-2;7;2;4;Chemiczna analiza instrumentalna;28;2
-2;7;2;5;Ekotoksykologia i ekologia cz³owieka;42;4
-2;7;2;6;Propedeutyka ochrony œrodowiska;28;2
-2;7;2;7;Podstawy grafiki in¿ynierskiej;28;2
-2;7;2;8;Informatyczne podstawy projektowania;56;5
-2;7;2;9;Materia³oznawstwo;28;2
-2;7;3;1;Fizyka 2;56;6
-2;7;3;2;Ochrona w³asnoœci intelektualnej;14;1
-2;7;3;3;Autoprezentacja i komunikacja spo³eczna;14;1
-2;7;3;4;Prawo ochrony œrodowiska;28;2
-2;7;3;5;Termodynamika techniczna;42;5
-2;7;3;6;Mechanika p³ynów;42;5
-2;7;3;7;Mechanika i wytrzyma³oœæ materia³ów;56;6
-2;7;3;8;Grafika komputerowa;28;2
-2;7;3;9;Graficzne projektowanie w in¿ynierii œrodowiska;28;2
-2;7;3;10;Tworzenie i wykorzystanie map;28;2
-2;7;3;11;Kartografia cyfrowa w in¿ynierii œrodowiska;28;2
-2;7;4;1;Budownictwo ogólne i instalacje budowlane;70;7
-2;7;4;2;Fizyka atmosfery z meteorologi¹ i klimatologi¹;28;2
-2;7;4;3;Hydrologia;56;5
-2;7;4;4;Gleboznawstwo;56;5
-2;7;4;5;Zajêcia terenowe z gleboznawstwa;20;1
-2;7;4;6;Zajêcia terenowe z geodezji;20;1
-2;7;4;7;Geodezyjne pozyskiwanie danych o œrodowisku;42;4
-2;7;4;8;Podstawy geodezji;42;4
-2;7;4;9;Ogrzewnictwo, wentylacja i klimatyzacja;56;5
-2;7;4;10;Optymalizacja systemów grzewczych i wentylacyjnych;56;5
-2;7;5;1;Miernictwo przemys³owe;42;5
-2;7;5;2;Rekultywacja;70;7
-2;7;5;3;Budowle przemys³owe;56;6
-2;7;5;4;Podstawy in¿ynierii l¹dowej;56;6
-2;7;5;5;Podstawy in¿ynierii wodnej;56;6
-2;7;5;6;Gospodarka wodna i ochrona wód;42;3
-2;7;5;7;Water Management and Protection;42;3
-2;7;5;8;Systemy informacji przestrzennej;42;3
-2;7;5;9;Geographical Information Systems;42;3
-2;7;6;1;Ochrona powietrza;84;8
-2;7;6;2;Systemy zaopatrzenia w wodê i usuwania œcieków;56;5
-2;7;6;3;Gospodarka odpadami;70;6
-2;7;6;4;Zajêcia terenowe z eksploatacji obiektów in¿ynierii œrodowiska;42;2
-2;7;6;5;Gospodarka terenami rolnymi;28;2
-2;7;6;6;Gospodarka terenami leœnymi;28;2
-2;7;6;7;Ochrona przed ha³asem i wibracjami;28;2
-2;7;6;8;Kontrola klimatu wibroakustycznego œrodowiska;28;2
-2;7;7;1;Gospodarka terenami leœnymi;28;2
-2;7;7;2;Gospodarka terenami rolnymi;28;2
-2;7;7;3;Nadzwyczajne zagro¿enia œrodowiska;28;2
-2;7;7;4;Podstawy projektowania budynków energooszczêdnych;28;2
-2;7;7;5;Techniki CAD w in¿ynierii œrodowiska;28;2
-2;7;7;6;Technologie górnicze w rekultywacji;28;2
-2;7;7;7;Technologie remediacji œrodowiska;28;2
-2;7;7;8;Urz¹dzenia do przesy³u wody;28;2
-2;7;7;9;Wybrane zastosowania GIS dla in¿ynierii œrodowiska;28;2
-2;7;7;10;Wykorzystanie œrodowisk obliczeniowych w zagadnieniach in¿ynierskich;28;2
-2;7;7;11;Zarz¹dzanie projektem;28;2
-2;7;7;12;Pakiet R w analizie danych œrodowiskowych;28;2
-2;7;7;13;Monitoring i rekultywacja wód powierzchniowych;28;2
-2;7;7;14;Field work in Biology and Ecology;28;3
-2;7;7;15;Introduction to Sustainable Development for Engineers;28;3
-2;7;7;16;Soil protection and management;28;3
-2;7;7;17;Ochrona przed polem elektromagnetycznym;14;1
-2;7;7;18;Ochrona przed promieniowaniem jonizuj¹cym;14;1
-2;7;7;19;Pozwolenie na emisje do œrodowiska;14;1
-2;7;7;20;Pozwolenie na wprowadzanie gazów i py³ów do powietrza;28;2
-2;7;7;21;Pozwolenie wodnoprawne;28;2
-2;7;7;22;Pozwolenie na wytwarzanie odpadów;28;2
+7;2;1;1;Matematyka 1;70;7;700.0
+7;2;1;2;Szkolenie w zakresie bezpieczeñstwa i higieny pracy;4;0;40.0
+7;2;1;3;Technologia informacyjna;28;2;280.0
+7;2;1;4;Podstawy zarz¹dzania i ekonomii;28;2;280.0
+7;2;1;5;Chemia;70;7;700.0
+7;2;1;6;Biologia i ekologia;70;7;700.0
+7;2;1;7;Podstawy nauk o Ziemi;56;5;560.0
+7;2;2;1;Fizyka 1;42;4;420.0
+7;2;2;2;Matematyka 2;70;8;700.0
+7;2;2;3;Podstawy prawa administracyjnego;14;1;140.0
+7;2;2;4;Chemiczna analiza instrumentalna;28;2;280.0
+7;2;2;5;Ekotoksykologia i ekologia cz³owieka;42;4;420.0
+7;2;2;6;Propedeutyka ochrony œrodowiska;28;2;280.0
+7;2;2;7;Podstawy grafiki in¿ynierskiej;28;2;280.0
+7;2;2;8;Informatyczne podstawy projektowania;56;5;560.0
+7;2;2;9;Materia³oznawstwo;28;2;280.0
+7;2;3;1;Fizyka 2;56;6;560.0
+7;2;3;2;Ochrona w³asnoœci intelektualnej;14;1;140.0
+7;2;3;3;Autoprezentacja i komunikacja spo³eczna;14;1;140.0
+7;2;3;4;Prawo ochrony œrodowiska;28;2;280.0
+7;2;3;5;Termodynamika techniczna;42;5;420.0
+7;2;3;6;Mechanika p³ynów;42;5;420.0
+7;2;3;7;Mechanika i wytrzyma³oœæ materia³ów;56;6;560.0
+7;2;3;8;Grafika komputerowa;28;2;280.0
+7;2;3;9;Graficzne projektowanie w in¿ynierii œrodowiska;28;2;280.0
+7;2;3;10;Tworzenie i wykorzystanie map;28;2;280.0
+7;2;3;11;Kartografia cyfrowa w in¿ynierii œrodowiska;28;2;280.0
+7;2;4;1;Budownictwo ogólne i instalacje budowlane;70;7;700.0
+7;2;4;2;Fizyka atmosfery z meteorologi¹ i klimatologi¹;28;2;280.0
+7;2;4;3;Hydrologia;56;5;560.0
+7;2;4;4;Gleboznawstwo;56;5;560.0
+7;2;4;5;Zajêcia terenowe z gleboznawstwa;20;1;200.0
+7;2;4;6;Zajêcia terenowe z geodezji;20;1;200.0
+7;2;4;7;Geodezyjne pozyskiwanie danych o œrodowisku;42;4;420.0
+7;2;4;8;Podstawy geodezji;42;4;420.0
+7;2;4;9;Ogrzewnictwo, wentylacja i klimatyzacja;56;5;560.0
+7;2;4;10;Optymalizacja systemów grzewczych i wentylacyjnych;56;5;560.0
+7;2;5;1;Miernictwo przemys³owe;42;5;420.0
+7;2;5;2;Rekultywacja;70;7;700.0
+7;2;5;3;Budowle przemys³owe;56;6;560.0
+7;2;5;4;Podstawy in¿ynierii l¹dowej;56;6;560.0
+7;2;5;5;Podstawy in¿ynierii wodnej;56;6;560.0
+7;2;5;6;Gospodarka wodna i ochrona wód;42;3;420.0
+7;2;5;7;Water Management and Protection;42;3;420.0
+7;2;5;8;Systemy informacji przestrzennej;42;3;420.0
+7;2;5;9;Geographical Information Systems;42;3;420.0
+7;2;6;1;Ochrona powietrza;84;8;840.0
+7;2;6;2;Systemy zaopatrzenia w wodê i usuwania œcieków;56;5;560.0
+7;2;6;3;Gospodarka odpadami;70;6;700.0
+7;2;6;4;Zajêcia terenowe z eksploatacji obiektów in¿ynierii œrodowiska;42;2;420.0
+7;2;6;5;Gospodarka terenami rolnymi;28;2;280.0
+7;2;6;6;Gospodarka terenami leœnymi;28;2;280.0
+7;2;6;7;Ochrona przed ha³asem i wibracjami;28;2;280.0
+7;2;6;8;Kontrola klimatu wibroakustycznego œrodowiska;28;2;280.0
+7;2;7;1;Gospodarka terenami leœnymi;28;2;280.0
+7;2;7;2;Gospodarka terenami rolnymi;28;2;280.0
+7;2;7;3;Nadzwyczajne zagro¿enia œrodowiska;28;2;280.0
+7;2;7;4;Podstawy projektowania budynków energooszczêdnych;28;2;280.0
+7;2;7;5;Techniki CAD w in¿ynierii œrodowiska;28;2;280.0
+7;2;7;6;Technologie górnicze w rekultywacji;28;2;280.0
+7;2;7;7;Technologie remediacji œrodowiska;28;2;280.0
+7;2;7;8;Urz¹dzenia do przesy³u wody;28;2;280.0
+7;2;7;9;Wybrane zastosowania GIS dla in¿ynierii œrodowiska;28;2;280.0
+7;2;7;10;Wykorzystanie œrodowisk obliczeniowych w zagadnieniach in¿ynierskich;28;2;280.0
+7;2;7;11;Zarz¹dzanie projektem;28;2;280.0
+7;2;7;12;Pakiet R w analizie danych œrodowiskowych;28;2;280.0
+7;2;7;13;Monitoring i rekultywacja wód powierzchniowych;28;2;280.0
+7;2;7;14;Field work in Biology and Ecology;28;3;280.0
+7;2;7;15;Introduction to Sustainable Development for Engineers;28;3;280.0
+7;2;7;16;Soil protection and management;28;3;280.0
+7;2;7;17;Ochrona przed polem elektromagnetycznym;14;1;140.0
+7;2;7;18;Ochrona przed promieniowaniem jonizuj¹cym;14;1;140.0
+7;2;7;19;Pozwolenie na emisje do œrodowiska;14;1;140.0
+7;2;7;20;Pozwolenie na wprowadzanie gazów i py³ów do powietrza;28;2;280.0
+7;2;7;21;Pozwolenie wodnoprawne;28;2;280.0
+7;2;7;22;Pozwolenie na wytwarzanie odpadów;28;2;280.0
 

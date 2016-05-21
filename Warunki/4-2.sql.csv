@@ -1,50 +1,50 @@
-2;4;1;1;Fizyka 1;70;5
-2;4;1;2;Algebra;56;4
-2;4;1;3;Analiza matematyczna 1;56;4
-2;4;1;4;Metodyka i techniki programowania 1;56;5
-2;4;1;5;BHP i ergonomia;8;1
-2;4;1;6;Wprowadzenie do elektroniki;28;3
-2;4;1;7;Wprowadzenie do telekomunikacji;42;3
-2;4;1;8;Teoria obwodów 1;56;5
-2;4;2;1;Fizyka 2;84;5
-2;4;2;2;Teoria obwodów 2;56;5
-2;4;2;3;Elementy elektroniczne;56;5
-2;4;2;4;Miernictwo elektroniczne;28;3
-2;4;2;5;Analiza matematyczna 2;84;5
-2;4;2;6;Probabilistyka i statystyka;42;4
-2;4;2;7;Metodyka i techniki programowania 2;42;3
-2;4;3;1;Teoria sygna³ów;70;6
-2;4;3;2;Techniki obliczeniowe;42;4
-2;4;3;3;Systemy operacyjne;56;6
-2;4;3;4;Analogowe uk³ady elektroniczne 1;70;6
-2;4;3;5;Technika cyfrowa i uk³ady programowalne;84;6
-2;4;3;6;Podstawy ekonomii, finansów i prawa  w biznesie;28;2
-2;4;4;1;Analogowe uk³ady elektroniczne 2;56;5
-2;4;4;2;Technika mikroprocesorowa  1;42;4
-2;4;4;3;Cyfrowe przetwarzanie sygna³ów;56;5
-2;4;4;4;Optoelektronika;28;3
-2;4;4;5;Sieci komputerowe;56;5
-2;4;4;6;Symulacja uk³adów elektronicznych;28;3
-2;4;4;7;Ochrona w³asnoœci intelektualnej;8;1
-2;4;4;8;Podstawy konstrukcji mechanicznych;28;2
-2;4;4;9;Narzêdzia CAD;28;2
-2;4;4;10;Wiedza o nauce;28;2
-2;4;4;11;Religie œwiata: cz³owiek a sacrum;28;2
-2;4;4;12; Podstawy negocjacji;28;2
-2;4;4;13;G³ówne zagadnienia i kierunki filozofii;28;2
-2;4;4;14;Globalizacja. Nowe wyzwania wspó³czesnego œwiata.;28;1
-2;4;4;15;Konflikty wspó³czesnego œwiata: nacjonalizm i terroryzm;28;1
-2;4;4;16;Mniejszoœci narodowe w Polsce w XX wieku;28;1
-2;4;4;17;Socjologia;28;1
-2;4;4;18;Socjologia kierowania i organizacji;28;1
-2;4;5;1;Technika mikroprocesorowa  2;42;4
-2;4;5;2;Systemy i sieci telekomunikacyjne;50;5
-2;4;5;3;Laboratorium projektowe;0;3
-2;4;5;4;Jêzyki programowania obiektowego;56;5
-2;4;5;5;Komputerowe systemy pomiarowe;28;4
-2;4;5;6;Scalone uk³ady i systemy elektroniczne;45;4
-2;4;5;7;Techniki mikrofalowe, systemy antenowe i propagacja fal radiowych;56;5
-2;4;6;1;Techniki i systemy bezprzewodowe;52;4
-2;4;6;2;Blok obieralny sem. 6;210;15
-2;4;7;2;Blok obieralny sem. 7;168;12
+4;2;1;1;Fizyka 1;70;5;560.0
+4;2;1;2;Algebra;56;4;448.0
+4;2;1;3;Analiza matematyczna 1;56;4;448.0
+4;2;1;4;Metodyka i techniki programowania 1;56;5;448.0
+4;2;1;5;BHP i ergonomia;8;1;64.0
+4;2;1;6;Wprowadzenie do elektroniki;28;3;224.0
+4;2;1;7;Wprowadzenie do telekomunikacji;42;3;336.0
+4;2;1;8;Teoria obwodów 1;56;5;448.0
+4;2;2;1;Fizyka 2;84;5;672.0
+4;2;2;2;Teoria obwodów 2;56;5;448.0
+4;2;2;3;Elementy elektroniczne;56;5;448.0
+4;2;2;4;Miernictwo elektroniczne;28;3;224.0
+4;2;2;5;Analiza matematyczna 2;84;5;672.0
+4;2;2;6;Probabilistyka i statystyka;42;4;336.0
+4;2;2;7;Metodyka i techniki programowania 2;42;3;336.0
+4;2;3;1;Teoria sygna³ów;70;6;560.0
+4;2;3;2;Techniki obliczeniowe;42;4;336.0
+4;2;3;3;Systemy operacyjne;56;6;448.0
+4;2;3;4;Analogowe uk³ady elektroniczne 1;70;6;560.0
+4;2;3;5;Technika cyfrowa i uk³ady programowalne;84;6;672.0
+4;2;3;6;Podstawy ekonomii, finansów i prawa  w biznesie;28;2;224.0
+4;2;4;1;Analogowe uk³ady elektroniczne 2;56;5;448.0
+4;2;4;2;Technika mikroprocesorowa  1;42;4;336.0
+4;2;4;3;Cyfrowe przetwarzanie sygna³ów;56;5;448.0
+4;2;4;4;Optoelektronika;28;3;224.0
+4;2;4;5;Sieci komputerowe;56;5;448.0
+4;2;4;6;Symulacja uk³adów elektronicznych;28;3;224.0
+4;2;4;7;Ochrona w³asnoœci intelektualnej;8;1;64.0
+4;2;4;8;Podstawy konstrukcji mechanicznych;28;2;224.0
+4;2;4;9;Narzêdzia CAD;28;2;224.0
+4;2;4;10;Wiedza o nauce;28;2;224.0
+4;2;4;11;Religie œwiata: cz³owiek a sacrum;28;2;224.0
+4;2;4;12; Podstawy negocjacji;28;2;224.0
+4;2;4;13;G³ówne zagadnienia i kierunki filozofii;28;2;224.0
+4;2;4;14;Globalizacja. Nowe wyzwania wspó³czesnego œwiata.;28;1;224.0
+4;2;4;15;Konflikty wspó³czesnego œwiata: nacjonalizm i terroryzm;28;1;224.0
+4;2;4;16;Mniejszoœci narodowe w Polsce w XX wieku;28;1;224.0
+4;2;4;17;Socjologia;28;1;224.0
+4;2;4;18;Socjologia kierowania i organizacji;28;1;224.0
+4;2;5;1;Technika mikroprocesorowa  2;42;4;336.0
+4;2;5;2;Systemy i sieci telekomunikacyjne;50;5;400.0
+4;2;5;3;Laboratorium projektowe;0;3;0.0
+4;2;5;4;Jêzyki programowania obiektowego;56;5;448.0
+4;2;5;5;Komputerowe systemy pomiarowe;28;4;224.0
+4;2;5;6;Scalone uk³ady i systemy elektroniczne;45;4;360.0
+4;2;5;7;Techniki mikrofalowe, systemy antenowe i propagacja fal radiowych;56;5;448.0
+4;2;6;1;Techniki i systemy bezprzewodowe;52;4;416.0
+4;2;6;2;Blok obieralny sem. 6;210;15;1680.0
+4;2;7;2;Blok obieralny sem. 7;168;12;1344.0
 
