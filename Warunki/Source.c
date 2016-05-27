@@ -129,39 +129,45 @@ int main(int argc, char *argv[])
 		printf("\n");
 	}
 	printf("Nr: ");
-	scanf("%d", &wyborW);
-	if (wyborW > 9) {
-		//KOD NIE DZIA�A DLA wyborW DWUCYFROWEGO!!!!
-		//TODO: co jesli wyborW > 9 
-	}else
-		wyborW_char[0] = wyborW + '0'; //konwersja wyborW do char a potem do stringa
+	scanf("%s", &wyborW_char);
 
-	if (wyborW < 19) {
-		
+
+int bladW, liczbaK;// błąd W to ograniczenia wydziałow , liczbaK do ograniczenia kierunków
+
 		for (k = 0; k < KIERUNKOW; k++)
 		{
 			
-			if (!strcmp(kierunki[k][0], wyborW_char)) { //strcmp zwraca 0 jesli jest prawda, dlatego !, umie porownywac tylko stringi wiec musialem zamienic wyborW_char na str zwyczajnie
+			if (!strcmp(kierunki[k][0], wyborW_char)) { //strcmp zwraca 0 jesli jest prawda, dlatego !, umie porownywac tylko stringi wiec dlatego trzeba zamienic wyborW_char na str 
 				printf("%s. %s \n", kierunki[k][1], kierunki[k][2]);
+				
+				liczbaK++;
+			}else {
+		
+				bladW++;
 			}
+			
+			}
+		if(bladW== KIERUNKOW){
+				printf("wybor niepoprawny!\n");
+
 		}
-	}
-	else {
-		printf("wybor niepoprawny!");
-	}
+		
+	printf("Nr kierunku: ");
+	scanf("%i", &wyborK);
 
-	printf("Nr: ");
-	scanf("%d", &wyborK);
-	wyborK_char[0] = wyborK + '0';
 
-	if (wyborK < 61) {
+	sprintf(wyborK_char,"%i", wyborK);// int na string!!
+//	printf("zmienna wyborK_char %s",wyborK_char);  sprawdzanie sprintfa
+	
+	if((wyborK>liczbaK)||(wyborK<0)){   //ogrnaiczenie kierunków
+	
+	
+	printf("Wybor niepoprawny");
+	
+	}else {
 		printf("wpisz numer semestru: (0)(1)(2)... \n");
-		scanf("%d", &wyborS);
-		wyborS_char[0] = wyborS + '0';
-	}
-	else {
-		printf("wybor niepoprawny!");
-	}
+		scanf("%s", &wyborS_char);}
+
 
 	snprintf(przedmFname, sizeof(przedmFname), "%s-%s.sql.csv", wyborW_char, wyborK_char); //generowanie nazwy pliku csv
 	printf("%s \n", przedmFname);
