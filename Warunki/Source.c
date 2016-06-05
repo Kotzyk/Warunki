@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define KOLUMNY_A 7
+#define KOLUMNY_A 8
 #define WIERSZE_A 18
 #define KIERUNKOW 60
 #define MAX_CSV 95
@@ -38,9 +38,15 @@ void importPrzedm(char* csv_file, int kolumny)
 		{
 			char* tmp = strdup(line);
 			char* xdd = getfield(tmp, i + 1);
-			przedmioty[j][i] = malloc(strlen(xdd) + 1);
-			strcpy(przedmioty[j][i], xdd);
-			free(tmp);
+			if (xdd != NULL) {
+				przedmioty[j][i] = malloc(strlen(xdd) + 1);
+				strcpy(przedmioty[j][i], xdd);
+				free(tmp);
+			}
+			else
+			{
+				break;
+			}
 		}
 
 		j = j + 1;
@@ -132,7 +138,7 @@ int main(int argc, char *argv[])
 	scanf("%s", &wyborW_char);
 
 
-int bladW, liczbaK;// błąd W to ograniczenia wydziałow , liczbaK do ograniczenia kierunków
+int bladW =0 , liczbaK = 0;// błąd W to ograniczenia wydziałow , liczbaK do ograniczenia kierunków
 
 		for (k = 0; k < KIERUNKOW; k++)
 		{
@@ -161,7 +167,6 @@ int bladW, liczbaK;// błąd W to ograniczenia wydziałow , liczbaK do ogranicze
 	
 	if((wyborK>liczbaK)||(wyborK<0)){   //ogrnaiczenie kierunków
 	
-	
 	printf("Wybor niepoprawny");
 	
 	}else {
@@ -170,8 +175,52 @@ int bladW, liczbaK;// błąd W to ograniczenia wydziałow , liczbaK do ogranicze
 
 
 	snprintf(przedmFname, sizeof(przedmFname), "%s-%s.sql.csv", wyborW_char, wyborK_char); //generowanie nazwy pliku csv
-	printf("%s \n", przedmFname);
+	//printf("%s \n", przedmFname);
+	importPrzedm(przedmFname, 8);
+	for (k = 0; k < MAX_CSV; k++) {
 
+		if (strcmp(przedmioty[k][0], wyborW_char)) {
+			break;
+		}
+		else if(!strcmp(przedmioty[k][0], wyborW_char) && !strcmp(przedmioty[k][1], wyborK_char) && !strcmp(przedmioty[k][2], wyborS_char))
+		{
+			printf("%s. %s \n", przedmioty[k][3], przedmioty[k][4]);
+
+		}
+	}
+	int lprzedm, id;
+	char przedmID[10];
+	printf("Podaj ile przedmiotow chcesz podliczyc: \n");
+	scanf("%d", &lprzedm);
+	for (int a = 0; a < lprzedm; a++) {
+		printf("Podaj ID przedmiotu z kolei nr %d: \n", a + 1);
+		scanf("%d", &id);
+		sprintf(przedmID[a], "%i", id); // rozumiecie co chcę zrobić? chcę zapisać wybory użytkownika do tablicy, a potem porównywać każdy z nich z IDprzedmiotu za pomocą strcopy. Tylko coś się pieprzy. Zrobić to i powinno być wszystko git.
+	}
+	FILE* of = fopen("rachunek.txt", "w");
+	char myout[512];
+	myout[0] = 0;
+	for (int a = 0; a < lprzedm; a++) {
+		for (k = 0; k < MAX_CSV; k++) {
+
+			if (strcmp(przedmioty[k][0], wyborW_char)) {
+				break;
+			}
+			else if (!strcmp(przedmioty[k][0], wyborW_char) && !strcmp(przedmioty[k][1], wyborK_char) && !strcmp(przedmioty[k][2], wyborS_char) && !strcmp(przedmioty[k][3], przedmID[a]))
+			{
+				strcat(myout, przedmioty[k][3]);
+				strcat(myout, ": ");
+				strcat(myout,przedmioty[k][4]);
+				strcat(myout, ": ");
+				strcat(myout, przedmioty[k][8]);
+				strcat(myout, " zl");
+
+			}
+		}
+	}
+
+	fprintf(of, "%s \n", myout);
+	fclose(of);
 	system("Pause");
 	return 0;
 }

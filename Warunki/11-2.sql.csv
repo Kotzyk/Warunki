@@ -1,11 +1,11 @@
 11;2;1;1;Podstawy techniki wiertnictwa, gazownictwa i eksploatacji;28;2;280.0
-11;2;1;2;Górnictwo ogólne                                                        ;28;3;280.0
+11;2;1;2;Górnictwo ogólne;28;3;280.0
 11;2;1;3;Geologia ogólna;56;5;560.0
 11;2;1;4;Ochrona œrodowiska w górnictwie naftowym;56;3;560.0
-11;2;1;5;Matematyka I                                                          ;56;7;560.0
+11;2;1;5;Matematyka I;56;7;560.0
 11;2;1;6;BHP i ergonomia I;42;3;420.0
 11;2;1;7;Chemia ;42;4;420.0
-11;2;1;8;Geometria i grafika in¿ynierska                               ;28;3;280.0
+11;2;1;8;Geometria i grafika in¿ynierska;28;3;280.0
 11;2;2;1;Fizyka I ;56;5;560.0
 11;2;2;2;Informatyka  ;56;4;560.0
 11;2;2;3;Geologia naftowa    ;56;5;560.0
@@ -45,14 +45,12 @@
 11;2;6;9;Eksploatacja z³ó¿ wód;28;2;280.0
 11;2;7;1;Magazynowanie gazu ziemnego ;28;3;280.0
 11;2;7;2;Pozyskiwanie metanu z pok³adów wêgla;28;3;280.0
-11;2;7;3;Prawo geologiczne, górnicze, wodne i budowlane ;42;5;420.0
+11;2;7;3;Prawo geologiczne, górnicze, wodne i budowlane;42;5;420.0
 11;2;7;4;Transport gazu;56;4;560.0
-11;2;7;5;Metody EOR  ;28;3;280.0
-11;2;7;6;Prawo geologiczne, górnicze, wodne i budowlane;42;5;420.0
-11;2;7;7;Zagospodarowanie z³ó¿ ropy ;42;3;420.0
-11;2;7;8;Urz¹dzenia eksploatacyjne  ;42;4;420.0
-11;2;7;9;Urz¹dzenia wiertnicze ;28;3;280.0
-11;2;7;10;Technologia wiercenia otworów;42;3;420.0
-11;2;7;11;Technologia cementowania;42;4;420.0
-11;2;7;12;Prawo geologiczne, górnicze, wodne i budowlane                  ;42;5;420.0
+11;2;7;5;Metody EOR;28;3;280.0
+11;2;7;6;Zagospodarowanie z³ó¿ ropy ;42;3;420.0
+11;2;7;7;Urz¹dzenia eksploatacyjne  ;42;4;420.0
+11;2;7;8;Urz¹dzenia wiertnicze ;28;3;280.0
+11;2;7;9;Technologia wiercenia otworów;42;3;420.0
+11;2;7;10;Technologia cementowania;42;4;420.0
 

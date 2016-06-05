@@ -7,11 +7,11 @@
 11;1;1;7;Geometria i grafika in¿ynierska   ;28;3;280.0
 11;1;1;8;Technologie informacyjne  ;28;3;280.0
 11;1;2;1;Fizyka I;56;5;560.0
-11;1;2;2;Geologia z³ó¿ wêglowodorów     ;28;3;280.0
-11;1;2;3;Ochrona œrodowiska      ;56;4;560.0
-11;1;2;4;Matematyka II  ;56;7;560.0
-11;1;2;5;Informatyka  ;42;3;420.0
-11;1;2;6;Chemia organiczna       ;28;5;280.0
+11;1;2;2;Geologia z³ó¿ wêglowodorów;28;3;280.0
+11;1;2;3;Ochrona œrodowiska;56;4;560.0
+11;1;2;4;Matematyka II ;56;7;560.0
+11;1;2;5;Informatyka;42;3;420.0
+11;1;2;6;Chemia organiczna;28;5;280.0
 11;1;2;7;Mechanika;42;3;420.0
 11;1;3;1;Fizyka  II  ;56;7;560.0
 11;1;3;2;Geofizyka;42;4;420.0
@@ -29,7 +29,7 @@
 11;1;5;1;Przep³ywy p³ynu w z³o¿ach  ;28;3;280.0
 11;1;5;2;Podstawy In¿ynierii z³o¿owej  ;42;6;420.0
 11;1;5;3;Podstawy gazownictwa ziemnego;42;5;420.0
-11;1;5;4;Horyzontalne przewierty sterowane                                 ;28;3;280.0
+11;1;5;4;Horyzontalne przewierty sterowane;28;3;280.0
 11;1;5;5;Eksploatacja z³ó¿ wód podziemnych;28;3;280.0
 11;1;5;6;Ochrona w³asnoœci intelektualnych (Przedmiot spo³eczny 1);28;2;280.0
 11;1;5;7;Prawo geologiczne, górnicze, wodne i budowlane      ;56;5;560.0
@@ -51,13 +51,10 @@
 11;1;7;5;Podziemne magazynowanie gazu;28;3;280.0
 11;1;7;6;Transport i dystrybucja gazu;56;5;560.0
 11;1;7;7;Testowanie odwiertów I;28;3;280.0
-11;1;7;8;Kierunki rozwoju górnictwa otworowego (przedmiot w j. angielskim dla visiting professors);56;4;560.0
-11;1;7;9;Dystrybucja wód;56;5;560.0
-11;1;7;10;Geochemia œrodowiska  ;28;3;280.0
-11;1;7;11;Niekonwencjonalne Ÿród³a energii;28;3;280.0
-11;1;7;12;Kierunki rozwoju górnictwa otworowego (przedmiot w j. angielskim dla visiting professors);56;4;560.0
-11;1;7;13;Rekonstrukcje i likwidacja otworów;28;3;280.0
-11;1;7;14;Projektowanie otworów wiertniczych;42;3;420.0
-11;1;7;15;Technologia wiercenia otworów ;42;5;420.0
-11;1;7;16;Kierunki rozwoju górnictwa otworowego (przedmiot w j. angielskim dla visiting professors));56;4;560.0
+11;1;7;8;Dystrybucja wód;56;5;560.0
+11;1;7;9;Geochemia œrodowiska  ;28;3;280.0
+11;1;7;10;Niekonwencjonalne Ÿród³a energii;28;3;280.0
+11;1;7;11;Rekonstrukcje i likwidacja otworów;28;3;280.0
+11;1;7;12;Projektowanie otworów wiertniczych;42;3;420.0
+11;1;7;13;Technologia wiercenia otworów ;42;5;420.0
 
