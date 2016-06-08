@@ -219,8 +219,10 @@ int main(int argc, char *argv[])
 	do {
 		scanf("%d", &lprzedm);
 		sprintf(id_str, "%d", lprzedm);
+		if (!isNumeric(id_str) || lprzedm > 9) {
 			printf("Wybor niepoprawny! \nWpisz ponownie! \n");
 		}
+	} while (!isNumeric(id_str) || lprzedm > 9);
 
 
 	for (int a = 0; a < lprzedm; a++) {
