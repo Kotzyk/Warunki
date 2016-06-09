@@ -71,6 +71,7 @@
     <None Include="1-2.sql.csv" />
     <None Include="1-1.sql.csv" />
     <None Include="17-1.sql.csv" />
+    <None Include="18-1.sql.csv" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.c">
