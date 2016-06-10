@@ -12,24 +12,25 @@ char* przedmioty[MAX_CSV][KOLUMNY_A];
 char* wydzialy[WIERSZE_A][2];
 char* kierunki[KIERUNKOW][3];
 
-int int_check(char tab[]){
-    int czy_liczba = 1;
-    int i;
-    for (i = 0; i<strlen(tab); i++)
-    {
-        if (tab[i] < 48 || tab[i] > 57){
-            czy_liczba = 0;
-            break;
-        }
-    }
-    if(czy_liczba==1){
+int int_check(char tab[]) {
+	int czy_liczba = 1;
+	int i;
+	for (i = 0; i<strlen(tab); i++)
+	{
+		if (tab[i] < 48 || tab[i] > 57) {
+			czy_liczba = 0;
+			break;
+		}
+	}
+	if (czy_liczba == 1) {
 		return 1;
-    }
-    else{
+	}
+	else {
 		return 0;
-    }
+	}
 
 }
+
 
 char* getfield(char* line, int num)
 {
@@ -130,10 +131,10 @@ int main(int argc, char *argv[])
 {
 	int k, l, wyborW, wyborK;
 	unsigned wyborS;
-	char wyborW_char[3] = { "\0" };
-	char wyborK_char[2] = { "\0" };
-	char wyborS_char[2] = { "\0" };
-	char przedmFname[13];
+	char* wyborW_char[3] = { "\0" };
+	char* wyborK_char[2] = { "\0" };
+	char* wyborS_char[2] = { "\0" };
+	char* przedmFname[13];
 	int bladW = 0, liczbaK = 0;// błąd W to ograniczenia wydziałow , liczbaK do ograniczenia kierunków
 
 	importWydz("wydzialy.csv", 2);
@@ -184,16 +185,17 @@ int main(int argc, char *argv[])
 	// IDOTOODPORNY WYBOR KIERUNKU
 	printf("Nr kierunku: ");
 	do {
-		scanf("%s", &wyborK_char);
-		
-		if (atoi(wyborK_char) > liczbaK || atoi(wyborK_char) < 0 || !int_check(wyborK_char)) {   //ogrnaiczenie kierunków
+		scanf("%i", &wyborK);
+		wyborK_char[0] = '\0';
+		sprintf(wyborK_char, "%i", wyborK);
+		if ((wyborK > liczbaK) || ((wyborK < 0) && (wyborK < -100)) || !int_check(wyborK_char)) {   //ogrnaiczenie kierunków
 
 			printf("Wybor niepoprawny! \n");
 		}
-	} while (atoi(wyborK_char) > liczbaK || atoi(wyborK_char) < 0 || !int_check(wyborK_char));
+	} while ((wyborK > liczbaK) || ((wyborK < 0) && (wyborK < -100)) || !int_check(wyborK_char));
 
 	// int na string!!
-//	            printf("zmienna wyborK_char %s",wyborK_char);  sprawdzanie sprintfa
+	//	            printf("zmienna wyborK_char %s",wyborK_char);  sprawdzanie sprintfa
 
 	printf("wpisz numer semestru: (0)(1)(2)... \n");
 	// IDOTOODPORNY WYBOR SEMESTRU
@@ -205,8 +207,8 @@ int main(int argc, char *argv[])
 	} while (atoi(wyborS_char) > 7 || atoi(wyborS_char) < 0 || !int_check(wyborS_char));
 
 	snprintf(przedmFname, sizeof(przedmFname), "%s-%s.sql.csv", wyborW_char, wyborK_char); //generowanie nazwy pliku csv
-	//printf("%s \n", przedmFname);
-	
+																						   //printf("%s \n", przedmFname);
+
 	importPrzedm(przedmFname, 8);
 	for (k = 0; k < MAX_CSV; k++) {
 
@@ -220,35 +222,32 @@ int main(int argc, char *argv[])
 		}
 	}
 
-	
-	char przedmID[9], id_str[2] = "\0", nr[2] = "\0";
+	int lprzedm, id;
+	char przedmID[9][2], id_str[3];
 	printf("Podaj ile przedmiotow chcesz podliczyc: \n");
 	do {
-		scanf("%s", &id_str);
-		if (!int_check(id_str) || atoi(id_str) > 9 || atoi(id_str) < 0) {
+		scanf("%d", &lprzedm);
+		sprintf(id_str, "%d", lprzedm);
+		if (!int_check(id_str) || lprzedm > 9) {
 			printf("Wybor niepoprawny! \nWpisz ponownie! \n");
 		}
-	} while (!int_check(id_str) || atoi(id_str) > 9 || atoi(id_str) < 0);
+	} while (!int_check(id_str) || lprzedm > 9);
 
 
-	for (int a = 0; a < atoi(id_str); a++) {
+	for (int a = 0; a < lprzedm; a++) {
 		printf("Podaj ID przedmiotu z kolei nr %d: \n", a + 1);
-		do {
-			scanf("%s", &nr);
-			if (!int_check(nr) || atoi(nr) < 0) {
-				printf("Wybor niepoprawny! \nWpisz ponownie! \n");
-			}
-		} while (!int_check(nr) || atoi(nr) < 0);
-		przedmID[a] = nr;
+		scanf("%d", &id);
+		przedmID[a][1] = '\0';
+		przedmID[a][0] = id + '0';
 		//sprintf(przedmID[a], "%i", id); 
-		
+
 	}
 	FILE* of = fopen("rachunek.txt", "w");
 	char myout[512], suma_Str[25], deficyt_s[5];
 	int ects, ects_suma = 0;
 	float suma = 0, koszt;
 	myout[0] = 0;
-	for (int a = 0; a < atoi(id_str); a++) {
+	for (int a = 0; a < lprzedm; a++) {
 		for (k = 0; k < MAX_CSV; k++) {
 
 			if (strcmp(przedmioty[k][0], wyborW_char)) {

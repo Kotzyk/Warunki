@@ -203,9 +203,6 @@
     <None Include="Przedmiotytest.csv" />
     <None Include="Wydzialy.csv" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="rachunek.txt" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
